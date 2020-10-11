@@ -1,0 +1,23 @@
+https://covid-19.nczisk.sk/sk 
+
+request je pre den 10/09/2020
+TODO: custom daterange nech to vieme robit po dnoch
+
+----- curl start
+curl 'https://wabi-west-europe-api.analysis.windows.net/public/reports/querydata?synchronous=true' \
+  -H 'Connection: keep-alive' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'RequestId: 88d01ba7-92d4-4569-ea4a-7aa655e6bfba' \
+  -H 'X-PowerBI-ResourceKey: 450078b8-b12a-4c9a-b539-38e173bf4b5c' \
+  -H 'Content-Type: application/json;charset=UTF-8' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36' \
+  -H 'ActivityId: fa32634c-a687-4bad-acff-2373e043706d' \
+  -H 'Origin: https://app.powerbi.com' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://app.powerbi.com/' \
+  -H 'Accept-Language: en-GB,en;q=0.9,ru-RU;q=0.8,ru;q=0.7,en-US;q=0.6' \
+  --data-binary $'{"version":"1.0.0","queries":[{"Query":{"Commands":[{"SemanticQueryDataShapeCommand":{"Query":{"Version":2,"From":[{"Name":"w","Entity":"Web - Pozitivne nalezy","Type":0}],"Select":[{"Column":{"Expression":{"SourceRef":{"Source":"w"}},"Property":"Nazov_okresu"},"Name":"Web - Pozitivne nalezy.Nazov_okresu"},{"Aggregation":{"Expression":{"Column":{"Expression":{"SourceRef":{"Source":"w"}},"Property":"Count"}},"Function":0},"Name":"Sum(Web - Pozitivne nalezy.Count)"}],"Where":[{"Condition":{"Not":{"Expression":{"In":{"Expressions":[{"Column":{"Expression":{"SourceRef":{"Source":"w"}},"Property":"Nazov_okresu"}}],"Values":[[{"Literal":{"Value":"null"}}]]}}}}},{"Condition":{"And":{"Left":{"Comparison":{"ComparisonKind":2,"Left":{"Column":{"Expression":{"SourceRef":{"Source":"w"}},"Property":"Dátum"}},"Right":{"Literal":{"Value":"datetime\'2020-09-10T00:00:00\'"}}}},"Right":{"Comparison":{"ComparisonKind":3,"Left":{"Column":{"Expression":{"SourceRef":{"Source":"w"}},"Property":"Dátum"}},"Right":{"Literal":{"Value":"datetime\'2020-09-11T00:00:00\'"}}}}}}},{"Condition":{"Between":{"Expression":{"Column":{"Expression":{"SourceRef":{"Source":"w"}},"Property":"Dátum"}},"LowerBound":{"DateSpan":{"Expression":{"DateAdd":{"Expression":{"DateAdd":{"Expression":{"DateAdd":{"Expression":{"Now":{}},"Amount":-1,"TimeUnit":0}},"Amount":1,"TimeUnit":0}},"Amount":-1,"TimeUnit":3}},"TimeUnit":0}},"UpperBound":{"DateSpan":{"Expression":{"DateAdd":{"Expression":{"Now":{}},"Amount":-1,"TimeUnit":0}},"TimeUnit":0}}}}}],"OrderBy":[{"Direction":2,"Expression":{"Aggregation":{"Expression":{"Column":{"Expression":{"SourceRef":{"Source":"w"}},"Property":"Count"}},"Function":0}}}]},"Binding":{"Primary":{"Groupings":[{"Projections":[0,1]}]},"DataReduction":{"DataVolume":3,"Primary":{"Window":{"Count":500}}},"Version":1}}}]},"QueryId":"","ApplicationContext":{"DatasetId":"53e73f79-7034-4c9e-a7cf-4f70b21408df","Sources":[{"ReportId":"bd4d0ccb-041e-4d1d-aa0a-f450f1422db3"}]}}],"cancelQueries":[],"modelId":3494954}' \
+  --compressed
+----- curl end
