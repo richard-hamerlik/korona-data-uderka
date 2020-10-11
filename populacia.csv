@@ -1,0 +1,4209 @@
+,village_name,district_name,population
+0,Ábelová,Lučenec,196.0
+1,Abovce,Rimavská Sobota,626.0
+2,Abrahám,Galanta,1055.0
+3,Abrahámovce,Kežmarok,269.0
+4,Abrahámovce,Bardejov,341.0
+5,Abramová,Turčianske Teplice,177.0
+6,Abranovce,Prešov,696.0
+7,Adamovské_Kochanovce,Trenčín,888.0
+8,Adidovce,Humenné,221.0
+9,Albínov,Trebišov,164.0
+10,Alekšince,Nitra,1669.0
+11,Alexandrov_Dvor,Nitra,NaN
+12,Alžbetin_Dvor,Senec,NaN
+13,Amadeho_Kračany,Dunajská Streda,NaN
+14,Aňala,Komárno,NaN
+15,Aňalské_Záhrady,Komárno,NaN
+16,Andač,Nitra,NaN
+17,Andice,Liptovský Mikuláš,NaN
+18,Andovce,Nové Zámky,1579
+19,Andrejová,Bardejov,366
+20,Andrejovka,Stará Ľubovňa,NaN
+21,Arad,Nové Zámky,NaN
+22,Ardanovce,Topoľčany,207
+23,Ardovo,Rožňava,163
+24,Arma,Levice,NaN
+25,Arnutovce,Spišská Nová Ves,809
+26,Báb,Nitra,1115
+27,Babie,Vranov nad Topľou,236
+28,Babín,Námestovo,1442
+29,Babin_Potok,Prešov,NaN
+30,Babiná,Zvolen,550
+31,Babindol,Nitra,808
+32,Babinec,Rimavská Sobota,60
+33,Babiše,Bytča,NaN
+34,Babkov,Žilina,NaN
+35,Babulicov_Vrch,Myjava,NaN
+36,Bacúch,Brezno,911
+37,Bacúrov,Zvolen,165
+38,Báč,Dunajská Streda,551
+39,Bačala,Nitra,NaN
+40,Bačka,Trebišov,638
+41,Bačkov,Trebišov,719
+42,Bačkovík,Košice-okolie,585
+43,Báčovce,Krupina,NaN
+44,Baďan,Banská Štiavnica,172
+45,Bádice,Nitra,376
+46,Badín,Banská Bystrica,2028
+47,Báhoň,Pezinok,1856
+48,Bajany,Michalovce,466
+49,Bajč,Komárno,1222
+50,Bajerov,Prešov,439
+51,Bajerovce,Sabinov,290
+52,Bajka,Levice,330
+53,Bajtava,Nové Zámky,401
+54,Baka,Dunajská Streda,1095
+55,Bakta,Rimavská Sobota,NaN
+56,Baláže,Banská Bystrica,218
+57,Baldovce,Levoča,169
+58,Balog_nad_Ipľom,Veľký Krtíš,788
+59,Baloň,Dunajská Streda,727
+60,Balvany,Komárno,NaN
+61,Baňa,Stropkov,187
+62,Baňa_Lucia,Košice-okolie,NaN
+63,Banka,Piešťany,2060
+64,Banky,Banská Štiavnica,NaN
+65,Banky,Prievidza,NaN
+66,Bánov,Nové Zámky,3703
+67,Bánová,Žilina,1871
+68,Bánovce_nad_Bebravou,Bánovce nad Bebravou,17750
+69,Bánovce_nad_Ondavou,Michalovce,724
+70,Banská,Prievidza,NaN
+71,Banská_Belá,Banská Štiavnica,1172
+72,Banská_Bystrica,Banská Bystrica,78084
+73,Banská_Hodruša,Žarnovica,2165
+74,Banská_Štiavnica,Banská Štiavnica,10004
+75,Banské,Vranov nad Topľou,1909
+76,Banský_Studenec,Banská Štiavnica,467
+77,Bara,Trebišov,279
+78,Barca,Rimavská Sobota,611
+79,Bardejov,Bardejov,32293
+80,Bardejovská_Nová_Ves,Bardejov,NaN
+81,Bardejovská_Zábava,Bardejov,NaN
+82,Bardejovské_Kúpele,Bardejov,NaN
+83,Bardoňovo,Nové Zámky,687
+84,Bartošova_Lehôtka,Žiar nad Hronom,352
+85,Bartošovce,Bardejov,729
+86,Baška,Košice-okolie,675
+87,Baškovce,Humenné,404
+88,Baškovce,Sobrance,238
+89,Bašovce,Piešťany,342
+90,Baštín,Partizánske,NaN
+91,Batizovce,Poprad,2481
+92,Bátka,Rimavská Sobota,874
+93,Bátorová,Veľký Krtíš,372
+94,Bátorove_Kosihy,Komárno,3335
+95,Bátovce,Levice,1174
+96,Beckov,Nové Mesto nad Váhom,NaN
+97,Beckovská_Vieska,Nové Mesto nad Váhom,NaN
+98,Bečov,Banská Bystrica,1575
+99,Beharovce,Levoča,159
+100,Behynce,Topoľčany,NaN
+101,Behynce,Revúca,NaN
+102,Becherov,Bardejov,287
+103,Beketfa,Dunajská Streda,NaN
+104,Belá,Žilina,3380
+105,Belá,Nové Zámky,316
+106,Belá_-_Dulice,Martin,NaN
+107,Belá_nad_Cirochou,Snina,3399
+108,Beladice,Zlaté Moravce,1689
+109,Belejov,Považská Bystrica,NaN
+110,Belejovce,Svidník,15
+111,Belek,Nové Zámky,NaN
+112,Belín,Rimavská Sobota,190
+113,Belina,Lučenec,NaN
+114,Belince,Topoľčany,349
+115,Bellova_Ves,Dunajská Streda,326
+116,Beloveža,Bardejov,784
+117,Beluj,Banská Štiavnica,135
+118,Beluša,Púchov,5947
+119,Belža,Košice-okolie,423
+120,Beňadiková,Liptovský Mikuláš,536
+121,Beňadikovce,Svidník,201
+122,Beňadovo,Námestovo,895
+123,Beňatina,Sobrance,185
+124,Beniakovce,Košice-okolie,760
+125,Benice,Liptovský Mikuláš,NaN
+126,Benice,Martin,356
+127,Benkova_Potôň,Dunajská Streda,NaN
+128,Benkovce,Vranov nad Topľou,551
+129,Beňov,Bytča,NaN
+130,Beňova_Lehota,Dolný Kubín,NaN
+131,Beňuš,Brezno,1170
+132,Beňušovce,Liptovský Mikuláš,NaN
+133,Bernátovce,Košice-okolie,NaN
+134,Bernolákovo,Senec,8194
+135,Bertotovce,Prešov,507
+136,Besné,Považská Bystrica,NaN
+137,Beša,Michalovce,369
+138,Beša,Levice,639
+139,Bešeňov,Nové Zámky,1619
+140,Bešeňová,Ružomberok,773
+141,Betlanovce,Spišská Nová Ves,736
+142,Betlenovce,Michalovce,NaN
+143,Betliar,Rožňava,942
+144,Bezdedov_-_Vieska,Púchov,NaN
+145,Bežovce,Sobrance,977
+146,Bidovce,Košice-okolie,1609
+147,Biel,Trebišov,1369
+148,Biela,Dolný Kubín,NaN
+149,Biela_Voda,Prievidza,NaN
+150,Biele_Vody,Spišská Nová Ves,NaN
+151,Biele_Vody,Brezno,NaN
+152,Bielovce,Levice,227
+153,Biely_Kostol,Trnava,2254
+154,Biely_Potok,Ružomberok,NaN
+155,Bijacovce,Levoča,958
+156,Bílkove_Humence,Senica,205
+157,Bíňa,Nové Zámky,1436
+158,Bindt,Spišská Nová Ves,NaN
+159,Bíňovce,Trnava,677
+160,Biskupice,Trenčín,NaN
+161,Biskupice,Bánovce nad Bebravou,NaN
+162,Biskupice,Lučenec,1145
+163,Biskupová,Topoľčany,235
+164,Bitarová,Žilina,768
+165,Blahová,Dunajská Streda,356
+166,Blatná_na_Ostrove,Dunajská Streda,935
+167,Blatná_Polianka,Sobrance,163
+168,Blatné,Senec,1801
+169,Blatné_Remety,Sobrance,695
+170,Blatné_Revištia,Sobrance,187
+171,Blatnica,Martin,NaN
+172,Blažice,Košice-okolie,639
+173,Blažkov,Čadca,NaN
+174,Blažková,Čadca,NaN
+175,Blažovce,Turčianske Teplice,165
+176,Blesovce,Topoľčany,339
+177,Blhovce,Rimavská Sobota,792
+178,Bobot,Trenčín,772
+179,Bobotská_Lehota,Trenčín,NaN
+180,Bobrov,Námestovo,1888
+181,Bobrovček,Liptovský Mikuláš,176
+182,Bobrovec,Liptovský Mikuláš,NaN
+183,Bobrovník,Liptovský Mikuláš,135
+184,Bočiar,Košice-okolie,258
+185,Bodice,Liptovský Mikuláš,NaN
+186,Bodíky,Dunajská Streda,273
+187,Bodiná,Považská Bystrica,494
+188,Bodok,Topoľčany,NaN
+189,Bodorová,Turčianske Teplice,234
+190,Bodov,Senec,NaN
+191,Bodovce,Sabinov,355
+192,Bodovka_-_Krivosúd,Trenčín,NaN
+193,Bodružal,Svidník,63
+194,Bodza,Komárno,378
+195,Bodzianske_Lúky,Komárno,188
+196,Bogliarka,Bardejov,106
+197,Bohatá,Komárno,NaN
+198,Bohdanovce,Košice-okolie,1132
+199,Bohdanovce_nad_Trnavou,Trnava,1487
+200,Boheľov,Dunajská Streda,353
+201,Bohunice,Ilava,799
+202,Bohunice,Trnava,NaN
+203,Bohunice,Levice,143
+204,Bohúňovo,Rožňava,286
+205,Bojná,Topoľčany,2030
+206,Bojnice,Prievidza,4992
+207,Bojnice_-_kúpele,Prievidza,NaN
+208,Bojničky,Hlohovec,1419
+209,Bokroš,Komárno,NaN
+210,Bokša,Stropkov,NaN
+211,Boľ,Trebišov,760
+212,Boldog,Senec,474
+213,Boleráz,Trnava,2385
+214,Bolešov,Ilava,1556
+215,Boliarov,Košice-okolie,945
+216,Boľkovce,Lučenec,622
+217,Borcová,Turčianske Teplice,143
+218,Borčany,Bánovce nad Bebravou,259
+219,Borčice,Ilava,655
+220,Borda,Košice-okolie,NaN
+221,Borinka,Malacky,821
+222,Borov,Medzilaborce,NaN
+223,Borová,Trnava,457
+224,Borovce,Piešťany,1062
+225,Borský_Mikuláš,Senica,3999
+226,Borský_Peter,Senica,NaN
+227,Borský_Svätý_Jur,Senica,1634
+228,Borša,Trebišov,1125
+229,Bory,Levice,314
+230,Bošáca,Nové Mesto nad Váhom,1404
+231,Bošany,Partizánske,4123
+232,Bošianska_Neporadza,Trenčín,NaN
+233,Boťany,Trebišov,1224
+234,Bottovo,Rimavská Sobota,195
+235,Božčice,Trebišov,NaN
+236,Bôrka,Rožňava,595
+237,Bracovce,Michalovce,935
+238,Brádno,Rimavská Sobota,NaN
+239,Branč,Nitra,2221
+240,Branovo,Nové Zámky,575
+241,Bratislava,Bratislava I,437725
+242,Bratislava_-_Čunovo,Bratislava V,1532
+243,Bratislava_-_Devín,Bratislava IV,1679
+244,Bratislava_-_Devínska_Nová_Ves,Bratislava IV,NaN
+245,Bratislava_-_Dúbravka,Bratislava IV,33665
+246,Bratislava_-_Jarovce,Bratislava V,2500
+247,Bratislava_-_Karlova_Ves,Bratislava IV,33350
+248,Bratislava_-_Lamač,Bratislava IV,7313
+249,Bratislava_-_Nové_Mesto,Bratislava III,39618
+250,Bratislava_-_Petržalka,Bratislava V,104174
+251,Bratislava_-_Podunajské_Biskupice,Bratislava II,22231
+252,Bratislava_-_Rača,Bratislava III,23904
+253,Bratislava_-_Rusovce,Bratislava V,4133
+254,Bratislava_-_Ružinov,Bratislava II,73872
+255,Bratislava_-_Staré_Mesto,Bratislava I,NaN
+256,Bratislava_-_Vajnory,Bratislava III,5957
+257,Bratislava_-_Vrakuňa,Bratislava II,20120
+258,Bratislava_-_Záhorská_Bystrica,Bratislava IV,6014
+259,Bratkovica,Detva,NaN
+260,Braväcovo,Brezno,688
+261,Brdárka,Rožňava,63
+262,Brehov,Trebišov,599
+263,Brehy,Žarnovica,1040
+264,Brekov,Humenné,NaN
+265,Brestina,Lučenec,NaN
+266,Brestov,Humenné,625
+267,Brestov,Prešov,448
+268,Brestov_nad_Laborcom,Medzilaborce,102
+269,Brestovany,Trnava,2655
+270,Brestové,Nové Mesto nad Váhom,NaN
+271,Brestovec,Myjava,998
+272,Brestovec,Komárno,475
+273,Bretejovce,Prešov,427
+274,Bretka,Rožňava,395
+275,Breza,Námestovo,1631
+276,Brezany,Žilina,651
+277,Brezany,Prievidza,651
+278,Brezina,Trebišov,649
+279,Breziny,Zvolen,378
+280,Breznica,Stropkov,840
+281,Breznička,Stropkov,122
+282,Breznička,Poltár,743
+283,Brezno,Brezno,20889
+284,Brezolupy,Bánovce nad Bebravou,522
+285,Brezov,Bardejov,368
+286,Brezová_pod_Bradlom,Myjava,4768
+287,Brezovec,Snina,42
+288,Brezovica,Tvrdošín,1347
+289,Brezovica,Sabinov,1716
+290,Brezovička,Sabinov,411
+291,Brezovka,Bardejov,113
+292,Brežany,Prešov,190
+293,Brhlovce,Levice,309
+294,Briestenné,Považská Bystrica,NaN
+295,Brieštie,Turčianske Teplice,134
+296,Brišovka,Námestovo,NaN
+297,Brnice,Liptovský Mikuláš,NaN
+298,Brodno,Žilina,1316
+299,Brodské,Skalica,2277
+300,Brodzany,Partizánske,869
+301,Bršlica,Bytča,NaN
+302,Bruchačka,Brezno,NaN
+303,Brunovce,Nové Mesto nad Váhom,572
+304,Brusnica,Stropkov,392
+305,Brusník,Revúca,NaN
+306,Brusník,Veľký Krtíš,119
+307,Brusno,Prievidza,NaN
+308,Brusno,Banská Bystrica,NaN
+309,Brusno_-_kúpele,Banská Bystrica,NaN
+310,Brutovce,Levoča,157
+311,Bruty,Nové Zámky,592
+312,Brvnište,Považská Bystrica,1218
+313,Brzotín,Rožňava,1368
+314,Buclovany,Bardejov,199
+315,Búč,Komárno,1104
+316,Bučany,Trnava,2362
+317,Bučina,Námestovo,NaN
+318,Bučkovec,Nové Mesto nad Váhom,NaN
+319,Bučuháza,Dunajská Streda,NaN
+320,Budatín,Žilina,1788
+321,Budatínska_Lehota,Kysucké Nové Mesto,NaN
+322,Budča,Zvolen,1341
+323,Budička,Zvolen,NaN
+324,Budikovany,Rimavská Sobota,59
+325,Budimír,Košice-okolie,1249
+326,Budiná,Lučenec,224
+327,Budince,Michalovce,228
+328,Budiš,Turčianske Teplice,196
+329,Budkovce,Michalovce,1526
+330,Budmerice,Pezinok,2406
+331,Budulov,Košice-okolie,NaN
+332,Budzín,Sabinov,NaN
+333,Buglovce,Levoča,284
+334,Bujakovo,Brezno,NaN
+335,Buková,Bytča,NaN
+336,Buková,Trnava,655
+337,Bukovce,Stropkov,529
+338,Bukovec,Košice-okolie,834
+339,Bukovec,Myjava,454
+340,Bukovec,Veľký Krtíš,NaN
+341,Bukovina,Liptovský Mikuláš,97
+342,Bukovina,Žiar nad Hronom,NaN
+343,Bukovina,Žarnovica,NaN
+344,Bukovinka,Levoča,NaN
+345,Bukovinka,Detva,NaN
+346,Bulhary,Lučenec,311
+347,Bunde,Prešov,1306
+348,Bunetice,Košice-okolie,92
+349,Bunkovce,Sobrance,367
+350,Bušince,Veľký Krtíš,1416
+351,Bušovce,Kežmarok,301
+352,Búštelek,Dunajská Streda,NaN
+353,Butty,Čadca,NaN
+354,Buzica,Košice-okolie,1217
+355,Buzice,Košice-okolie,NaN
+356,Buzitka,Lučenec,503
+357,Byster,Košice-okolie,NaN
+358,Bystrá,Stropkov,23
+359,Bystrá,Brezno,181
+360,Bystrany,Spišská Nová Ves,3666
+361,Bystré,Vranov nad Topľou,2698
+362,Bystričany,Prievidza,1805
+363,Bystrička,Martin,1479
+364,Bystrička,Komárno,NaN
+365,Bystrička,Poltár,NaN
+366,Byšta,Trebišov,NaN
+367,Bytča,Bytča,11363
+368,Bytčica,Žilina,2046
+369,Bzenica,Žiar nad Hronom,604
+370,Bzenov,Prešov,772
+371,Bzince,Topoľčany,NaN
+372,Bzince_pod_Javorinou,Nové Mesto nad Váhom,2110
+373,Bziny,Dolný Kubín,582
+374,Bzovík,Krupina,1165
+375,Bzovská_Lehôtka,Zvolen,130
+376,Bžany,Stropkov,199
+377,Cabaj,Nitra,NaN
+378,Cabaj_-_Čápor,Nitra,NaN
+379,Cabov,Vranov nad Topľou,386
+380,Cakov,Rimavská Sobota,335
+381,Cejkov,Trebišov,1176
+382,Celulózka,Žilina,NaN
+383,Cemjata,Prešov,NaN
+384,Cernina,Svidník,581
+385,Cerová,Senica,1133
+386,Cerová,Prievidza,NaN
+387,Ceroviny,Nitra,NaN
+388,Cerovo,Krupina,591
+389,Cestice,Košice-okolie,844
+390,Cetuna,Nové Mesto nad Váhom,NaN
+391,Cífer,Trnava,4370
+392,Cigeľ,Prievidza,1258
+393,Cigeľka,Bardejov,NaN
+394,Cigla,Svidník,68
+395,Cimenná,Bánovce nad Bebravou,100
+396,Cinobaňa,Poltár,2217
+397,Cunín,Skalica,NaN
+398,Čab,Nitra,798
+399,Čabalovce,Medzilaborce,342
+400,Čabiny,Medzilaborce,326
+401,Čabradský_Vrbovok,Krupina,232
+402,Čačín,Banská Bystrica,NaN
+403,Čáčov,Senica,NaN
+404,Čadca,Čadca,23941
+405,Čadca_-_Kyčerka,Čadca,NaN
+406,Čadečka,Čadca,NaN
+407,Čachtice,Nové Mesto nad Váhom,3905
+408,Čajakovo,Levice,1476
+409,Čajkov,Levice,948
+410,Čaka,Levice,733
+411,Čakajovce,Nitra,1161
+412,Čakanovce,Košice-okolie,703
+413,Čakanovce,Lučenec,1167
+414,Čakany,Dunajská Streda,646
+415,Čaklov,Vranov nad Topľou,2704
+416,Čalovec,Komárno,1161
+417,Čamovce,Lučenec,603
+418,Čaňa,Košice-okolie,6056
+419,Čankov,Levice,NaN
+420,Čápor,Nitra,NaN
+421,Čaradice,Zlaté Moravce,490
+422,Čáry,Senica,1301
+423,Častá,Pezinok,2305
+424,Částa,Komárno,NaN
+425,Častkov,Senica,571
+426,Častkovce,Nové Mesto nad Váhom,1597
+427,Čata,Levice,972
+428,Čataj,Senec,1182
+429,Čavoj,Prievidza,491
+430,Čebovce,Veľký Krtíš,1083
+431,Čečehov,Michalovce,385
+432,Čečejovce,Košice-okolie,2157
+433,Čečínska_Potôň,Dunajská Streda,NaN
+434,Čechánky,Detva,NaN
+435,Čechová,Dunajská Streda,NaN
+436,Čechy,Nové Zámky,308
+437,Čechynce,Nitra,1259
+438,Čekovce,Krupina,451
+439,Čeľadice,Nitra,1034
+440,Čeľadince,Topoľčany,448
+441,Čeláre,Veľký Krtíš,443
+442,Čelkova_Lehota,Považská Bystrica,146
+443,Čelovce,Prešov,357
+444,Čelovce,Veľký Krtíš,427
+445,Čeľovce,Trebišov,554
+446,Čemerné,Vranov nad Topľou,22245
+447,Čenkesfa,Dunajská Streda,NaN
+448,Čenkov,Nové Zámky,NaN
+449,Čenkovce,Dunajská Streda,1098
+450,Čereňany,Prievidza,1730
+451,Čerenčany,Rimavská Sobota,571
+452,Čergov,Komárno,NaN
+453,Čerhát,Komárno,NaN
+454,Čerhov,Trebišov,725
+455,Čerín,Banská Bystrica,438
+456,Čermáň,Nitra,NaN
+457,Čermany,Topoľčany,362
+458,Černík,Nové Zámky,1045
+459,Černina,Humenné,170
+460,Černochov,Trebišov,193
+461,Černochov_Vrch,Nové Mesto nad Váhom,NaN
+462,Černová,Ružomberok,NaN
+463,Čertižné,Medzilaborce,334
+464,Červeň,Poltár,NaN
+465,Červená_Skala,Brezno,NaN
+466,Červená_Voda,Sabinov,506
+467,Červeňany,Revúca,44
+468,Červeňany,Veľký Krtíš,44
+469,Červenica,Prešov,1006
+470,Červenica_pri_Sabinove,Sabinov,927
+471,Červeník,Hlohovec,1709
+472,Červený_Hrádok,Zlaté Moravce,400
+473,Červený_Kameň,Ilava,686
+474,Červený_Kameň,Pezinok,NaN
+475,Červený_Kláštor,Kežmarok,223
+476,Červený_Kláštor_-_kúpele,Kežmarok,NaN
+477,České_Brezovo,Poltár,464
+478,Čiakov,Bytča,NaN
+479,Čičarovce,Michalovce,883
+480,Čičava,Vranov nad Topľou,NaN
+481,Čičmany,Žilina,123
+482,Číčov,Komárno,1244
+483,Čierna,Trebišov,458
+484,Čierna_Hora,Gelnica,NaN
+485,Čierna_Lehota,Rožňava,640
+486,Čierna_Lehota,Bánovce nad Bebravou,118
+487,Čierna_nad_Tisou,Trebišov,3619
+488,Čierna_Voda,Galanta,1407
+489,Čierne,Bytča,4453
+490,Čierne,Čadca,4453
+491,Čierne,Čadca,4453
+492,Čierne_Kľačany,Zlaté Moravce,1174
+493,Čierne_nad_Topľou,Vranov nad Topľou,727
+494,Čierne_Pole,Michalovce,355
+495,Čierny_Balog,Brezno,5090
+496,Čierny_Brod,Galanta,1645
+497,Čierny_Chrbát,Komárno,NaN
+498,Čierny_Potok,Rimavská Sobota,130
+499,Čierny_Váh,Liptovský Mikuláš,NaN
+500,Čifáre,Nitra,591
+501,Čiky,Nové Zámky,NaN
+502,Čilistov,Dunajská Streda,NaN
+503,Čiližská_Radvaň,Dunajská Streda,1169
+504,Čimhová,Tvrdošín,679
+505,Čirč,Stará Ľubovňa,1321
+506,Číž,Rimavská Sobota,682
+507,Číž_-_kúpele,Rimavská Sobota,NaN
+508,Čižatice,Košice-okolie,411
+509,Čoltovo,Rožňava,479
+510,Čremošné,Turčianske Teplice,82
+511,Čučma,Rožňava,609
+512,Čukalovce,Snina,160
+513,Čukárska_Paka,Dunajská Streda,NaN
+514,Čuklasovce,Bánovce nad Bebravou,NaN
+515,Ďačov,Sabinov,731
+516,Dačov_Lom,Veľký Krtíš,414
+517,Daletice,Sabinov,97
+518,Dancov_Potok,Trebišov,NaN
+519,Danišovce,Spišská Nová Ves,567
+520,Ďanová,Martin,562
+521,Ďapalovce,Vranov nad Topľou,444
+522,Dargov,Trebišov,596
+523,Davidov,Vranov nad Topľou,800
+524,Debraď,Košice-okolie,402
+525,Dedačov,Humenné,159
+526,Dedina_Mládeže,Komárno,448
+527,Dedinka,Nové Zámky,670
+528,Dedinka_pri_Dunaji,Senec,NaN
+529,Dedinky,Rožňava,239
+530,Dechtice,Trnava,1837
+531,Dekýš,Banská Štiavnica,192
+532,Delava,Spišská Nová Ves,NaN
+533,Demandice,Levice,973
+534,Demänová,Námestovo,NaN
+535,Demänová,Liptovský Mikuláš,NaN
+536,Demänovská_Dolina,Liptovský Mikuláš,314
+537,Demjata,Prešov,1092
+538,Demkovská,Dolný Kubín,NaN
+539,Dešná,Púchov,NaN
+540,Detrík,Vranov nad Topľou,57
+541,Detva,Detva,14545
+542,Detva_-_sídlisko,Detva,NaN
+543,Detvianska_Huta,Detva,677
+544,Devičany,Levice,380
+545,Devičie,Krupina,299
+546,Dežerice,Bánovce nad Bebravou,1018
+547,Diaková,Martin,NaN
+548,Diakovce,Šaľa,2291
+549,Didka,Čadca,NaN
+550,Diel,Lučenec,NaN
+551,Diva,Nové Zámky,NaN
+552,Diviacka_Nová_Ves,Prievidza,1801
+553,Diviaky,Turčianske Teplice,NaN
+554,Diviaky_nad_Nitricou,Prievidza,1743
+555,Divín,Lučenec,2073
+556,Divina,Žilina,NaN
+557,Divinka,Žilina,1030
+558,Divínske_Lazy,Lučenec,NaN
+559,Dlhá,Trnava,444
+560,Dlhá_Lúka,Liptovský Mikuláš,NaN
+561,Dlhá_Lúka,Bardejov,NaN
+562,Dlhá_nad_Kysucou,Čadca,612
+563,Dlhá_nad_Oravou,Dolný Kubín,1438
+564,Dlhá_nad_Váhom,Šaľa,901
+565,Dlhá_Ves,Rožňava,534
+566,Dlhé_Klčovo,Vranov nad Topľou,1393
+567,Dlhé_nad_Cirochou,Snina,1921
+568,Dlhé_Pole,Žilina,1898
+569,Dlhé_Stráže,Levoča,596
+570,Dlhoňa,Svidník,92
+571,Dlžín,Prievidza,146
+572,Dobogov,Levice,NaN
+573,Dobogov,Košice-okolie,NaN
+574,Dobrá,Trebišov,491
+575,Dobrá,Trenčín,NaN
+576,Dobrá_Niva,Zvolen,NaN
+577,Dobrá_Voda,Trnava,790
+578,Dobrá_Voľa,Spišská Nová Ves,NaN
+579,Dobrianky,Vranov nad Topľou,NaN
+580,Dobroč,Brezno,607
+581,Dobroč,Lučenec,607
+582,Dobročná,Prievidza,NaN
+583,Dobrohošť,Dunajská Streda,515
+584,Dobroslava,Svidník,NaN
+585,Dobrý_Potok,Poltár,NaN
+586,Dobšiná,Rožňava,5685
+587,Dobšinská_Ľadová_Jaskyňa,Rožňava,NaN
+588,Dobšinská_Maša,Rožňava,NaN
+589,Dohňany,Púchov,1868
+590,Dojč,Senica,1270
+591,Doľany,Levoča,778
+592,Doľany,Pezinok,1066
+593,Dolina,Dolný Kubín,NaN
+594,Dolina,Prešov,NaN
+595,Dolinka,Veľký Krtíš,493
+596,Dolinky,Bytča,NaN
+597,Dolinky,Púchov,NaN
+598,Dolinky,Zvolen,NaN
+599,Dolná_Breznica,Púchov,998
+600,Dolná_Bzová,Detva,NaN
+601,Dolná_Krupá,Trnava,2383
+602,Dolná_Lehota,Dolný Kubín,NaN
+603,Dolná_Lehota,Brezno,721
+604,Dolná_Mariková,Považská Bystrica,1428
+605,Dolná_Mičiná,Banská Bystrica,435
+606,Dolná_Môlča,Banská Bystrica,NaN
+607,Dolná_Poruba,Trenčín,799
+608,Dolná_Potôň,Dunajská Streda,NaN
+609,Dolná_Seč,Levice,517
+610,Dolná_Streda,Galanta,1623
+611,Dolná_Strehová,Veľký Krtíš,1038
+612,Dolná_Súča,Trenčín,3080
+613,Dolná_Štubňa,Turčianske Teplice,NaN
+614,Dolná_Tižina,Žilina,1432
+615,Dolná_Trnávka,Žiar nad Hronom,339
+616,Dolná_Ves,Žiar nad Hronom,226
+617,Dolná_Závrská,Trenčín,NaN
+618,Dolná_Ždaňa,Žiar nad Hronom,877
+619,Dolné_Breziny,Zvolen,NaN
+620,Dolné_Držkovce,Bánovce nad Bebravou,NaN
+621,Dolné_Dubové,Trnava,737
+622,Dolné_Hámre,Žarnovica,2165
+623,Dolné_Chlebany,Topoľčany,NaN
+624,Dolné_Janíky,Dunajská Streda,NaN
+625,Dolné_Jaseno,Martin,NaN
+626,Dolné_Kočkovce,Púchov,1218
+627,Dolné_Košariská,Myjava,NaN
+628,Dolné_Krškany,Nitra,NaN
+629,Dolné_Lefantovce,Nitra,703
+630,Dolné_Lelovce,Prievidza,NaN
+631,Dolné_Lovčice,Trnava,752
+632,Dolné_Mladonice,Krupina,128
+633,Dolné_Motešice,Trenčín,NaN
+634,Dolné_Naštice,Bánovce nad Bebravou,574
+635,Dolné_Obdokovce,Nitra,1184
+636,Dolné_Orešany,Trnava,1345
+637,Dolné_Otrokovce,Hlohovec,390
+638,Dolné_Ozorovce,Bánovce nad Bebravou,NaN
+639,Dolné_Plachtince,Veľký Krtíš,625
+640,Dolné_Príbelce,Veľký Krtíš,NaN
+641,Dolné_Rykynčice,Krupina,NaN
+642,Dolné_Saliby,Galanta,2012
+643,Dolné_Semerovce,Levice,557
+644,Dolné_Sľažany,Zlaté Moravce,NaN
+645,Dolné_Srnie,Nové Mesto nad Váhom,987
+646,Dolné_Strháre,Veľký Krtíš,191
+647,Dolné_Trhovište,Hlohovec,651
+648,Dolné_Turovce,Levice,NaN
+649,Dolné_Vestenice,Prievidza,2560
+650,Dolné_Zahorany,Rimavská Sobota,182
+651,Dolné_Zelenice,Hlohovec,590
+652,Dolný_Badín,Krupina,248
+653,Dolný_Bar,Dunajská Streda,783
+654,Dolný_Ďur,Levice,NaN
+655,Dolný_Harmanec,Banská Bystrica,263
+656,Dolný_Hričov,Žilina,1618
+657,Dolný_Chotár,Galanta,378
+658,Dolný_Jalšovík,Krupina,NaN
+659,Dolný_Jatov,Nové Zámky,NaN
+660,Dolný_Jelenec,Banská Bystrica,NaN
+661,Dolný_Kalník,Martin,293
+662,Dolný_Kubín,Dolný Kubín,18665
+663,Dolný_Les,Michalovce,NaN
+664,Dolný_Lieskov,Považská Bystrica,836
+665,Dolný_Lopašov,Piešťany,964
+666,Dolný_Moštenec,Považská Bystrica,NaN
+667,Dolný_Ohaj,Nové Zámky,1547
+668,Dolný_Pial,Levice,917
+669,Dolný_Smokovec,Poprad,759
+670,Dolný_Štál,Dunajská Streda,1896
+671,Dolný_Štefanov,Tvrdošín,NaN
+672,Dolný_Tisovník,Detva,NaN
+673,Dolný_Turček,Turčianske Teplice,NaN
+674,Dolný_Vadičov,Kysucké Nové Mesto,482
+675,Dolný_Vinodol,Nitra,NaN
+676,Doma,Senec,NaN
+677,Domadice,Levice,235
+678,Domaníky,Krupina,190
+679,Domaniža,Považská Bystrica,1631
+680,Domaňovce,Levoča,926
+681,Domaša,Levice,NaN
+682,Donovaly,Banská Bystrica,255
+683,Dora,Lučenec,NaN
+684,Dovalovo,Liptovský Mikuláš,1002
+685,Drábsko,Brezno,194
+686,Drahňov,Michalovce,1558
+687,Drahošanka,Čadca,NaN
+688,Drahovce,Piešťany,2575
+689,Dravce,Levoča,834
+690,Dražice,Rimavská Sobota,274
+691,Dražkovce,Martin,1060
+692,Dražovce,Nitra,NaN
+693,Drážovce,Krupina,134
+694,Driečna,Stropkov,NaN
+695,Drienčany,Rimavská Sobota,242
+696,Drienica,Sabinov,753
+697,Drienov,Prešov,2242
+698,Drienovec,Košice-okolie,2363
+699,Drienovo,Krupina,109
+700,Drienovská_Nová_Ves,Prešov,834
+701,Drietoma,Trenčín,2271
+702,Drňa,Rimavská Sobota,213
+703,Drnava,Rožňava,713
+704,Drnava,Veľký Krtíš,713
+705,Družstevná_pri_Hornáde,Košice-okolie,2813
+706,Drženice,Levice,378
+707,Držkovce,Revúca,577
+708,Ďubákovo,Poltár,82
+709,Dubie,Kysucké Nové Mesto,NaN
+710,Dubie,Bardejov,NaN
+711,Dubinné,Bardejov,352
+712,Dubková,Púchov,NaN
+713,Dubnica,Prievidza,NaN
+714,Dubnica_nad_Váhom,Ilava,23550
+715,Dubnička,Bánovce nad Bebravou,NaN
+716,Dubník,Prešov,NaN
+717,Dubník,Nové Zámky,1606
+718,Dubno,Rimavská Sobota,157
+719,Dubodiel,Trenčín,954
+720,Dubová,Svidník,210
+721,Dubová,Pezinok,1128
+722,Dubová,Brezno,NaN
+723,Dubovany,Piešťany,1045
+724,Dubovce,Skalica,622
+725,Dubové,Turčianske Teplice,705
+726,Dubové,Zvolen,298
+727,Dubovec,Rimavská Sobota,533
+728,Dubovica,Sabinov,1457
+729,Dúbrava,Liptovský Mikuláš,1219
+730,Dúbrava,Levoča,313
+731,Dúbrava,Snina,220
+732,Dúbrava,Prešov,NaN
+733,Dúbrava,Trenčín,NaN
+734,Dúbrava,Veľký Krtíš,NaN
+735,Dúbravica,Banská Bystrica,420
+736,Dúbravka,Michalovce,682
+737,Dúbravy,Detva,949
+738,Ducové,Piešťany,459
+739,Dudince,Krupina,1395
+740,Duchenec,Krupina,NaN
+741,Dukovce,Svidník,278
+742,Dulice,Martin,NaN
+743,Dulov,Ilava,925
+744,Duľov,Námestovo,NaN
+745,Ďulov_Dvor,Komárno,NaN
+746,Dulova_Ves,Prešov,1380
+747,Dulovce,Komárno,1685
+748,Dulovo,Rimavská Sobota,261
+749,Dunajov,Čadca,1158
+750,Dunajská_Lužná,Senec,7117
+751,Dunajská_Streda,Dunajská Streda,22684
+752,Dunajský_Klátov,Dunajská Streda,716
+753,Duplín,Stropkov,545
+754,Ďurčiná,Žilina,1098
+755,Ďurďoš,Vranov nad Topľou,259
+756,Ďurďošík,Košice-okolie,652
+757,Ďurďové,Považská Bystrica,144
+758,Ďurkov,Košice-okolie,1905
+759,Ďurková,Stará Ľubovňa,NaN
+760,Ďurkovce,Veľký Krtíš,130
+761,Dúžava,Rimavská Sobota,NaN
+762,Dvor_Mikuláš,Nové Zámky,NaN
+763,Dvorany_nad_Nitrou,Topoľčany,785
+764,Dvorec,Turčianske Teplice,NaN
+765,Dvorec,Bánovce nad Bebravou,442
+766,Dvorianky,Trebišov,664
+767,Dvorníky,Košice-okolie,2063
+768,Dvorníky,Hlohovec,2063
+769,Dvorníky,Krupina,2063
+770,Dvorníky_-_Včeláre,Košice-okolie,NaN
+771,Dvorníky_nad_Nitricou,Prievidza,NaN
+772,Dvory_nad_Žitavou,Nové Zámky,5044
+773,Dyčka,Nitra,NaN
+774,Egreš,Trebišov,487
+775,Eliášovce,Dunajská Streda,2239
+776,Etreho_Kračany,Dunajská Streda,NaN
+777,Fačkov,Žilina,641
+778,Fajtov,Brezno,NaN
+779,Falkušovce,Michalovce,657
+780,Fančová,Prievidza,NaN
+781,Farná,Levice,1345
+782,Fejséš,Trebišov,NaN
+783,Fekišovce,Sobrance,309
+784,Fiačice,Liptovský Mikuláš,NaN
+785,Figa,Rimavská Sobota,459
+786,Fijaš,Svidník,150
+787,Fiľakovo,Lučenec,10568
+788,Fiľakovské_Kľačany,Lučenec,NaN
+789,Fiľakovské_Kováče,Lučenec,924
+790,Filice,Poprad,NaN
+791,Filier,Revúca,NaN
+792,Filipovo,Brezno,NaN
+793,Fintice,Prešov,2115
+794,Flajšová,Námestovo,NaN
+795,Folkušová,Martin,144
+796,Forbaky_-_Klukany,Žilina,NaN
+797,Forbasy,Stará Ľubovňa,456
+798,Francovce,Svidník,NaN
+799,Frička,Bardejov,342
+800,Fričkovce,Bardejov,735
+801,Fričovce,Prešov,1152
+802,Fulianka,Prešov,385
+803,Furmanec,Prešov,NaN
+804,Gabčíkovo,Dunajská Streda,5473
+805,Gaboltov,Bardejov,479
+806,Gajary,Malacky,3046
+807,Gajdoš,Sobrance,NaN
+808,Galanta,Galanta,14990
+809,Galovany,Liptovský Mikuláš,310
+810,Gáň,Galanta,856
+811,Gánovce,Poprad,1397
+812,Gápel,Prievidza,NaN
+813,Gaškovce,Púchov,NaN
+814,Gašparovo,Brezno,NaN
+815,Gbeľany,Žilina,1425
+816,Gbelce,Nové Zámky,2156
+817,Gbely,Skalica,5073
+818,Geča_č._107-110,Košice-okolie,NaN
+819,Geča,Košice-okolie,1829
+820,Gelnica,Gelnica,6047
+821,Gemer,Revúca,898
+822,Gemerček,Rimavská Sobota,94
+823,Gemerská_Hôrka,Rožňava,1305
+824,Gemerská_Panica,Rožňava,619
+825,Gemerská_Poloma,Rožňava,2003
+826,Gemerská_Ves,Revúca,1005
+827,Gemerské_Dechtáre,Rimavská Sobota,439
+828,Gemerské_Michalovce,Rimavská Sobota,92
+829,Gemerské_Teplice,Revúca,362
+830,Gemerský_Jablonec,Rimavská Sobota,704
+831,Gemerský_Milhosť,Revúca,NaN
+832,Gemerský_Sad,Revúca,300
+833,Géňa,Levice,NaN
+834,Geraltov,Prešov,121
+835,Gerlachov,Poprad,852
+836,Gerlachov,Bardejov,1069
+837,Giglovce,Vranov nad Topľou,140
+838,Giraltovce,Svidník,4089
+839,Girovce,Vranov nad Topľou,56
+840,Glabušovce,Veľký Krtíš,121
+841,Gočaltovo,Rožňava,232
+842,Gočovo,Rožňava,331
+843,Golianovo,Nitra,1850
+844,Gomboš,Košice-okolie,NaN
+845,Gondovo,Levice,1470
+846,Gorazdov,Šaľa,NaN
+847,Gortva,Rimavská Sobota,NaN
+848,Gôtovany,Liptovský Mikuláš,474
+849,Grajciar,Košice-okolie,NaN
+850,Granč_-_Petrovce,Levoča,NaN
+851,Gregorova_Vieska,Lučenec,141
+852,Gregorovce,Prešov,867
+853,Gregorovce,Revúca,867
+854,Gribov,Stropkov,192
+855,Grodzin,Vranov nad Topľou,NaN
+856,Grúne,Dolný Kubín,NaN
+857,Gruzovce,Humenné,132
+858,Gúg,Nové Zámky,NaN
+859,Gyňov,Košice-okolie,688
+860,Habovka,Tvrdošín,1382
+861,Habura,Medzilaborce,490
+862,Hačava,Košice-okolie,215
+863,Hačava,Rimavská Sobota,215
+864,Hadoše,Považská Bystrica,NaN
+865,Hadovce,Komárno,NaN
+866,Hadušovce,Spišská Nová Ves,NaN
+867,Hadviga,Turčianske Teplice,1
+868,Hágy,Kežmarok,NaN
+869,Háj,Turčianske Teplice,483
+870,Háj,Košice-okolie,275
+871,Hájiky_-_Maky,Poltár,NaN
+872,Hajná_Nová_Ves,Topoľčany,332
+873,Hajnáčka,Rimavská Sobota,1143
+874,Hájniky,Zvolen,NaN
+875,Hájske,Šaľa,1319
+876,Hajtovka,Stará Ľubovňa,66
+877,Haláčovce,Bánovce nad Bebravou,362
+878,Halič,Lučenec,1659
+879,Haligovce,Stará Ľubovňa,625
+880,Haluzice,Nové Mesto nad Váhom,84
+881,Hámor,Brezno,NaN
+882,Hámre,Gelnica,NaN
+883,Hámre,Trenčín,NaN
+884,Hámre_-_Dolné_Hámre,Žarnovica,NaN
+885,Hámre_-_Horné_Hámre,Žarnovica,NaN
+886,Hamuliakovo,Senec,2335
+887,Handlová,Prievidza,16890
+888,Hanigovce,Sabinov,129
+889,Haniska,Košice-okolie,1546
+890,Haniska,Prešov,715
+891,Hanková,Rožňava,87
+892,Hankovce,Humenné,500
+893,Hankovce,Bardejov,436
+894,Hanušovce_nad_Topľou,Vranov nad Topľou,3782
+895,Harakovce,Levoča,58
+896,Harhaj,Bardejov,268
+897,Harichovce,Spišská Nová Ves,1858
+898,Harmanec,Banská Bystrica,NaN
+899,Harmónia,Pezinok,NaN
+900,Harvelka,Čadca,NaN
+901,Hatalov,Michalovce,746
+902,Hatné,Považská Bystrica,631
+903,Havaj,Stropkov,399
+904,Havka,Kežmarok,35
+905,Havran,Senica,NaN
+906,Havranec,Svidník,13
+907,Havrania,Dolný Kubín,NaN
+908,Havrania_Dolina,Spišská Nová Ves,NaN
+909,Hažín,Michalovce,478
+910,Hažín_nad_Cirochou,Humenné,675
+911,Hažlín,Bardejov,1097
+912,Heďbeneéte,Dunajská Streda,NaN
+913,Helcmanovce,Gelnica,1424
+914,Heľpa,Brezno,2550
+915,Henckovce,Rožňava,420
+916,Henclová,Gelnica,95
+917,Hencovce,Vranov nad Topľou,1340
+918,Hendrichovce,Prešov,255
+919,Herľany,Košice-okolie,291
+920,Herman,Lučenec,NaN
+921,Hermanovce,Prešov,1974
+922,Hermanovce_nad_Topľou,Vranov nad Topľou,694
+923,Hertník,Bardejov,1043
+924,Hervartov,Bardejov,517
+925,Hetméň,Šaľa,NaN
+926,Hiadeľ,Banská Bystrica,525
+927,Hincovce,Spišská Nová Ves,238
+928,Hladovka,Tvrdošín,1051
+929,Hlavice,Čadca,NaN
+930,Hlboké,Považská Bystrica,940
+931,Hlboké,Senica,940
+932,Hlboké_nad_Váhom,Bytča,936
+933,Hlinené,Čadca,NaN
+934,Hliník,Liptovský Mikuláš,NaN
+935,Hliník,Komárno,NaN
+936,Hliník_nad_Hronom,Žiar nad Hronom,2812
+937,Hliník_nad_Váhom,Bytča,NaN
+938,Hlinné,Vranov nad Topľou,1869
+939,Hlivištia,Sobrance,375
+940,Hlohovec,Hlohovec,21301
+941,Hloža,Púchov,NaN
+942,Hniezdne,Stará Ľubovňa,1445
+943,Hnilčík,Spišská Nová Ves,559
+944,Hnilec,Spišská Nová Ves,NaN
+945,Hnojné,Michalovce,220
+946,Hnúšťa,Rimavská Sobota,7411
+947,Hodejov,Rimavská Sobota,1604
+948,Hodejovec,Rimavská Sobota,178
+949,Hodkovce,Košice-okolie,325
+950,Hodkovce,Spišská Nová Ves,325
+951,Hodruša_-_Hámre,Žarnovica,NaN
+952,Hodulov_Vrch,Myjava,NaN
+953,Hokovce,Levice,488
+954,Holanovo,Komárno,NaN
+955,Holčíkovce,Vranov nad Topľou,415
+956,Holiare,Komárno,483
+957,Holice,Dunajská Streda,2088
+958,Holíč,Skalica,11156
+959,Holiša,Lučenec,660
+960,Holotka,Nitra,NaN
+961,Holumnica,Kežmarok,887
+962,Honce,Rožňava,351
+963,Hontianska_Vrbica,Levice,603
+964,Hontianske_Moravce,Krupina,844
+965,Hontianske_Nemce,Krupina,1443
+966,Hontianske_Tesáre,Krupina,911
+967,Hontianske_Trsťany,Levice,317
+968,Horelica,Čadca,NaN
+969,Horenická_Hôrka,Púchov,NaN
+970,Horňa,Sobrance,337
+971,Horná_Breznica,Púchov,504
+972,Horná_Dolina,Senica,NaN
+973,Horná_Hriňová,Detva,NaN
+974,Horná_Kráľová,Šaľa,1891
+975,Horná_Krupá,Trnava,513
+976,Horná_Lehota,Dolný Kubín,550
+977,Horná_Lehota,Brezno,602
+978,Horná_Mariková,Považská Bystrica,575
+979,Horná_Mičiná,Banská Bystrica,628
+980,Horná_Môlča,Banská Bystrica,NaN
+981,Horná_Poruba,Ilava,1074
+982,Horná_Potôň,Dunajská Streda,2112
+983,Horná_Potôň_-_Lúky,Dunajská Streda,NaN
+984,Horná_Seč,Levice,559
+985,Horná_Streda,Nové Mesto nad Váhom,1373
+986,Horná_Strehová,Veľký Krtíš,166
+987,Horná_Súča,Trenčín,3360
+988,Horná_Štubňa,Turčianske Teplice,1609
+989,Horná_Tižina,Žilina,NaN
+990,Horná_Trnávka,Žiar nad Hronom,NaN
+991,Horná_Ves,Žiar nad Hronom,693
+992,Horná_Ves,Prievidza,1440
+993,Horná_Závrská,Trenčín,NaN
+994,Horná_Zlatná,Komárno,NaN
+995,Horná_Ždaňa,Žiar nad Hronom,537
+996,Horňany,Trenčín,436
+997,Horné_Breziny,Zvolen,NaN
+998,Horné_Držkovce,Bánovce nad Bebravou,NaN
+999,Horné_Dubové,Trnava,385
+1000,Horné_Hámre,Žarnovica,660
+1001,Horné_Chlebany,Topoľčany,372
+1002,Horné_Janíky,Dunajská Streda,NaN
+1003,Horné_Jaseno,Martin,NaN
+1004,Horné_Kočkovce,Púchov,NaN
+1005,Horné_Košariská,Myjava,NaN
+1006,Horné_Krškany,Nitra,NaN
+1007,Horné_Lefantovce,Nitra,894
+1008,Horné_Lelovce,Prievidza,NaN
+1009,Horné_Lovčice,Trnava,NaN
+1010,Horné_Mladonice,Krupina,188
+1011,Horné_Motešice,Trenčín,NaN
+1012,Horné_Mýto,Dunajská Streda,923
+1013,Horné_Naštice,Bánovce nad Bebravou,491
+1014,Horné_Obdokovce,Topoľčany,1490
+1015,Horné_Orešany,Trnava,1939
+1016,Horné_Otrokovce,Hlohovec,855
+1017,Horné_Ozorovce,Bánovce nad Bebravou,NaN
+1018,Horné_Plachtince,Veľký Krtíš,205
+1019,Horné_Príbelce,Veľký Krtíš,NaN
+1020,Horné_Pršany,Banská Bystrica,398
+1021,Horné_Rykynčice,Krupina,268
+1022,Horné_Saliby,Galanta,3282
+1023,Horné_Saliby_-_časť_Hrušov,Galanta,NaN
+1024,Horné_Semerovce,Levice,633
+1025,Horné_Sľažany,Zlaté Moravce,NaN
+1026,Horné_Srnie,Trenčín,2749
+1027,Horné_Strháre,Veľký Krtíš,257
+1028,Horné_Štitáre,Topoľčany,571
+1029,Horné_Trhovište,Hlohovec,605
+1030,Horné_Turovce,Levice,567
+1031,Horné_Vestenice,Prievidza,614
+1032,Horné_Zahorany,Rimavská Sobota,119
+1033,Horné_Zelenice,Hlohovec,704
+1034,Horný_Badín,Krupina,180
+1035,Horný_Bar,Dunajská Streda,1231
+1036,Horný_Čepeň,Galanta,NaN
+1037,Horný_Ďur,Levice,NaN
+1038,Horný_Hričov,Žilina,789
+1039,Horný_Jalšovík,Krupina,NaN
+1040,Horný_Jatov,Šaľa,NaN
+1041,Horný_Jelenec,Banská Bystrica,NaN
+1042,Horný_Kalník,Martin,189
+1043,Horný_Lieskov,Považská Bystrica,418
+1044,Horný_Moštenec,Považská Bystrica,NaN
+1045,Horný_Ohaj,Nitra,NaN
+1046,Horný_Pial,Levice,260
+1047,Horný_Smokovec,Poprad,127
+1048,Horný_Štefanov,Tvrdošín,NaN
+1049,Horný_Tisovník,Detva,178
+1050,Horný_Turček,Turčianske Teplice,NaN
+1051,Horný_Vadičov,Kysucké Nové Mesto,1643
+1052,Horný_Vinodol,Nitra,NaN
+1053,Horovce,Púchov,852
+1054,Horovce,Michalovce,857
+1055,Horša,Levice,NaN
+1056,Hoste,Galanta,445
+1057,Hostice,Rimavská Sobota,1079
+1058,Hostie,Zlaté Moravce,1205
+1059,Hostišovce,Rimavská Sobota,244
+1060,Hosťová,Nitra,389
+1061,Hosťovce,Košice-okolie,213
+1062,Hosťovce,Zlaté Moravce,757
+1063,Hostovice,Snina,279
+1064,Hoštiná,Púchov,NaN
+1065,Hozelec,Poprad,774
+1066,Hôrka,Poprad,2077
+1067,Hôrka_nad_Váhom,Nové Mesto nad Váhom,766
+1068,Hôrky,Žilina,842
+1069,Hrabičov,Žarnovica,569
+1070,Hrabkov,Prešov,686
+1071,Hrabová_Roztoka,Snina,59
+1072,Hrabovčík,Svidník,343
+1073,Hrabové,Bytča,849
+1074,Hrabovec,Bardejov,511
+1075,Hrabovec_nad_Laborcom,Humenné,512
+1076,Hrabovka,Púchov,NaN
+1077,Hrabovka,Trenčín,418
+1078,Hrabovo,Poltár,NaN
+1079,Hrabské,Bardejov,606
+1080,Hrabušice,Spišská Nová Ves,2536
+1081,Hradisko,Kežmarok,98
+1082,Hradisko,Prešov,NaN
+1083,Hradisko,Svidník,NaN
+1084,Hradište,Partizánske,1008
+1085,Hradište,Poltár,241
+1086,Hradište_pod_Vrátnom,Senica,687
+1087,Hradištská_Moľva,Michalovce,NaN
+1088,Hradná,Bytča,NaN
+1089,Hrádok,Nové Mesto nad Váhom,722
+1090,Hrachovište,Nové Mesto nad Váhom,705
+1091,Hrachovo,Rimavská Sobota,819
+1092,Hraň,Trebišov,1566
+1093,Hraničné,Stará Ľubovňa,188
+1094,Hranovnica,Poprad,3178
+1095,Hrašné,Myjava,486
+1096,Hrašovík,Košice-okolie,379
+1097,Hrboltová,Ružomberok,NaN
+1098,Hrčeľ,Trebišov,1095
+1099,Hrhov,Rožňava,1051
+1100,Hriadky,Trebišov,419
+1101,Hričovské_Podhradie,Žilina,355
+1102,Hriňová,Detva,7415
+1103,Hrišovce,Gelnica,297
+1104,Hrkáč,Rimavská Sobota,NaN
+1105,Hrkovce,Levice,291
+1106,Hrlica,Revúca,70
+1107,Hrnčiarky,Poltár,NaN
+1108,Hrnčiarovce_nad_Parnou,Trnava,2253
+1109,Hrnčiarové,Nové Mesto nad Váhom,NaN
+1110,Hrnčiarska_Ves,Poltár,945
+1111,Hrnčiarske_Zalužany,Poltár,862
+1112,Hrochoť,Banská Bystrica,1472
+1113,Hromoš,Stará Ľubovňa,499
+1114,Hronec,Brezno,1201
+1115,Hronovce,Levice,1476
+1116,Hronsek,Banská Bystrica,654
+1117,Hronská_Breznica,Zvolen,253
+1118,Hronská_Dúbrava,Žiar nad Hronom,420
+1119,Hronské_Kľačany,Levice,1401
+1120,Hronské_Kosihy,Levice,696
+1121,Hronský_Beňadik,Žarnovica,1144
+1122,Hrubá_Borša,Senec,1172
+1123,Hrubá_Strana,Nové Mesto nad Váhom,NaN
+1124,Hruboňovo,Nitra,519
+1125,Hrubov,Humenné,482
+1126,Hrubý_Buk,Čadca,NaN
+1127,Hrubý_Šúr,Senec,1033
+1128,Hrušov,Rožňava,343
+1129,Hrušov,Trebišov,NaN
+1130,Hrušov,Veľký Krtíš,830
+1131,Hrušovany,Topoľčany,1121
+1132,Hrušové,Nové Mesto nad Váhom,NaN
+1133,Hrušovo,Rimavská Sobota,176
+1134,Hruštín,Námestovo,3125
+1135,Hubice,Dunajská Streda,624
+1136,Hubina,Piešťany,515
+1137,Hubošovce,Sabinov,532
+1138,Hubová,Ružomberok,1062
+1139,Hubovo,Rimavská Sobota,132
+1140,Hucín,Revúca,937
+1141,Hudcovce,Humenné,401
+1142,Hul,Nové Zámky,1197
+1143,Humenné,Humenné,32834
+1144,Huncovce,Kežmarok,3239
+1145,Hunkovce,Trebišov,340
+1146,Hunkovce,Svidník,340
+1147,Hurbanova_Dolina,Myjava,NaN
+1148,Hurbanova_Ves,Senec,414
+1149,Hurbanovce,Nové Zámky,NaN
+1150,Hurbanovo,Komárno,7397
+1151,Husák,Sobrance,166
+1152,Husarik,Čadca,NaN
+1153,Husiná,Rimavská Sobota,557
+1154,Hutka,Bardejov,99
+1155,Huty,Liptovský Mikuláš,156
+1156,Hviezdoslavov,Dunajská Streda,2155
+1157,Hvozdnica,Bytča,1201
+1158,Hybe,Liptovský Mikuláš,1454
+1159,Hýľov,Košice-okolie,506
+1160,Chalmová,Prievidza,NaN
+1161,Chanava,Rimavská Sobota,705
+1162,Chľaba,Nové Zámky,696
+1163,Chladná_Studňa,Poltár,NaN
+1164,Chlebnice,Dolný Kubín,1618
+1165,Chlmec,Humenné,573
+1166,Chmeľnica,Stará Ľubovňa,993
+1167,Chmeľov,Prešov,1036
+1168,Chmeľová,Bardejov,373
+1169,Chmeľovec,Prešov,448
+1170,Chmiňany,Prešov,1002
+1171,Chminianska_Nová_Ves,Prešov,1306
+1172,Chminianske_Jakubovany,Prešov,2551
+1173,Choča,Zlaté Moravce,489
+1174,Chocholná,Trenčín,NaN
+1175,Choňkovce,Sobrance,514
+1176,Chorvatice,Levice,NaN
+1177,Chorvátsky_Grob,Senec,6328
+1178,Chorváty,Košice-okolie,99
+1179,Chotár,Žarnovica,NaN
+1180,Chotča,Stropkov,633
+1181,Chotín,Komárno,1364
+1182,Chrabrany,Topoľčany,797
+1183,Chrámec,Rimavská Sobota,457
+1184,Chrasť,Komárno,NaN
+1185,Chrasť_nad_Hornádom,Spišská Nová Ves,915
+1186,Chrastince,Veľký Krtíš,212
+1187,Chrastné,Košice-okolie,614
+1188,Chrašťany,Zlaté Moravce,NaN
+1189,Chrenová,Nitra,NaN
+1190,Chrenovec_-_Brusno,Prievidza,NaN
+1191,Chropov,Skalica,386
+1192,Chrťany,Veľký Krtíš,126
+1193,Chtelnica,Piešťany,2551
+1194,Chudá_Lehota,Bánovce nad Bebravou,221
+1195,Chvalová,Revúca,199
+1196,Chvatimech,Brezno,NaN
+1197,Chvojnica,Myjava,339
+1198,Chvojnica,Prievidza,257
+1199,Chym,Košice-okolie,NaN
+1200,Chynorany,Partizánske,2726
+1201,Chyzerovce,Zlaté Moravce,NaN
+1202,Chyžné,Revúca,420
+1203,Igram,Senec,581
+1204,Ihľany,Kežmarok,1561
+1205,Ihráč,Žiar nad Hronom,514
+1206,Ihrište,Púchov,NaN
+1207,Iľanovo,Liptovský Mikuláš,NaN
+1208,Ilava,Ilava,5464
+1209,Iliaš,Banská Bystrica,NaN
+1210,Iliašov,Veľký Krtíš,NaN
+1211,Iliašovce,Spišská Nová Ves,1000
+1212,Iliavka,Ilava,NaN
+1213,Ilija,Banská Štiavnica,358
+1214,Imeľ,Komárno,1954
+1215,Imrov_Kopec,Veľký Krtíš,NaN
+1216,Iňa,Levice,226
+1217,Iňačovce,Michalovce,769
+1218,Inovce,Sobrance,203
+1219,Ipeľ,Poltár,NaN
+1220,Ipeľka,Lučenec,NaN
+1221,Ipeľské_Predmostie,Veľký Krtíš,617
+1222,Ipeľské_Úľany,Levice,268
+1223,Ipeľský_Sokolec,Levice,826
+1224,Istebné,Dolný Kubín,1371
+1225,Istebník,Trenčín,NaN
+1226,Ivachnová,Ružomberok,655
+1227,Ivančiná,Turčianske Teplice,80
+1228,Ivanice,Rimavská Sobota,292
+1229,Ivanišovo,Detva,NaN
+1230,Ivanka_pri_Dunaji,Senec,6835
+1231,Ivanka_pri_Nitre,Nitra,2774
+1232,Ivanovce,Trenčín,999
+1233,Iviny,Detva,NaN
+1234,Iža,Komárno,1703
+1235,Ižipovce,Liptovský Mikuláš,88
+1236,Ižkovce,Michalovce,90
+1237,Ižop,Dunajská Streda,NaN
+1238,Jabloň,Humenné,395
+1239,Jablonec,Pezinok,1022
+1240,Jablonica,Senica,2242
+1241,Jablonka,Myjava,480
+1242,Jablonov,Levoča,1008
+1243,Jablonov_nad_Turňou,Rožňava,736
+1244,Jabloňovce,Levice,210
+1245,Jablonové,Bytča,911
+1246,Jablonové,Malacky,1324
+1247,Jabriková,Banská Bystrica,NaN
+1248,Jacovce,Topoľčany,1751
+1249,Jahodná,Dunajská Streda,1590
+1250,Jahodníky,Martin,NaN
+1251,Jaklovce,Gelnica,1873
+1252,Jakovany,Sabinov,338
+1253,Jakub,Banská Bystrica,NaN
+1254,Jakubany,Stará Ľubovňa,2846
+1255,Jakubov,Malacky,1638
+1256,Jakubova_Voľa,Sabinov,400
+1257,Jakubovany,Liptovský Mikuláš,367
+1258,Jakubovany,Sabinov,964
+1259,Jakušovce,Stropkov,42
+1260,Jalakšová,Levice,NaN
+1261,Jalná,Žiar nad Hronom,NaN
+1262,Jalová,Snina,64
+1263,Jalovec,Liptovský Mikuláš,306
+1264,Jalovec,Prievidza,578
+1265,Jalšové,Hlohovec,487
+1266,Jalšovík,Krupina,184
+1267,Jamník,Liptovský Mikuláš,460
+1268,Jamník,Spišská Nová Ves,1203
+1269,Janice,Rimavská Sobota,308
+1270,Janík,Košice-okolie,634
+1271,Janíkovce,Nitra,NaN
+1272,Janíky,Dunajská Streda,926
+1273,Jankovce,Humenné,266
+1274,Jánošíková,Senec,NaN
+1275,Jánošíkovo_na_Ostrove,Dunajská Streda,NaN
+1276,Jánošovka,Brezno,NaN
+1277,Janov,Prešov,327
+1278,Janova_Lehota,Žiar nad Hronom,969
+1279,Janova_Ves,Partizánske,NaN
+1280,Janovce,Bardejov,462
+1281,Jánovce,Poprad,1708
+1282,Jánovce,Galanta,498
+1283,Janovík,Prešov,367
+1284,Jarabá,Brezno,41
+1285,Jarabina,Stará Ľubovňa,932
+1286,Jarná,Trnava,NaN
+1287,Jarok,Levice,NaN
+1288,Jarok,Nitra,2036
+1289,Jarovnice,Sabinov,7027
+1290,Jasenica,Považská Bystrica,1149
+1291,Jasenie,Brezno,1167
+1292,Jasenov,Humenné,1193
+1293,Jasenov,Sobrance,289
+1294,Jasenová,Dolný Kubín,419
+1295,Jasenovce,Vranov nad Topľou,207
+1296,Jasenové,Žilina,617
+1297,Jasenovo,Turčianske Teplice,122
+1298,Jasenovo,Detva,122
+1299,Jasenovská,Námestovo,NaN
+1300,Jaslovce,Trnava,NaN
+1301,Jaslovské_Bohunice,Trnava,2354
+1302,Jaslovské_Bohunice-Atómová_elektráreň,Trnava,NaN
+1303,Jasov,Košice-okolie,3695
+1304,Jasová,Nové Zámky,1133
+1305,Jastrabá,Žiar nad Hronom,534
+1306,Jastrabie_pri_Michalovciach,Michalovce,284
+1307,Jastrabie_Kračany,Dunajská Streda,NaN
+1308,Jastrabie_nad_Topľou,Vranov nad Topľou,489
+1309,Jašov_Vrch,Detva,NaN
+1310,Jatov,Nové Zámky,725
+1311,Javorec,Senica,1464
+1312,Javorina,Poprad,NaN
+1313,Javorina,Brezno,NaN
+1314,Javorinka,Galanta,NaN
+1315,Javorová,Čadca,NaN
+1316,Jazernica,Turčianske Teplice,NaN
+1317,Jazviny,Nové Mesto nad Váhom,NaN
+1318,Jedlinka,Bardejov,84
+1319,Jedľové_Kostoľany,Zlaté Moravce,896
+1320,Jedľovník,Čadca,NaN
+1321,Jelenec,Nitra,2116
+1322,Jelka,Galanta,3982
+1323,Jelšava,Revúca,NaN
+1324,Jelšavská_Teplica,Revúca,NaN
+1325,Jelšovce,Nitra,994
+1326,Jelšovec,Lučenec,NaN
+1327,Jenkovce,Sobrance,436
+1328,Jergaly,Banská Bystrica,NaN
+1329,Jesenské,Levice,50
+1330,Jesenské,Rimavská Sobota,2283
+1331,Jestice,Rimavská Sobota,150
+1332,Ješkova_Ves,Partizánske,504
+1333,Jezersko,Kežmarok,75
+1334,Ješkova_Ves_nad_Nitricou,Prievidza,NaN
+1335,Jovice,Rožňava,744
+1336,Jovsa,Michalovce,827
+1337,Jur_nad_Hronom,Levice,961
+1338,Jurkova_Voľa,Svidník,84
+1339,Jurová,Dunajská Streda,465
+1340,Jurské,Kežmarok,1299
+1341,Jurský_Chlm,Nové Zámky,NaN
+1342,Juskova_Voľa,Vranov nad Topľou,296
+1343,Kačanov,Michalovce,474
+1344,Kače,Stará Ľubovňa,NaN
+1345,Kajal,Galanta,1521
+1346,Kaľamenová,Turčianske Teplice,86
+1347,Kalameny,Ružomberok,452
+1348,Kaľava,Spišská Nová Ves,398
+1349,Kalinčiakovo,Levice,NaN
+1350,Kalinka,Detva,NaN
+1351,Kalinkovo,Senec,1410
+1352,Kalinov,Čadca,NaN
+1353,Kalinov,Medzilaborce,262
+1354,Kalinovo,Poltár,2249
+1355,Kalná,Levice,NaN
+1356,Kalná_nad_Hronom,Levice,2064
+1357,Kalná_Roztoka,Snina,536
+1358,Kálnica,Nové Mesto nad Váhom,1060
+1359,Kalnica,Levice,NaN
+1360,Kalnište,Svidník,520
+1361,Kalonda,Lučenec,208
+1362,Kaloša,Rimavská Sobota,830
+1363,Kalša,Košice-okolie,741
+1364,Kaluža,Michalovce,424
+1365,Kamanová,Topoľčany,609
+1366,Kameňany,Revúca,874
+1367,Kamenec,Levice,NaN
+1368,Kamenec_pod_Vtáčnikom,Prievidza,1778
+1369,Kamenica,Sabinov,1806
+1370,Kamenica_nad_Cirochou,Humenné,2316
+1371,Kamenica_nad_Hronom,Nové Zámky,1314
+1372,Kameničany,Ilava,551
+1373,Kameničná,Komárno,1905
+1374,Kamenín,Nové Zámky,1457
+1375,Kamenná_Poruba,Žilina,1848
+1376,Kamenná_Poruba,Vranov nad Topľou,1490
+1377,Kamenné_Kosihy,Veľký Krtíš,329
+1378,Kamenný_Chotár,Levice,NaN
+1379,Kamenný_Most,Nové Zámky,1064
+1380,Kamenný_Vrch,Veľký Krtíš,NaN
+1381,Kamienka,Stará Ľubovňa,1359
+1382,Kamienka,Humenné,514
+1383,Kanaš,Prešov,NaN
+1384,Kanianka,Prievidza,4009
+1385,Kapince,Nitra,187
+1386,Kapišová,Svidník,447
+1387,Kaplna,Senec,886
+1388,Kapoňa,Trebišov,NaN
+1389,Kapušany,Prešov,2250
+1390,Kapušianske_Kľačany,Michalovce,964
+1391,Kapušianske_Vojkovce,Michalovce,NaN
+1392,Kardošova_Vieska,Považská Bystrica,NaN
+1393,Karlov_Dvor,Trebišov,NaN
+1394,Karlová,Martin,107
+1395,Karná,Humenné,454
+1396,Karolína,Levice,NaN
+1397,Kašov,Trebišov,294
+1398,Kašova_Lehôtka,Zvolen,NaN
+1399,Katarínska_Huta,Poltár,NaN
+1400,Kátlina,Považská Bystrica,NaN
+1401,Kátlovce,Trnava,1129
+1402,Kátov,Skalica,641
+1403,Katúň,Levoča,NaN
+1404,Kava,Komárno,NaN
+1405,Kazimír,Trebišov,847
+1406,Keblov_-_Zárieč,Žilina,NaN
+1407,Kecerovce,Košice-okolie,3642
+1408,Kecerovské_Kostoľany,Košice-okolie,NaN
+1409,Kecerovské_Pekľany,Košice-okolie,NaN
+1410,Kecerovský_Lipovec,Košice-okolie,124
+1411,Kéč,Komárno,NaN
+1412,Kečkovce,Svidník,262
+1413,Kečovo,Rožňava,344
+1414,Kechnec,Košice-okolie,1193
+1415,Kendereš,Nové Zámky,NaN
+1416,Kendice,Prešov,2025
+1417,Kesovce,Rimavská Sobota,255
+1418,Keť,Levice,584
+1419,Kevice,Turčianske Teplice,NaN
+1420,Kežmarok,Kežmarok,16346
+1421,Kežmarské_Žľaby,Poprad,10
+1422,Kiarov,Veľký Krtíš,286
+1423,Kinčeš,Trebišov,NaN
+1424,Kírť,Veľký Krtíš,NaN
+1425,Kišovce,Poprad,2077
+1426,Kľačany,Hlohovec,1121
+1427,Kľačany,Topoľčany,1121
+1428,Kľačany,Žiar nad Hronom,1121
+1429,Kľače,Žilina,420
+1430,Kľačno,Prievidza,1077
+1431,Kľačno,Ružomberok,1077
+1432,Kladzany,Vranov nad Topľou,539
+1433,Kľak,Žarnovica,183
+1434,Klasov,Nitra,1383
+1435,Klastava,Banská Štiavnica,NaN
+1436,Kláštor_pod_Znievom,Martin,1667
+1437,Klátova_Nová_Ves,Partizánske,1669
+1438,Klčov,Levoča,633
+1439,Klčovany,Trnava,NaN
+1440,Kleňany,Veľký Krtíš,268
+1441,Klenov,Prešov,235
+1442,Klenová,Snina,503
+1443,Klenovec,Rimavská Sobota,3159
+1444,Klieština,Považská Bystrica,342
+1445,Klin,Čadca,NaN
+1446,Klin,Námestovo,2468
+1447,Klin_nad_Bodrogom,Trebišov,199
+1448,Klíž,Partizánske,NaN
+1449,Klížska_Nemá,Komárno,457
+1450,Klížske_Hradište,Partizánske,NaN
+1451,Klobušice,Ilava,NaN
+1452,Klokoč,Detva,495
+1453,Klokočina,Nitra,NaN
+1454,Klokočov,Čadca,2283
+1455,Klokočov,Michalovce,434
+1456,Klubina,Čadca,535
+1457,Kľučiareň,Šaľa,NaN
+1458,Kľúčiarove_Kračany,Dunajská Streda,NaN
+1459,Kľúčové,Trenčín,NaN
+1460,Kľúčovec,Dunajská Streda,366
+1461,Kluknava,Gelnica,1555
+1462,Kľušov,Bardejov,1116
+1463,Kľušovská_Zábava,Bardejov,NaN
+1464,Kmeťovce,Levice,NaN
+1465,Kmeťovo,Nové Zámky,822
+1466,Kňažia,Dolný Kubín,NaN
+1467,Kobeliarovo,Rožňava,500
+1468,Kobylnice,Svidník,95
+1469,Kobyly,Bardejov,859
+1470,Koceľovce,Rožňava,241
+1471,Kociha,Rimavská Sobota,213
+1472,Kocurany,Prievidza,523
+1473,Kocurice,Piešťany,NaN
+1474,Kočín,Piešťany,NaN
+1475,Kočovce,Nové Mesto nad Váhom,1625
+1476,Kochanovce,Humenné,735
+1477,Kochanovce,Bardejov,263
+1478,Kochanovce,Trenčín,NaN
+1479,Kochnáč,Bánovce nad Bebravou,NaN
+1480,Kojatice,Prešov,1144
+1481,Kojatická_Dolina,Prešov,NaN
+1482,Kojšov,Gelnica,705
+1483,Kokava_nad_Rimavicou,Poltár,2825
+1484,Kokošovce,Prešov,907
+1485,Kokšov_-_Bakša,Košice-okolie,NaN
+1486,Kolačkov,Stará Ľubovňa,1366
+1487,Kolačno,Partizánske,887
+1488,Koláre,Veľký Krtíš,245
+1489,Kolárovice,Bytča,1810
+1490,Kolárovo,Komárno,10586
+1491,Kolbasov,Snina,69
+1492,Kolbovce,Stropkov,188
+1493,Kolibabovce,Sobrance,188
+1494,Kolíňany,Nitra,1549
+1495,Kolinovce,Spišská Nová Ves,579
+1496,Kolónia,Trebišov,NaN
+1497,Kolónia,Dunajská Streda,NaN
+1498,Kolónia,Dunajská Streda,NaN
+1499,Kolónia,Nové Zámky,NaN
+1500,Kolonica,Snina,556
+1501,Kolta,Nové Zámky,1258
+1502,Komanica,Michalovce,NaN
+1503,Komárany,Vranov nad Topľou,502
+1504,Komárno,Komárno,33751
+1505,Komárno,Detva,33751
+1506,Komárov,Bardejov,444
+1507,Komárovce,Košice-okolie,NaN
+1508,Komárovce,Sobrance,NaN
+1509,Komjatice,Nové Zámky,4292
+1510,Komjatná,Ružomberok,1552
+1511,Komoča,Nové Zámky,960
+1512,Komov,Brezno,NaN
+1513,Končitá,Dolný Kubín,NaN
+1514,Koniarovce,Topoľčany,646
+1515,Konkoľ,Komárno,NaN
+1516,Konrádovce,Rimavská Sobota,339
+1517,Konská,Žilina,1582
+1518,Konská,Liptovský Mikuláš,227
+1519,Konské,Martin,NaN
+1520,Koňuš,Sobrance,342
+1521,Kopanice,Čadca,NaN
+1522,Kopanice,Žarnovica,NaN
+1523,Kopčany,Skalica,2567
+1524,Kopec,Ilava,NaN
+1525,Kopernica,Žiar nad Hronom,411
+1526,Koplotovce,Hlohovec,769
+1527,Kopráš,Revúca,NaN
+1528,Koprivnica,Bardejov,669
+1529,Kordíky,Banská Bystrica,474
+1530,Korejovce,Svidník,80
+1531,Korňa,Čadca,1981
+1532,Kornica,Čadca,NaN
+1533,Koromľa,Sobrance,424
+1534,Korunková,Stropkov,80
+1535,Korytárky,Detva,963
+1536,Korytné,Bytča,85
+1537,Korytné,Levoča,85
+1538,Korytnica_-_kúpele,Ružomberok,NaN
+1539,Kosihovce,Veľký Krtíš,574
+1540,Kosihy_nad_Ipľom,Veľký Krtíš,390
+1541,Kosorín,Žiar nad Hronom,468
+1542,Kostiviarska,Banská Bystrica,NaN
+1543,Kostivrch,Žarnovica,NaN
+1544,Kostoľany_nad_Hornádom,Košice-okolie,1245
+1545,Kostoľany_pod_Tribečom,Zlaté Moravce,335
+1546,Kostolec,Považská Bystrica,242
+1547,Kostolište,Malacky,1649
+1548,Kostolná,Detva,NaN
+1549,Kostolná_-_Záriečie,Trenčín,NaN
+1550,Kostolná_Gala,Dunajská Streda,NaN
+1551,Kostolná_pri_Dunaji,Senec,735
+1552,Kostolná_Ves,Prievidza,474
+1553,Kostolné,Myjava,577
+1554,Kostolné_Kračany,Dunajská Streda,1393
+1555,Kostolné_Mitice,Trenčín,NaN
+1556,Kostolné_Moravce,Krupina,NaN
+1557,Kostolný_Sek,Nové Zámky,NaN
+1558,Koš,Prievidza,NaN
+1559,Košariská,Myjava,431
+1560,Košarovce,Humenné,623
+1561,Košeca,Ilava,2737
+1562,Košecké_Podhradie,Ilava,1059
+1563,Košecké_Rovné,Ilava,NaN
+1564,Košice,Košice I,238593
+1565,Košice_-_Barca,Košice IV,3756
+1566,Košice_-_Dargovských_Hrdinov,Košice III,NaN
+1567,Košice_-_Džungľa,Košice I,721
+1568,Košice_-_Juh,Košice IV,22693
+1569,Košice_-_Kavečany,Košice I,1348
+1570,Košice_-_Košická_Nová_Ves,Košice III,2883
+1571,Košice_-_Krásna,Košice IV,5884
+1572,Košice_-_Lorinčík,Košice II,811
+1573,Košice_-_Luník_IX,Košice II,6596
+1574,Košice_-_Myslava,Košice II,2475
+1575,Košice_-_Nad_Jazerom,Košice IV,NaN
+1576,Košice_-_Pereš,Košice II,2061
+1577,Košice_-_Poľov,Košice II,1219
+1578,Košice_-_Sever,Košice I,20151
+1579,Košice_-_Sídlisko_KVP,Košice II,23490
+1580,Košice_-_Sídlisko_Ťahanovce,Košice I,21936
+1581,Košice_-_Staré_Mesto,Košice I,20796
+1582,Košice_-_Šaca,Košice II,5969
+1583,Košice_-_Šebastovce,Košice IV,745
+1584,Košice_-_Ťahanovce,Košice I,2532
+1585,Košice_-_Vyšné_Opátske,Košice IV,2623
+1586,Košice_-_Západ,Košice II,39657
+1587,Košice_-_Železiarne,Košice II,NaN
+1588,Košická_Belá,Košice-okolie,978
+1589,Košická_Polianka,Košice-okolie,1037
+1590,Košické_Oľšany,Košice-okolie,1334
+1591,Košický_Klečenov,Košice-okolie,290
+1592,Koškovce,Humenné,580
+1593,Košolná,Trnava,815
+1594,Košťany,Košice-okolie,NaN
+1595,Košťany_nad_Turcom,Martin,1340
+1596,Košúty,Martin,NaN
+1597,Košúty,Galanta,1765
+1598,Kotelnica,Komárno,NaN
+1599,Kotešová,Bytča,2069
+1600,Kotmanová,Lučenec,297
+1601,Kotrčiná_Lúčka,Žilina,545
+1602,Kováčov,Nové Zámky,NaN
+1603,Kováčová,Rožňava,54
+1604,Kováčová,Zvolen,1601
+1605,Kováčovce,Veľký Krtíš,327
+1606,Koválov,Senica,697
+1607,Koválovec,Skalica,156
+1608,Kovarce,Topoľčany,1592
+1609,Kozárovce,Levice,2070
+1610,Kozelec,Stará Ľubovňa,NaN
+1611,Kozelník,Banská Štiavnica,164
+1612,Kozí_Vrbovok,Krupina,157
+1613,Kozinská,Dolný Kubín,NaN
+1614,Kožany,Bardejov,101
+1615,Kožuchov,Trebišov,198
+1616,Kožuchovce,Stropkov,57
+1617,Kračúnovce,Svidník,1248
+1618,Krahule,Žiar nad Hronom,276
+1619,Krajná_Bystrá,Svidník,466
+1620,Krajná_Poľana,Svidník,216
+1621,Krajná_Porúbka,Svidník,40
+1622,Krajné,Myjava,1449
+1623,Krajné_Čierno,Svidník,74
+1624,Krakovany,Piešťany,1462
+1625,Kráľ,Rimavská Sobota,952
+1626,Králik,Revúca,NaN
+1627,Králiky,Banská Bystrica,686
+1628,Kráľka,Komárno,NaN
+1629,Kráľov_Brod,Galanta,1765
+1630,Kráľová,Zvolen,NaN
+1631,Kráľová,Banská Bystrica,NaN
+1632,Kráľova_Lehota,Liptovský Mikuláš,604
+1633,Kráľová_nad_Váhom,Šaľa,1803
+1634,Kráľová_pri_Senci,Senec,2114
+1635,Kraľovany,Dolný Kubín,431
+1636,Kráľovce,Košice-okolie,1181
+1637,Kráľovce,Krupina,1181
+1638,Kráľovce_-_Krnišov,Krupina,NaN
+1639,Kráľovianky,Dunajská Streda,NaN
+1640,Kráľovičová,Levice,NaN
+1641,Kráľovičove_Kračany,Dunajská Streda,1091
+1642,Kráľovský_Chlmec,Trebišov,7426
+1643,Krám,Brezno,NaN
+1644,Kraskovo,Rimavská Sobota,130
+1645,Krásna,Rimavská Sobota,NaN
+1646,Krásna,Lučenec,NaN
+1647,Krásna_Hôrka,Tvrdošín,NaN
+1648,Krásna_Lúka,Sabinov,672
+1649,Krásna_Ves,Bánovce nad Bebravou,507
+1650,Krasňany,Žilina,1645
+1651,Krásno,Partizánske,473
+1652,Krásno_nad_Kysucou,Čadca,6799
+1653,Krásnohorská_Dlhá_Lúka,Rožňava,725
+1654,Krásnohorské_Podhradie,Rožňava,2746
+1655,Krásnovce,Michalovce,632
+1656,Krásny_Brod,Medzilaborce,491
+1657,Krásny_Dub,Trenčín,3360
+1658,Krátke_Kesy,Komárno,NaN
+1659,Kravany,Poprad,897
+1660,Kravany,Trebišov,366
+1661,Kravany_nad_Dunajom,Komárno,710
+1662,Kravárska,Žilina,NaN
+1663,Krčava,Sobrance,402
+1664,Kremná,Stará Ľubovňa,98
+1665,Kremnica,Žiar nad Hronom,5258
+1666,Kremnické_Bane,Žiar nad Hronom,261
+1667,Kremnička,Banská Bystrica,NaN
+1668,Kristy,Sobrance,317
+1669,Krišľovce,Stropkov,29
+1670,Krišovská_Liesková,Michalovce,935
+1671,Krivá,Dolný Kubín,800
+1672,Krivá_Oľka,Medzilaborce,NaN
+1673,Kriváň,Detva,1752
+1674,Krivany,Sabinov,1242
+1675,Krivé,Bardejov,211
+1676,Krivec_I,Detva,NaN
+1677,Krivec_II,Detva,NaN
+1678,Krivoklát,Ilava,244
+1679,Krivosúd_-_Bodovka,Trenčín,NaN
+1680,Krivošťany,Michalovce,NaN
+1681,Kríž_nad_Váhom,Nové Mesto nad Váhom,NaN
+1682,Krížany,Michalovce,NaN
+1683,Kríže,Bardejov,64
+1684,Krížny_Vrch,Levice,NaN
+1685,Krížová_Ves,Kežmarok,2280
+1686,Krížovany,Prešov,370
+1687,Križovany_nad_Dudváhom,Trnava,1806
+1688,Krížový_Dvor,Komárno,NaN
+1689,Krkošky,Čadca,NaN
+1690,Krmeš,Liptovský Mikuláš,NaN
+1691,Krná,Poltár,52
+1692,Krnča,Topoľčany,1335
+1693,Krné,Detva,NaN
+1694,Krnišov,Krupina,NaN
+1695,Krokava,Rimavská Sobota,26
+1696,Krompachy,Spišská Nová Ves,8684
+1697,Krpeľany,Martin,1067
+1698,Krškany,Levice,778
+1699,Krtovce,Topoľčany,305
+1700,Kručov,Stropkov,209
+1701,Krupina,Krupina,7912
+1702,Krušetnica,Námestovo,961
+1703,Krušinec,Stropkov,242
+1704,Krušovce,Topoľčany,1675
+1705,Kružlov,Bardejov,1008
+1706,Kružlová,Svidník,700
+1707,Kružlovská_Huta,Bardejov,NaN
+1708,Kružná,Rožňava,479
+1709,Kružno,Rimavská Sobota,367
+1710,Kšinná,Bánovce nad Bebravou,493
+1711,Kubáňovo,Levice,259
+1712,Kubíková,Žilina,NaN
+1713,Kubínska,Námestovo,NaN
+1714,Kubrá,Trenčín,NaN
+1715,Kubrica,Trenčín,NaN
+1716,Kucany,Michalovce,NaN
+1717,Kučín,Bardejov,328
+1718,Kučín,Vranov nad Topľou,555
+1719,Kuchyňa,Malacky,1688
+1720,Kuklov,Senica,795
+1721,Kuková,Svidník,741
+1722,Kukučínov,Levice,579
+1723,Kunerad,Žilina,1029
+1724,Kunešov,Žiar nad Hronom,208
+1725,Kunov,Senica,NaN
+1726,Kunova_Teplica,Rožňava,717
+1727,Kuraľany,Levice,492
+1728,Kurima,Bardejov,1129
+1729,Kurimany,Levoča,368
+1730,Kurimka,Svidník,383
+1731,Kurinec,Rimavská Sobota,NaN
+1732,Kurov,Bardejov,673
+1733,Kurtáň,Lučenec,NaN
+1734,Kusín,Michalovce,341
+1735,Kútniky,Dunajská Streda,1430
+1736,Kúty,Senica,3998
+1737,Kúty,Prievidza,NaN
+1738,Kuzmice,Trebišov,1705
+1739,Kuzmice,Topoľčany,738
+1740,Kvačany,Liptovský Mikuláš,538
+1741,Kvačany,Prešov,290
+1742,Kvakovce,Vranov nad Topľou,426
+1743,Kvašov,Púchov,NaN
+1744,Kvetnica,Poprad,NaN
+1745,Kvetoslavov,Dunajská Streda,1631
+1746,Kýčerka,Čadca,NaN
+1747,Kyjatice,Rimavská Sobota,76
+1748,Kyjov,Stará Ľubovňa,742
+1749,Kykula,Trenčín,NaN
+1750,Kynceľová,Banská Bystrica,374
+1751,Kynceľove_Kračany,Dunajská Streda,NaN
+1752,Kynek,Nitra,NaN
+1753,Kysak,Košice-okolie,1484
+1754,Kyselica,Dunajská Streda,NaN
+1755,Kysihýbel,Banská Štiavnica,NaN
+1756,Kysta,Trebišov,386
+1757,Kysuca,Brezno,NaN
+1758,Kysucké_Nové_Mesto,Kysucké Nové Mesto,14953
+1759,Kysucký_Lieskovec,Kysucké Nové Mesto,2352
+1760,Kyzka,Čadca,NaN
+1761,Láb,Malacky,1996
+1762,Lackov,Krupina,102
+1763,Lacková,Stará Ľubovňa,159
+1764,Lackovce,Humenné,799
+1765,Laclavá,Turčianske Teplice,NaN
+1766,Lačnov,Prešov,863
+1767,Lada,Prešov,847
+1768,Ladce,Ilava,2587
+1769,Ladice,Zlaté Moravce,738
+1770,Ladislavov_Dvor,Levice,NaN
+1771,Ladmovce,Trebišov,319
+1772,Ladomerská_Vieska,Žiar nad Hronom,805
+1773,Ladomirov,Snina,255
+1774,Ladomirová,Svidník,1056
+1775,Ladunkov,Čadca,NaN
+1776,Ladzany,Krupina,263
+1777,Lakšárska_Nová_Ves,Senica,1143
+1778,Lalinok,Žilina,NaN
+1779,Lančár,Piešťany,519
+1780,Lándor,Komárno,NaN
+1781,Lány,Čadca,NaN
+1782,Lascov,Bardejov,572
+1783,Laskár,Martin,135
+1784,Laskár,Prievidza,NaN
+1785,Lastomír,Michalovce,1210
+1786,Lastovce,Trebišov,1206
+1787,Laškovce,Michalovce,698
+1788,Látkovce,Bánovce nad Bebravou,NaN
+1789,Látky,Detva,595
+1790,Lazany,Martin,NaN
+1791,Lazany,Prievidza,1708
+1792,Lazisko,Liptovský Mikuláš,383
+1793,Lazy_pod_Makytou,Púchov,1208
+1794,Lažany,Prešov,176
+1795,Lažteky,Zvolen,NaN
+1796,Lednica,Púchov,NaN
+1797,Lednické_Rovne,Púchov,4011
+1798,Lefantovce,Nitra,NaN
+1799,Legnava,Stará Ľubovňa,98
+1800,Lehnice,Dunajská Streda,2851
+1801,Lehota,Nitra,2212
+1802,Lehota_nad_Rimavicou,Rimavská Sobota,282
+1803,Lehota_pod_Vtáčnikom,Prievidza,3870
+1804,Lehotská,Námestovo,NaN
+1805,Lehôtka,Lučenec,361
+1806,Lehôtka_pod_Brehmi,Žiar nad Hronom,410
+1807,Lechnica,Kežmarok,251
+1808,Lekárovce,Sobrance,885
+1809,Leľa,Nové Zámky,300
+1810,Leles,Trebišov,1795
+1811,Lemešany,Prešov,1952
+1812,Lenartov,Bardejov,1162
+1813,Lenartovce,Rimavská Sobota,552
+1814,Lendak,Kežmarok,5352
+1815,Lenka,Rimavská Sobota,191
+1816,Lentvora,Lučenec,92
+1817,Leopoldov,Hlohovec,4097
+1818,Lesenice,Veľký Krtíš,496
+1819,Lesíček,Prešov,419
+1820,Lesné,Michalovce,442
+1821,Lesné_Kračany,Dunajská Streda,NaN
+1822,Lesnica,Stará Ľubovňa,487
+1823,Lešť,Zvolen,NaN
+1824,Leštiny,Dolný Kubín,267
+1825,Letanovce,Spišská Nová Ves,2293
+1826,Letničie,Skalica,511
+1827,Leváre,Revúca,80
+1828,Levice,Levice,NaN
+1829,Levkuška,Revúca,247
+1830,Levoča,Levoča,14722
+1831,Levočská_Dolina,Levoča,NaN
+1832,Levočské_Lúky,Levoča,NaN
+1833,Ležiachov,Martin,146
+1834,Libichava,Bánovce nad Bebravou,140
+1835,Licince,Revúca,799
+1836,Ličartovce,Prešov,991
+1837,Lidér_Tejed,Dunajská Streda,NaN
+1838,Liesek,Tvrdošín,2978
+1839,Lieskov_-_Dolný_Lieskov,Považská Bystrica,NaN
+1840,Lieskov_-_Horný_Lieskov,Považská Bystrica,NaN
+1841,Lieskov_-_Podskalie,Považská Bystrica,NaN
+1842,Lieskov_-_Tŕstie,Považská Bystrica,NaN
+1843,Liesková,Michalovce,NaN
+1844,Lieskovany,Spišská Nová Ves,359
+1845,Lieskové,Senica,NaN
+1846,Lieskové_-_Zemianske_Lieskové,Trenčín,NaN
+1847,Lieskovec,Humenné,446
+1848,Lieskovec,Zvolen,1452
+1849,Liešno,Turčianske Teplice,53
+1850,Liešťany,Prievidza,1219
+1851,Lietava,Žilina,1555
+1852,Lietavská_Lúčka,Žilina,1840
+1853,Lietavská_Svinná,Žilina,NaN
+1854,Lietavská_Závadka,Žilina,NaN
+1855,Likavka,Ružomberok,3032
+1856,Likier,Rimavská Sobota,NaN
+1857,Limbach,Pezinok,2254
+1858,Lipany,Sabinov,6542
+1859,Lipník,Levice,NaN
+1860,Lipník,Prievidza,560
+1861,Lipníky,Prešov,520
+1862,Lipníky_-_Podhrabina,Prešov,NaN
+1863,Lipová,Bardejov,70
+1864,Lipová,Nové Zámky,1516
+1865,Lipovany,Lučenec,241
+1866,Lipovce,Prešov,522
+1867,Lipovce_-_chaty,Prešov,NaN
+1868,Lipové,Komárno,145
+1869,Lipovec,Martin,925
+1870,Lipovec,Rimavská Sobota,99
+1871,Lipovník,Rožňava,523
+1872,Lipovník,Topoľčany,329
+1873,Liptovská_Anna,Liptovský Mikuláš,85
+1874,Liptovská_Kokava,Liptovský Mikuláš,967
+1875,Liptovská_Lúžna,Ružomberok,2783
+1876,Liptovská_Ondrašová,Liptovský Mikuláš,NaN
+1877,Liptovská_Osada,Ružomberok,1634
+1878,Liptovská_Porúbka,Liptovský Mikuláš,1185
+1879,Liptovská_Sielnica,Liptovský Mikuláš,605
+1880,Liptovská_Štiavnica,Ružomberok,1269
+1881,Liptovská_Teplá,Ružomberok,1005
+1882,Liptovská_Teplička,Poprad,2462
+1883,Liptovské_Beharovce,Liptovský Mikuláš,78
+1884,Liptovské_Kľačany,Liptovský Mikuláš,378
+1885,Liptovské_Matiašovce,Liptovský Mikuláš,321
+1886,Liptovské_Revúce,Ružomberok,1513
+1887,Liptovské_Sliače,Ružomberok,3676
+1888,Liptovský_Hrádok,Liptovský Mikuláš,7397
+1889,Liptovský_Ján,Liptovský Mikuláš,1096
+1890,Liptovský_Michal,Ružomberok,308
+1891,Liptovský_Mikuláš,Liptovský Mikuláš,31000
+1892,Liptovský_Ondrej,Liptovský Mikuláš,615
+1893,Liptovský_Peter,Liptovský Mikuláš,1318
+1894,Liptovský_Trnovec,Liptovský Mikuláš,553
+1895,Lisková,Ružomberok,2088
+1896,Lišov,Krupina,217
+1897,Litava,Krupina,760
+1898,Litmanová,Stará Ľubovňa,642
+1899,Livina,Partizánske,NaN
+1900,Livinské_Opatovce,Partizánske,282
+1901,Livov,Bardejov,72
+1902,Livovská_Huta,Bardejov,43
+1903,Lodno,Kysucké Nové Mesto,983
+1904,Lok,Levice,951
+1905,Lokca,Námestovo,2392
+1906,Lom_nad_Rimavicou,Brezno,250
+1907,Lomná,Námestovo,940
+1908,Lomné,Stropkov,235
+1909,Lomnica,Prievidza,NaN
+1910,Lomnička,Stará Ľubovňa,3472
+1911,Lonec,Zvolen,NaN
+1912,Lontov,Levice,664
+1913,Lopašov,Skalica,333
+1914,Lopej,Brezno,NaN
+1915,Lopúchov,Bardejov,314
+1916,Lopušná,Kysucké Nové Mesto,NaN
+1917,Lopušné_Pažite_-_Lopušná,Kysucké Nové Mesto,NaN
+1918,Lopušné_Pažite_-_Pažite,Kysucké Nové Mesto,NaN
+1919,Lošonec,Trnava,563
+1920,Lovce,Zlaté Moravce,699
+1921,Lovča,Žiar nad Hronom,682
+1922,Lovčica,Žiar nad Hronom,NaN
+1923,Lovčica_-_Trubín,Žiar nad Hronom,NaN
+1924,Lovinobaňa,Lučenec,2003
+1925,Lozorno,Malacky,3056
+1926,Ložín,Michalovce,821
+1927,Ľubá,Nové Zámky,403
+1928,Ľubeľa,Liptovský Mikuláš,1142
+1929,Lubeník,Revúca,1281
+1930,Ľubianka,Prievidza,NaN
+1931,Ľubica,Kežmarok,4585
+1932,Ľubienka,Poltár,NaN
+1933,Ľubietová,Banská Bystrica,1219
+1934,Lubina,Nové Mesto nad Váhom,1449
+1935,Ľubiša,Humenné,816
+1936,Ľubochňa,Ružomberok,1053
+1937,Ľuborča,Trenčín,NaN
+1938,Ľuboreč,Lučenec,NaN
+1939,Ľuboriečka,Veľký Krtíš,152
+1940,Ľubotice,Prešov,3602
+1941,Ľubotín,Stará Ľubovňa,1355
+1942,Ľubovec,Prešov,515
+1943,Lúč_na_Ostrove,Dunajská Streda,689
+1944,Lučatín,Banská Bystrica,666
+1945,Lučenec,Lučenec,27739
+1946,Lúčina,Prešov,164
+1947,Lučivná,Poprad,971
+1948,Lúčka,Rožňava,181
+1949,Lúčka,Levoča,126
+1950,Lúčka,Sabinov,697
+1951,Lúčka,Svidník,520
+1952,Lučkovce,Michalovce,NaN
+1953,Lúčky,Ružomberok,1743
+1954,Lúčky,Michalovce,598
+1955,Lúčky,Žiar nad Hronom,187
+1956,Lúčky_-_kúpele,Ružomberok,NaN
+1957,Lúčnica_nad_Žitavou,Nitra,929
+1958,Ludanice,Topoľčany,1812
+1959,Ľudovítov,Nové Zámky,NaN
+1960,Ľudovítová,Nitra,240
+1961,Ľudvikov_dvor,Košice-okolie,NaN
+1962,Ludrová,Ružomberok,999
+1963,Luhyňa,Trebišov,289
+1964,Lúka,Nové Mesto nad Váhom,NaN
+1965,Lukačovce,Humenné,445
+1966,Lukáčovce,Nitra,1155
+1967,Lukavica,Bardejov,374
+1968,Lukavica,Zvolen,276
+1969,Lukavica,Žarnovica,NaN
+1970,Lukov,Bardejov,644
+1971,Lukové,Zvolen,NaN
+1972,Lukovištia,Rimavská Sobota,178
+1973,Lúky,Žilina,NaN
+1974,Lúky,Púchov,923
+1975,Lúky,Komárno,NaN
+1976,Lula,Levice,172
+1977,Lupoč,Lučenec,218
+1978,Luskovica,Myjava,NaN
+1979,Lutila,Žiar nad Hronom,1421
+1980,Ľutina,Sabinov,499
+1981,Lutiše,Žilina,724
+1982,Ľutov,Bánovce nad Bebravou,173
+1983,Lužany,Topoľčany,210
+1984,Lužany_pri_Topli,Svidník,257
+1985,Lužianky,Nitra,2995
+1986,Lysá_nad_Dunajcom,Kežmarok,NaN
+1987,Lysá_pod_Makytou,Púchov,2074
+1988,Lysica,Žilina,851
+1989,Macov,Dunajská Streda,407
+1990,Mačonáš,Galanta,NaN
+1991,Mačov,Prievidza,NaN
+1992,Mad,Dunajská Streda,572
+1993,Madačka,Lučenec,NaN
+1994,Madérét,Komárno,NaN
+1995,Madočany,Ružomberok,NaN
+1996,Madunice,Hlohovec,2271
+1997,Madzín,Bytča,NaN
+1998,Magnezitovce,Revúca,454
+1999,Magurka,Liptovský Mikuláš,NaN
+2000,Machalovce,Poprad,NaN
+2001,Machulince,Zlaté Moravce,1108
+2002,Majcichov,Trnava,2158
+2003,Majdan,Sabinov,NaN
+2004,Majer,Vranov nad Topľou,NaN
+2005,Majer,Banská Bystrica,NaN
+2006,Majere,Kežmarok,121
+2007,Majere,Levice,NaN
+2008,Majeríčky,Senica,NaN
+2009,Majerka,Kežmarok,NaN
+2010,Majerovce,Vranov nad Topľou,445
+2011,Makov,Čadca,1727
+2012,Makovce,Stropkov,155
+2013,Malá_Bara,Trebišov,NaN
+2014,Malá_Baračka,Levice,NaN
+2015,Malá_Budafa,Dunajská Streda,NaN
+2016,Malá_Bytča,Bytča,NaN
+2017,Malá_Čalomija,Veľký Krtíš,203
+2018,Malá_Čausa,Prievidza,707
+2019,Malá_Čierna,Žilina,345
+2020,Malá_Dolina,Lučenec,NaN
+2021,Malá_Domaša,Vranov nad Topľou,595
+2022,Malá_Franková,Kežmarok,184
+2023,Malá_Hradná,Bánovce nad Bebravou,394
+2024,Malá_Ida,Košice-okolie,1741
+2025,Malá_Iža,Komárno,NaN
+2026,Malá_Lehota,Žarnovica,831
+2027,Malá_Lehota,Prievidza,831
+2028,Malá_Lodina,Košice-okolie,190
+2029,Malá_Lúč,Dunajská Streda,NaN
+2030,Malá_Mača,Galanta,590
+2031,Malá_Maňa,Nové Zámky,NaN
+2032,Malá_Mužla,Nové Zámky,NaN
+2033,Malá_nad_Hronom,Nové Zámky,392
+2034,Malá_Paka,Dunajská Streda,NaN
+2035,Malá_Poľana,Stropkov,116
+2036,Malá_Tŕňa,Trebišov,371
+2037,Malá_Ves,Lučenec,NaN
+2038,Malá_Vieska,Košice-okolie,NaN
+2039,Malacky,Malacky,17467
+2040,Malachov,Banská Bystrica,1106
+2041,Málaš,Levice,471
+2042,Malatiná,Dolný Kubín,824
+2043,Malatíny,Liptovský Mikuláš,237
+2044,Malcov,Bardejov,1622
+2045,Malčice,Michalovce,1524
+2046,Malé_Bedzany,Topoľčany,NaN
+2047,Malé_Bielice,Partizánske,NaN
+2048,Malé_Bierovce,Trenčín,NaN
+2049,Malé_Blahovo,Dunajská Streda,NaN
+2050,Malé_Borové,Liptovský Mikuláš,117
+2051,Malé_Dvorany,Topoľčany,NaN
+2052,Malé_Dvorníky,Dunajská Streda,1156
+2053,Malé_Hoste,Bánovce nad Bebravou,393
+2054,Malé_Chlievany,Bánovce nad Bebravou,NaN
+2055,Malé_Chyndice,Nitra,390
+2056,Malé_Kosihy,Nové Zámky,400
+2057,Malé_Košecké_Podhradie,Ilava,NaN
+2058,Malé_Kozmálovce,Levice,320
+2059,Malé_Krškany,Levice,NaN
+2060,Malé_Kršteňany,Partizánske,542
+2061,Malé_Lednice,Považská Bystrica,500
+2062,Malé_Leváre,Malacky,1365
+2063,Malé_Ludince,Levice,166
+2064,Malé_Orvište,Piešťany,1224
+2065,Malé_Ostratice,Partizánske,NaN
+2066,Malé_Ozorovce,Trebišov,524
+2067,Malé_Raškovce,Michalovce,231
+2068,Malé_Ripňany,Topoľčany,557
+2069,Malé_Stankovce,Trenčín,NaN
+2070,Malé_Straciny,Veľký Krtíš,146
+2071,Malé_Teriakovce,Rimavská Sobota,NaN
+2072,Malé_Trakany,Trebišov,1034
+2073,Malé_Uherce,Partizánske,770
+2074,Malé_Vozokany,Zlaté Moravce,315
+2075,Malé_Zalužice,Michalovce,NaN
+2076,Malé_Zálužie,Nitra,263
+2077,Malé_Zlievce,Veľký Krtíš,292
+2078,Málinec,Poltár,1504
+2079,Malinová,Prievidza,971
+2080,Malinovec,Levice,NaN
+2081,Malinovo,Senec,3569
+2082,Malinô_Brdo,Ružomberok,NaN
+2083,Malužiná,Liptovský Mikuláš,230
+2084,Malý_Báb,Nitra,NaN
+2085,Malý_Biel,Senec,NaN
+2086,Malý_Bysterec,Dolný Kubín,NaN
+2087,Malý_Cetín,Nitra,438
+2088,Malý_Čepčín,Turčianske Teplice,548
+2089,Malý_Horeš,Trebišov,1098
+2090,Malý_Jatov,Nové Zámky,NaN
+2091,Malý_Kamenec,Trebišov,426
+2092,Malý_Kiar,Levice,NaN
+2093,Malý_Kolačín,Ilava,NaN
+2094,Malý_Krtíš,Veľký Krtíš,518
+2095,Malý_Lapáš,Nitra,1074
+2096,Malý_Lég,Dunajská Streda,NaN
+2097,Malý_Lipník,Stará Ľubovňa,NaN
+2098,Malý_Madaras,Senec,NaN
+2099,Malý_Ostrov,Komárno,NaN
+2100,Malý_Pesek,Levice,NaN
+2101,Malý_Ruskov,Trebišov,NaN
+2102,Malý_Slavkov,Kežmarok,1103
+2103,Malý_Slivník,Prešov,997
+2104,Malý_Šariš,Prešov,1754
+2105,Malženice,Trnava,1540
+2106,Maňa,Nové Zámky,2025
+2107,Mangútovo,Detva,NaN
+2108,Mankovce,Zlaté Moravce,531
+2109,Marcelová,Komárno,3714
+2110,Marček,Žilina,NaN
+2111,Margecany,Gelnica,1896
+2112,Marhaň,Bardejov,964
+2113,Marianka,Malacky,2196
+2114,Markovce,Michalovce,1030
+2115,Markuška,Rožňava,155
+2116,Markušovce,Spišská Nová Ves,4606
+2117,Maršová,Bytča,NaN
+2118,Martin,Martin,NaN
+2119,Svätý_Martin,Senec,NaN
+2120,Martin_nad_Žitavou,Zlaté Moravce,535
+2121,Martinček,Ružomberok,450
+2122,Martinová,Nitra,NaN
+2123,Martinová,Rimavská Sobota,203
+2124,Martovce,Komárno,679
+2125,Marušová,Levice,NaN
+2126,Maslovce,Dunajská Streda,NaN
+2127,Masníkovo,Dunajská Streda,NaN
+2128,Maša,Poltár,NaN
+2129,Mašková,Lučenec,NaN
+2130,Maškovce,Humenné,52
+2131,Maštinec,Poltár,NaN
+2132,Matejovce,Poprad,NaN
+2133,Matejovce_nad_Hornádom,Spišská Nová Ves,530
+2134,Matejovec,Myjava,NaN
+2135,Matiaška,Vranov nad Topľou,280
+2136,Matiašovce,Kežmarok,821
+2137,Matovce,Svidník,126
+2138,Maťovské_Vojkovce,Michalovce,636
+2139,Matušíková,Prievidza,NaN
+2140,Matúškovo,Galanta,2256
+2141,Matysová,Stará Ľubovňa,68
+2142,Mazorníkovo,Brezno,NaN
+2143,Mečedelovce,Levoča,NaN
+2144,Medné,Púchov,NaN
+2145,Meďov,Michalovce,NaN
+2146,Medovarce,Krupina,221
+2147,Medvecké,Levice,NaN
+2148,Medvedie,Svidník,46
+2149,Medveďov,Dunajská Streda,539
+2150,Medveďovo,Brezno,NaN
+2151,Medvedzie,Tvrdošín,NaN
+2152,Medzany,Prešov,936
+2153,Medzev,Košice-okolie,4482
+2154,Medzianky,Vranov nad Topľou,287
+2155,Medzibrod,Banská Bystrica,1383
+2156,Medzibrodie,Stará Ľubovňa,NaN
+2157,Medzibrodie_nad_Oravou,Dolný Kubín,559
+2158,Medzihradné,Dolný Kubín,NaN
+2159,Medzilaborce,Medzilaborce,6531
+2160,Mechenice,Nitra,NaN
+2161,Melčice,Trenčín,NaN
+2162,Melek,Nitra,482
+2163,Meliata,Rožňava,197
+2164,Mengusovce,Poprad,718
+2165,Merašice,Hlohovec,441
+2166,Merník,Vranov nad Topľou,609
+2167,Merovce,Krupina,NaN
+2168,Mestečko,Púchov,531
+2169,Mestisko,Svidník,461
+2170,Mičakovce,Svidník,136
+2171,Mierovo,Dunajská Streda,447
+2172,Miezgovce,Bánovce nad Bebravou,280
+2173,Miháľov,Bardejov,NaN
+2174,Michajlov,Snina,86
+2175,Michal_na_Ostrove,Dunajská Streda,1009
+2176,Michal_nad_Žitavou,Nové Zámky,662
+2177,Michaľany,Trebišov,1905
+2178,Michalková,Zvolen,31
+2179,Michalok,Vranov nad Topľou,283
+2180,Michalová,Brezno,1358
+2181,Michalovce,Michalovce,38776
+2182,Miklušovce,Prešov,301
+2183,Mikolčany,Revúca,NaN
+2184,Miková,Stropkov,131
+2185,Mikšová,Bytča,NaN
+2186,Mikula,Levice,NaN
+2187,Mikulášov,Senica,NaN
+2188,Mikulášov_Sad,Komárno,NaN
+2189,Mikulášová,Bardejov,126
+2190,Mikušovce,Ilava,1009
+2191,Mikušovce,Lučenec,277
+2192,Milhosť,Košice-okolie,397
+2193,Milhostov,Trebišov,NaN
+2194,Milinovice,Dunajská Streda,NaN
+2195,Milochov,Považská Bystrica,NaN
+2196,Miloslavov,Senec,3469
+2197,Milošová,Čadca,NaN
+2198,Milovaná,Michalovce,NaN
+2199,Milpoš,Sabinov,668
+2200,Miňovce,Stropkov,338
+2201,Mirkovce,Prešov,1366
+2202,Miroľa,Svidník,54
+2203,Miškech_Dedinka,Nové Mesto nad Váhom,NaN
+2204,Mládzovo,Poltár,94
+2205,Mláky,Detva,NaN
+2206,Mliečany,Dunajská Streda,NaN
+2207,Mliečno,Dunajská Streda,NaN
+2208,Mlyňany,Zlaté Moravce,NaN
+2209,Mlynárce,Nitra,NaN
+2210,Mlynárovce,Svidník,227
+2211,Mlynčeky,Kežmarok,688
+2212,Mlynica,Poprad,NaN
+2213,Mlynky,Spišská Nová Ves,531
+2214,Mlynský_Sek,Nové Zámky,NaN
+2215,Mníchova_Lehota,Trenčín,1226
+2216,Mníšany,Revúca,NaN
+2217,Mníšek_nad_Hnilcom,Gelnica,1801
+2218,Mníšek_nad_Popradom,Stará Ľubovňa,628
+2219,Moča,Komárno,1122
+2220,Močarany,Michalovce,NaN
+2221,Močarmany,Prešov,NaN
+2222,Močenok,Šaľa,4281
+2223,Močiar,Banská Štiavnica,160
+2224,Močiare,Púchov,NaN
+2225,Močidlá,Sobrance,NaN
+2226,Močidľany,Sabinov,NaN
+2227,Modlatín,Považská Bystrica,NaN
+2228,Modra,Pezinok,9046
+2229,Modra_nad_Cirochou,Humenné,995
+2230,Modranka,Trnava,NaN
+2231,Modrany,Komárno,1340
+2232,Modrová,Nové Mesto nad Váhom,488
+2233,Modrovka,Nové Mesto nad Váhom,194
+2234,Modrý_Kameň,Veľký Krtíš,1624
+2235,Mochovce_elektráreň,Levice,NaN
+2236,Mojín,Rimavská Sobota,NaN
+2237,Mojmírovce,Nitra,2914
+2238,Mojš,Žilina,1234
+2239,Mojšová_Lúčka,Žilina,NaN
+2240,Mojtín,Púchov,420
+2241,Mojzesovo,Nové Zámky,1337
+2242,Mokrá_Lúka,Revúca,536
+2243,Mokraď,Dolný Kubín,NaN
+2244,Mokrance,Košice-okolie,1358
+2245,Mokroluh,Bardejov,772
+2246,Mokrý_Háj,Skalica,722
+2247,Moldava_nad_Bodvou,Košice-okolie,11307
+2248,Moravany,Michalovce,1048
+2249,Moravany_nad_Váhom,Piešťany,2461
+2250,Moravské_Kračany,Dunajská Streda,NaN
+2251,Moravské_Lieskové,Nové Mesto nad Váhom,2562
+2252,Moravský_Svätý_Ján,Senica,2161
+2253,Morovno,Prievidza,NaN
+2254,Most_pri_Bratislave,Senec,3716
+2255,Mostište,Púchov,NaN
+2256,Mostová,Galanta,NaN
+2257,Moškovec,Turčianske Teplice,65
+2258,Mošovce,Turčianske Teplice,1340
+2259,Mošovce,Nové Mesto nad Váhom,1340
+2260,Moštenica,Banská Bystrica,235
+2261,Mošurov,Prešov,180
+2262,Motešice,Trenčín,793
+2263,Motyčky,Banská Bystrica,108
+2264,Môlča,Banská Bystrica,371
+2265,Môťová,Zvolen,NaN
+2266,Mrázovce,Stropkov,82
+2267,Mrzáčka,Námestovo,NaN
+2268,Mučín,Lučenec,788
+2269,Mudroňovo,Komárno,128
+2270,Mudrovce,Košice-okolie,68
+2271,Muľa,Veľký Krtíš,360
+2272,Muľka,Lučenec,NaN
+2273,Muráň,Revúca,1230
+2274,Muránska_Dlhá_Lúka,Revúca,901
+2275,Muránska_Huta,Revúca,188
+2276,Muránska_Lehota,Revúca,195
+2277,Muránska_Zdychava,Revúca,239
+2278,Mútňanská_Píla,Námestovo,NaN
+2279,Mútne,Námestovo,3068
+2280,Mužla,Nové Zámky,1830
+2281,Myjava,Myjava,NaN
+2282,Myslenice,Pezinok,NaN
+2283,Myslina,Humenné,572
+2284,Mýtna,Lučenec,1198
+2285,Mýtna_Nová_Ves,Topoľčany,NaN
+2286,Mýtne_Ludany,Levice,950
+2287,Mýto_pod_Ďumbierom,Brezno,528
+2288,Nacina_Ves,Michalovce,1809
+2289,Nadabula,Rožňava,NaN
+2290,Nadlice,Partizánske,599
+2291,Ňagov,Medzilaborce,411
+2292,Naháč,Trnava,405
+2293,Nálepkovo,Gelnica,3509
+2294,Námestovo,Námestovo,7784
+2295,Nána,Nové Zámky,1230
+2296,Nandraž,Revúca,284
+2297,Ňárad,Dunajská Streda,625
+2298,Návojovce,Partizánske,NaN
+2299,Nebojsa,Galanta,NaN
+2300,Necpaly,Martin,989
+2301,Nedanovce,Partizánske,618
+2302,Nedašovce,Bánovce nad Bebravou,448
+2303,Neded,Šaľa,3223
+2304,Nededza,Žilina,1052
+2305,Nedelište,Lučenec,NaN
+2306,Nedožery,Prievidza,NaN
+2307,Nedožery_-_Brezany,Prievidza,NaN
+2308,Nechválova_Polianka,Humenné,63
+2309,Nekyje_na_Ostrove,Dunajská Streda,NaN
+2310,Nemce,Banská Bystrica,1161
+2311,Nemcovce,Prešov,479
+2312,Nemcovce,Bardejov,262
+2313,Nemčice,Topoľčany,987
+2314,Nemčiňany,Zlaté Moravce,671
+2315,Nemecká,Brezno,1786
+2316,Nemečky,Topoľčany,312
+2317,Nemešany,Levoča,425
+2318,Nemšová,Trenčín,6414
+2319,Nenince,Veľký Krtíš,1346
+2320,Neporadza,Trenčín,812
+2321,Neporadza,Rimavská Sobota,241
+2322,Neresnica,Zvolen,NaN
+2323,Nesluša,Kysucké Nové Mesto,3168
+2324,Nesvady,Komárno,5049
+2325,Neverice,Zlaté Moravce,720
+2326,Nevidzany,Zlaté Moravce,572
+2327,Nevidzany,Prievidza,293
+2328,Nevoľné,Žiar nad Hronom,424
+2329,Nezbudská_Lúčka,Žilina,394
+2330,Niereše,Prešov,NaN
+2331,Nimnica,Púchov,709
+2332,Nitra,Nitra,76533
+2333,Nitra_-_Staré_Mesto,Nitra,NaN
+2334,Nitra_nad_Ipľom,Lučenec,377
+2335,Nitrianska_Blatnica,Topoľčany,1243
+2336,Nitrianska_Streda,Topoľčany,735
+2337,Nitrianske_Hrnčiarovce,Nitra,2108
+2338,Nitrianske_Pravno,Prievidza,3216
+2339,Nitrianske_Rudno,Prievidza,NaN
+2340,Nitrianske_Sučany,Prievidza,1185
+2341,Nitriansky_Hrádok,Nové Zámky,1100
+2342,Nitrica,Prievidza,NaN
+2343,Nixbrod,Levice,NaN
+2344,Nižná,Tvrdošín,4017
+2345,Nižná,Piešťany,550
+2346,Nižná_Boca,Liptovský Mikuláš,163
+2347,Nižná_Hutka,Košice-okolie,614
+2348,Nižná_Jablonka,Humenné,161
+2349,Nižná_Jedľová,Svidník,101
+2350,Nižná_Kaloša,Rimavská Sobota,NaN
+2351,Nižná_Kamenica,Košice-okolie,611
+2352,Nižná_Korňa,Čadca,NaN
+2353,Nižná_Myšľa,Košice-okolie,1675
+2354,Nižná_Olšava,Stropkov,429
+2355,Nižná_Pisaná,Svidník,81
+2356,Nižná_Pokoradz,Rimavská Sobota,NaN
+2357,Nižná_Polianka,Bardejov,226
+2358,Nižná_Revúca,Ružomberok,NaN
+2359,Nižná_Rybnica,Sobrance,415
+2360,Nižná_Sitnica,Humenné,312
+2361,Nižná_Slaná,Rožňava,1257
+2362,Nižná_Šebastová,Prešov,NaN
+2363,Nižná_Šuňava,Poprad,NaN
+2364,Nižná_Vladiča,Stropkov,NaN
+2365,Nižná_Voľa,Bardejov,284
+2366,Nižné_Kamence,Žilina,NaN
+2367,Nižné_Ladičkovce,Humenné,337
+2368,Nižné_Matiašovce,Liptovský Mikuláš,NaN
+2369,Nižné_Nemecké,Sobrance,333
+2370,Nižné_Raslavice,Bardejov,NaN
+2371,Nižné_Repaše,Levoča,163
+2372,Nižné_Ružbachy,Stará Ľubovňa,635
+2373,Nižné_Valice,Rimavská Sobota,NaN
+2374,Nižnoslanská_Baňa,Rožňava,NaN
+2375,Nižný_Čaj,Košice-okolie,265
+2376,Nižný_Hrabovec,Vranov nad Topľou,1660
+2377,Nižný_Hrušov,Vranov nad Topľou,1499
+2378,Nižný_Kelčov,Čadca,NaN
+2379,Nižný_Klátov,Košice-okolie,856
+2380,Nižný_Komárnik,Svidník,190
+2381,Nižný_Kručov,Vranov nad Topľou,396
+2382,Nižný_Lánec,Košice-okolie,460
+2383,Nižný_Medzev,Košice-okolie,NaN
+2384,Nižný_Mirošov,Svidník,271
+2385,Nižný_Orlík,Svidník,321
+2386,Nižný_Skálnik,Rimavská Sobota,184
+2387,Nižný_Slavkov,Sabinov,854
+2388,Nižný_Sliač,Ružomberok,NaN
+2389,Nižný_Tvarožec,Bardejov,540
+2390,Nižný_Žipov,Trebišov,1451
+2391,Nolčovo,Martin,257
+2392,Norovce,Topoľčany,317
+2393,Nosice,Púchov,NaN
+2394,Nová_Baňa,Žarnovica,7314
+2395,Nová_Bašta,Rimavská Sobota,481
+2396,Nová_Bošáca,Nové Mesto nad Váhom,1059
+2397,Nová_Bystrica,Čadca,NaN
+2398,Nová_Dedina,Levice,1470
+2399,Nová_Dedinka,Senec,2823
+2400,Nová_Dubnica,Ilava,11040
+2401,Nová_Kelča,Vranov nad Topľou,378
+2402,Nová_Lehota,Nové Mesto nad Váhom,205
+2403,Nová_Lehota,Prievidza,NaN
+2404,Nová_Lesná,Poprad,1650
+2405,Nová_Lipnica,Senec,NaN
+2406,Nová_Ľubovňa,Stará Ľubovňa,2989
+2407,Nová_Maša,Brezno,NaN
+2408,Nová_Osada,Nové Zámky,NaN
+2409,Nová_Osada,Komárno,NaN
+2410,Nová_Polhora,Košice-okolie,490
+2411,Nová_Polianka,Poprad,NaN
+2412,Nová_Polianka,Svidník,69
+2413,Nová_Sedlica,Snina,259
+2414,Nová_Stráž,Komárno,NaN
+2415,Nová_Trstená,Komárno,NaN
+2416,Nová_Ves,Veľký Krtíš,426
+2417,Nová_Ves_nad_Váhom,Nové Mesto nad Váhom,560
+2418,Nová_Ves_nad_Žitavou,Nitra,1358
+2419,Nová_Ves_pri_Dunaji,Senec,NaN
+2420,Nová_Vieska,Nové Zámky,690
+2421,Nová_Vieska_pri_Bodrogu,Trebišov,NaN
+2422,Nováčany,Košice-okolie,769
+2423,Nováčany,Revúca,769
+2424,Nováky,Prievidza,4203
+2425,Nové_Hony,Lučenec,176
+2426,Nové_Košariská,Senec,NaN
+2427,Nové_Mesto_nad_Váhom,Nové Mesto nad Váhom,20071
+2428,Nové_Osady,Galanta,NaN
+2429,Nové_Sady,Nitra,1280
+2430,Nové_Zámky,Nové Zámky,37512
+2431,Novosad,Trebišov,1000
+2432,Novoť,Námestovo,3683
+2433,Novotský_Duľov,Námestovo,NaN
+2434,Novoveská_Huta,Spišská Nová Ves,NaN
+2435,Nový_Diel,Komárno,NaN
+2436,Nový_Dvor,Levice,NaN
+2437,Nový_Gúg,Nové Zámky,NaN
+2438,Nový_Majer,Trebišov,NaN
+2439,Nový_Ruskov,Trebišov,678
+2440,Nový_Sad,Lučenec,341625
+2441,Nový_Salaš,Košice-okolie,223
+2442,Nový_Smokovec,Poprad,495
+2443,Nový_Svet,Senec,89
+2444,Nový_Svet,Detva,89
+2445,Nový_Tekov,Levice,863
+2446,Nový_Život,Dunajská Streda,2239
+2447,Nozdrovice,Ilava,NaN
+2448,Nýrovce,Levice,499
+2449,Obeckov,Veľký Krtíš,449
+2450,Obid,Nové Zámky,1166
+2451,Obišovce,Košice-okolie,481
+2452,Oblazov,Bytča,NaN
+2453,Oborín,Michalovce,731
+2454,Obručná,Lučenec,NaN
+2455,Obručné,Stará Ľubovňa,29
+2456,Obsolovce,Topoľčany,NaN
+2457,Obyce,Zlaté Moravce,1501
+2458,Očkov,Nové Mesto nad Váhom,478
+2459,Očová,Zvolen,2600
+2460,Odorín,Spišská Nová Ves,979
+2461,Ohrady,Dunajská Streda,1347
+2462,Ohradzany,Humenné,639
+2463,Ochodnica,Kysucké Nové Mesto,1922
+2464,Ochtiná,Rožňava,556
+2465,Okánikovo,Komárno,NaN
+2466,Okoč,Dunajská Streda,3552
+2467,Okoličná_na_Ostrove,Komárno,1484
+2468,Okoličné,Liptovský Mikuláš,NaN
+2469,Okrúhle,Svidník,596
+2470,Okružná,Prešov,480
+2471,Olcnava,Spišská Nová Ves,1082
+2472,Oľdza,Dunajská Streda,546
+2473,Olejníkov,Sabinov,529
+2474,Olešná,Čadca,1938
+2475,Olichov,Zlaté Moravce,NaN
+2476,Oľka,Medzilaborce,266
+2477,Olováry,Veľký Krtíš,282
+2478,Oľšavce,Bardejov,172
+2479,Oľšavica,Levoča,266
+2480,Oľšavka,Spišská Nová Ves,186
+2481,Oľšavka,Stropkov,207
+2482,Olšina,Trebišov,NaN
+2483,Oľšinkov,Medzilaborce,23
+2484,Oľšov,Sabinov,381
+2485,Olšovany,Košice-okolie,682
+2486,Omastiná,Bánovce nad Bebravou,NaN
+2487,Omšenie,Trenčín,1934
+2488,Onča,Trebišov,NaN
+2489,Ondavka,Bardejov,11
+2490,Ondavské_Matiašovce,Vranov nad Topľou,794
+2491,Ondrašová,Turčianske Teplice,84
+2492,Ondrašovce,Prešov,54
+2493,Ondrej,Poprad,NaN
+2494,Ondrej_nad_Hronom,Banská Bystrica,2167
+2495,Ondrejovce,Levice,467
+2496,Ondrochov,Nové Zámky,NaN
+2497,Opátka,Košice-okolie,104
+2498,Opatová,Trenčín,NaN
+2499,Opatová,Levice,NaN
+2500,Opatová,Lučenec,NaN
+2501,Opatovce,Trenčín,417
+2502,Opatovce_-_Výčapy,Nitra,NaN
+2503,Opatovce_nad_Nitrou,Prievidza,1563
+2504,Opatové_Moravce,Krupina,NaN
+2505,Opatovská_Nová_Ves,Veľký Krtíš,676
+2506,Opatovský_Sokolec,Dunajská Streda,NaN
+2507,Opava,Veľký Krtíš,115
+2508,Opiná,Košice-okolie,191
+2509,Opoj,Trnava,1269
+2510,Oponice,Topoľčany,811
+2511,Oravce,Banská Bystrica,180
+2512,Orávka,Rimavská Sobota,170
+2513,Oravská_Jasenica,Námestovo,1879
+2514,Oravská_Lesná,Námestovo,3434
+2515,Oravská_Polhora,Námestovo,3997
+2516,Oravská_Poruba,Dolný Kubín,1064
+2517,Oravské_Veselé,Námestovo,2961
+2518,Oravský_Biely_Potok,Tvrdošín,722
+2519,Oravský_Podzámok,Dolný Kubín,1373
+2520,Ordzovany,Levoča,163
+2521,Orechová,Sobrance,256
+2522,Orechová_Potôň,Dunajská Streda,1645
+2523,Orechová_Potôň_-_Lúky,Dunajská Streda,NaN
+2524,Orechové,Trenčín,NaN
+2525,Oreské,Michalovce,473
+2526,Oreské,Skalica,389
+2527,Orešany,Topoľčany,328
+2528,Orkucany,Sabinov,NaN
+2529,Orlov,Stará Ľubovňa,611
+2530,Orlové,Považská Bystrica,NaN
+2531,Orovnica,Žarnovica,556
+2532,Ortáše,Košice-okolie,NaN
+2533,Ortov,Michalovce,NaN
+2534,Ortuťová,Bardejov,193
+2535,Osádka,Dolný Kubín,167
+2536,Osadné,Snina,157
+2537,Osikov,Bardejov,969
+2538,Oslany,Prievidza,2375
+2539,Osrblie,Brezno,368
+2540,Ostrá_Lúka,Zvolen,301
+2541,Ostrany,Rimavská Sobota,NaN
+2542,Ostratice,Partizánske,793
+2543,Ostrov,Sobrance,297
+2544,Ostrov,Piešťany,1224
+2545,Ostrovany,Sabinov,2220
+2546,Ostrý_Grúň,Žarnovica,543
+2547,Osturňa,Kežmarok,311
+2548,Osuské,Senica,603
+2549,Osušie,Veľký Krtíš,NaN
+2550,Oščadnica,Čadca,5720
+2551,Oškerda,Kysucké Nové Mesto,NaN
+2552,Otrhánky,Bánovce nad Bebravou,397
+2553,Otročok,Revúca,326
+2554,Ovčiarsko,Žilina,686
+2555,Ovčie,Prešov,665
+2556,Ozdín,Poltár,290
+2557,Ožďany,Rimavská Sobota,1663
+2558,Pác,Trnava,NaN
+2559,Pača,Rožňava,577
+2560,Pačérok,Komárno,NaN
+2561,Padáň,Dunajská Streda,896
+2562,Padarovce,Rimavská Sobota,175
+2563,Paderovce,Trnava,NaN
+2564,Pagaňov,Považská Bystrica,575
+2565,Pakostov,Humenné,439
+2566,Palárikovo,Nové Zámky,4189
+2567,Palcmanská_Maša,Spišská Nová Ves,NaN
+2568,Palín,Michalovce,897
+2569,Palota,Medzilaborce,198
+2570,Paľovce,Galanta,NaN
+2571,Palúdzka,Liptovský Mikuláš,NaN
+2572,Paňa,Nitra,395
+2573,Panické_Dravce,Lučenec,752
+2574,Paňovce,Košice-okolie,607
+2575,Papča,Rimavská Sobota,NaN
+2576,Papín,Humenné,938
+2577,Paprad,Nové Mesto nad Váhom,NaN
+2578,Papradno,Považská Bystrica,2453
+2579,Parchovany,Trebišov,1939
+2580,Parihuzovce,Snina,21
+2581,Párnica,Dolný Kubín,926
+2582,Párovské_Háje,Nitra,NaN
+2583,Partizánska_Ľupča,Liptovský Mikuláš,1266
+2584,Partizánske,Partizánske,22269
+2585,Partizánske_-_Šípok,Partizánske,NaN
+2586,Paseky,Detva,NaN
+2587,Pasiečka,Púchov,NaN
+2588,Pastovce,Levice,499
+2589,Pastovník,Stará Ľubovňa,NaN
+2590,Pastuchov,Hlohovec,965
+2591,Pašková,Rožňava,349
+2592,Paština_Závada,Žilina,234
+2593,Pata,Galanta,3174
+2594,Pataš,Dunajská Streda,780
+2595,Patince,Komárno,448
+2596,Pavčina_Lehota,Liptovský Mikuláš,396
+2597,Pavel,Komárno,NaN
+2598,Pavľany,Levoča,48
+2599,Pavlice,Trnava,554
+2600,Pavlová,Nové Zámky,220
+2601,Pavlova_Ves,Liptovský Mikuláš,267
+2602,Pavlovce,Vranov nad Topľou,791
+2603,Pavlovce,Rimavská Sobota,404
+2604,Pavlovce_nad_Uhom,Michalovce,4687
+2605,Pavlovo,Trebišov,NaN
+2606,Pažiť,Partizánske,488
+2607,Pažite,Kysucké Nové Mesto,NaN
+2608,Pčoliné,Snina,553
+2609,Pečeňady,Piešťany,558
+2610,Pečeňany,Bánovce nad Bebravou,522
+2611,Pečenice,Levice,131
+2612,Pečovská_Nová_Ves,Sabinov,2820
+2613,Peder,Košice-okolie,403
+2614,Peklina,Žilina,NaN
+2615,Perín,Košice-okolie,NaN
+2616,Perín_-_Chym,Košice-okolie,NaN
+2617,Perkovce,Nitra,NaN
+2618,Pernek,Malacky,867
+2619,Petkovce,Vranov nad Topľou,140
+2620,Peťov,Veľký Krtíš,NaN
+2621,Peťovka,Trenčín,NaN
+2622,Petrikovce,Michalovce,194
+2623,Petrová,Dolný Kubín,915
+2624,Petrová,Bardejov,915
+2625,Petrova_Lehota,Trenčín,186
+2626,Petrova_Ves,Skalica,1091
+2627,Petrovany,Prešov,1984
+2628,Petrovce,Sobrance,199
+2629,Petrovce,Vranov nad Topľou,449
+2630,Petrovce,Rimavská Sobota,224
+2631,Petrovce_nad_Laborcom,Michalovce,1063
+2632,Petrovec,Poltár,NaN
+2633,Petrovice,Bytča,1597
+2634,Petrovo,Rožňava,111
+2635,Pezinok,Pezinok,23034
+2636,Pežerňa,Levice,NaN
+2637,Piesky,Michalovce,NaN
+2638,Piesok,Pezinok,NaN
+2639,Piesok,Brezno,NaN
+2640,Piešť_I,Detva,NaN
+2641,Piešť_II,Detva,NaN
+2642,Piešťany,Piešťany,27336
+2643,Pichne,Snina,578
+2644,Pikovce,Kežmarok,NaN
+2645,Píla,Pezinok,338
+2646,Píla,Žarnovica,129
+2647,Píla,Lučenec,256
+2648,Pilhov,Stará Ľubovňa,NaN
+2649,Pilhovčík,Stará Ľubovňa,NaN
+2650,Pinciná,Lučenec,219
+2651,Pinkovce,Sobrance,187
+2652,Pinkove_Kračany,Dunajská Streda,NaN
+2653,Piskorovce,Vranov nad Topľou,115
+2654,Pitelová,Žiar nad Hronom,646
+2655,Pláne,Bytča,NaN
+2656,Pláne,Michalovce,NaN
+2657,Plášťovce,Levice,1515
+2658,Plavé_Vozokany,Levice,766
+2659,Plavecké_Podhradie,Malacky,667
+2660,Plavecký_Mikuláš,Malacky,731
+2661,Plavecký_Peter,Senica,641
+2662,Plavecký_Štvrtok,Malacky,2477
+2663,Plaveč,Stará Ľubovňa,1802
+2664,Plavnica,Stará Ľubovňa,1647
+2665,Plechotice,Trebišov,786
+2666,Pleš,Lučenec,190
+2667,Plešivá,Dolný Kubín,NaN
+2668,Plešivec,Rožňava,2275
+2669,Plevník_-_Drienové,Považská Bystrica,NaN
+2670,Pliešovce,Zvolen,2329
+2671,Ploské,Košice-okolie,943
+2672,Ploské,Revúca,68
+2673,Ploštín,Liptovský Mikuláš,NaN
+2674,Pobedim,Nové Mesto nad Váhom,1151
+2675,Počarová,Považská Bystrica,140
+2676,Počúvadlianske_Jazero,Banská Štiavnica,NaN
+2677,Počúvadlo,Banská Štiavnica,96
+2678,Pod_Braniskom,Prešov,NaN
+2679,Pódafa,Dunajská Streda,NaN
+2680,Podbanské,Liptovský Mikuláš,41
+2681,Podbiel,Tvrdošín,1286
+2682,Podbranč,Senica,616
+2683,Podbrezová,Brezno,3797
+2684,Podčičva,Vranov nad Topľou,NaN
+2685,Podháj,Martin,NaN
+2686,Podhájska,Nové Zámky,1015
+2687,Podholie,Brezno,NaN
+2688,Podhorany,Kežmarok,3044
+2689,Podhorany,Prešov,840
+2690,Podhorany,Nitra,1063
+2691,Podhorie,Žilina,951
+2692,Podhorie,Ilava,NaN
+2693,Podhorie,Púchov,NaN
+2694,Podhorie,Senica,NaN
+2695,Podhorie,Banská Štiavnica,325
+2696,Podhoroď,Sobrance,340
+2697,Podhrabina,Prešov,NaN
+2698,Podhradie,Martin,666
+2699,Podhradie,Topoľčany,285
+2700,Podhradie,Prievidza,301
+2701,Podhradík,Prešov,398
+2702,Podjavorie_(pri_Lešti),Zvolen,NaN
+2703,Podjavorie_(pri_Pliešovci),Zvolen,NaN
+2704,Podjavorník,Považská Bystrica,NaN
+2705,Podkonice,Banská Bystrica,913
+2706,Podkriváň,Detva,564
+2707,Podkylava,Myjava,223
+2708,Podlavice,Banská Bystrica,NaN
+2709,Podlipníky,Vranov nad Topľou,NaN
+2710,Podlužany,Levice,757
+2711,Podlužany,Bánovce nad Bebravou,871
+2712,Podmanín,Považská Bystrica,NaN
+2713,Podolie,Nové Mesto nad Váhom,1889
+2714,Podolínec,Stará Ľubovňa,3155
+2715,Podpílie,Stará Ľubovňa,NaN
+2716,Podproč,Levoča,NaN
+2717,Podrečany,Lučenec,544
+2718,Podsadek,Stará Ľubovňa,NaN
+2719,Podskalie,Považská Bystrica,123
+2720,Podspády,Poprad,NaN
+2721,Podtureň,Liptovský Mikuláš,1117
+2722,Podvažie,Považská Bystrica,NaN
+2723,Podvažie,Ilava,NaN
+2724,Podvrch,Myjava,NaN
+2725,Podvysoká,Čadca,1342
+2726,Podzámčok,Zvolen,539
+2727,Podzámok,Stará Ľubovňa,NaN
+2728,Podzámok,Senica,NaN
+2729,Podzávoz,Čadca,NaN
+2730,Pohorelá,Brezno,2158
+2731,Pohorelská_Maša,Brezno,286
+2732,Pohranice,Nitra,1096
+2733,Pohronská_Polhora,Brezno,1710
+2734,Pohronský_Bukovec,Banská Bystrica,118
+2735,Pohronský_Ruskov,Levice,1214
+2736,Pochabany,Bánovce nad Bebravou,256
+2737,Pokryváč,Dolný Kubín,163
+2738,Poľanovce,Levoča,164
+2739,Poľany,Trebišov,494
+2740,Polerieka,Turčianske Teplice,NaN
+2741,Poliakovce,Bardejov,382
+2742,Polianka,Myjava,390
+2743,Polianky,Detva,NaN
+2744,Polichno,Lučenec,129
+2745,Polina,Revúca,107
+2746,Polkanová_(ostatné_čísla),Banská Bystrica,NaN
+2747,"Polkanová_(č.d.1,2,3)",Banská Bystrica,NaN
+2748,Polníky,Trenčín,NaN
+2749,Poľný_Kesov,Nitra,666
+2750,Polom,Rimavská Sobota,NaN
+2751,Poloma,Sabinov,939
+2752,Polomka,Brezno,2964
+2753,Polomy,Zvolen,NaN
+2754,Poltár,Poltár,5584
+2755,Poluvsie,Žilina,NaN
+2756,Poluvsie,Prievidza,562
+2757,Pondelok,Poltár,NaN
+2758,Pongrácovce,Levoča,118
+2759,Ponická_Huta,Banská Bystrica,NaN
+2760,Ponická_Lehôtka,Banská Bystrica,NaN
+2761,Poniky,Banská Bystrica,1555
+2762,Poprad,Poprad,51235
+2763,Poproč,Košice-okolie,2726
+2764,Poproč,Rimavská Sobota,17
+2765,Popudinské_Močidľany,Skalica,942
+2766,Poráč,Spišská Nová Ves,974
+2767,Poriadie,Myjava,685
+2768,Porostov,Sobrance,191
+2769,Poruba,Prievidza,1330
+2770,Poruba_pod_Vihorlatom,Michalovce,609
+2771,Porúbka,Žilina,490
+2772,Porúbka,Humenné,268
+2773,Porúbka,Sobrance,405
+2774,Porúbka,Bardejov,226
+2775,Posádka,Hlohovec,NaN
+2776,Poša,Vranov nad Topľou,977
+2777,Póšfa,Dunajská Streda,NaN
+2778,Potočok,Veľký Krtíš,NaN
+2779,Potok,Čadca,NaN
+2780,Potok,Ružomberok,100
+2781,Potok,Rimavská Sobota,25
+2782,Potoky,Bytča,NaN
+2783,Potoky,Sabinov,NaN
+2784,Potoky,Stropkov,86
+2785,Potôčky,Stropkov,66
+2786,Potônské_Lúky,Dunajská Streda,NaN
+2787,Potvorice,Nové Mesto nad Váhom,680
+2788,Považany,Nové Mesto nad Váhom,1246
+2789,Považská_Bystrica,Považská Bystrica,39271
+2790,Považská_Teplá,Považská Bystrica,NaN
+2791,Považské_Podhradie,Považská Bystrica,872
+2792,Považský_Chlmec,Žilina,1373
+2793,Povina,Kysucké Nové Mesto,1154
+2794,Povoda,Dunajská Streda,969
+2795,Povrazník,Banská Bystrica,NaN
+2796,Pozba,Nové Zámky,443
+2797,Pozdišovce,Michalovce,1317
+2798,Pôbišovo,Brezno,NaN
+2799,Pôtor,Veľký Krtíš,775
+2800,Praha,Lučenec,1325280
+2801,Prakovce,Gelnica,3342
+2802,Prašice,Topoľčany,2027
+2803,Prašník,Piešťany,833
+2804,Pravenec,Prievidza,1319
+2805,Pravica,Veľký Krtíš,117
+2806,Pravotice,Bánovce nad Bebravou,332
+2807,Praznov,Považská Bystrica,NaN
+2808,Práznovce,Topoľčany,969
+2809,Prečín,Považská Bystrica,1509
+2810,Predajná,Brezno,1316
+2811,Predjastrabie,Bytča,NaN
+2812,Predmier,Bytča,1354
+2813,Predmier,Čadca,NaN
+2814,Predná_Hora,Revúca,NaN
+2815,Predné_Halny,Brezno,NaN
+2816,Prejta,Ilava,NaN
+2817,Prenčov,Banská Štiavnica,661
+2818,Preseľany,Topoľčany,1433
+2819,Preseľany_nad_Ipľom,Levice,NaN
+2820,Prestavlky,Žiar nad Hronom,700
+2821,Prešov,Prešov,88464
+2822,Príbelce,Veľký Krtíš,566
+2823,Pribeník,Trebišov,987
+2824,Pribeta,Komárno,2770
+2825,Pribiš,Dolný Kubín,461
+2826,Pribišská,Námestovo,NaN
+2827,Príboj,Veľký Krtíš,NaN
+2828,Príbovce,Martin,1118
+2829,Pribylina,Liptovský Mikuláš,1312
+2830,Priechod,Banská Bystrica,968
+2831,Priekopa,Martin,NaN
+2832,Priekopa,Sobrance,289
+2833,Prieloh,Veľký Krtíš,NaN
+2834,Priepasné,Myjava,371
+2835,Prietrž,Senica,730
+2836,Prietržka,Skalica,532
+2837,Prievaly,Senica,1011
+2838,Prievidza,Prievidza,45634
+2839,Prievidza_-_Kopanice,Prievidza,NaN
+2840,Prievidza_-_Necpaly,Prievidza,NaN
+2841,Prievidza_-_Píly,Prievidza,NaN
+2842,Prievidza_-_Staré_Mesto,Prievidza,NaN
+2843,Prievidza_-_Štvrte,Prievidza,NaN
+2844,Prievrana,Poltár,NaN
+2845,Prihradzany,Revúca,76
+2846,Príkra,Svidník,12
+2847,Prílepy,Zlaté Moravce,NaN
+2848,Primovce,Poprad,2077
+2849,Príslop,Snina,50
+2850,Prituľany,Humenné,44
+2851,Proč,Prešov,411
+2852,Prochot,Žiar nad Hronom,562
+2853,Prosačov,Vranov nad Topľou,220
+2854,Prosiek,Liptovský Mikuláš,216
+2855,Prosné,Považská Bystrica,NaN
+2856,Prostredná_Môlča,Banská Bystrica,NaN
+2857,Prostredný_Hámor,Spišská Nová Ves,NaN
+2858,Prša,Lučenec,214
+2859,Pruské,Ilava,2317
+2860,Prusy,Bánovce nad Bebravou,NaN
+2861,Pružina,Považská Bystrica,2067
+2862,Psiare,Žarnovica,260
+2863,Pstriná,Svidník,55
+2864,Pstruša,Detva,NaN
+2865,Pšurnovice,Bytča,NaN
+2866,Ptičie,Humenné,647
+2867,Ptrukša,Michalovce,464
+2868,Pucov,Dolný Kubín,873
+2869,Púchov,Púchov,17561
+2870,Pukanec,Levice,1823
+2871,Pustá_Ves,Piešťany,NaN
+2872,Pusté,Brezno,NaN
+2873,Pusté_Čemerné,Michalovce,367
+2874,Pusté_Pole,Stará Ľubovňa,226
+2875,Pusté_Sady,Galanta,601
+2876,Pusté_Úľany,Galanta,1806
+2877,Pustý_Chotár,Zlaté Moravce,NaN
+2878,Pušovce,Prešov,527
+2879,Rabča,Námestovo,5106
+2880,Rabčice,Námestovo,2038
+2881,Račice,Prievidza,NaN
+2882,Rad,Trebišov,512
+2883,Radatice,Prešov,812
+2884,Radava,Nové Zámky,748
+2885,Radimov,Skalica,555
+2886,Radiša,Bánovce nad Bebravou,NaN
+2887,Radnovce,Rimavská Sobota,964
+2888,Radobica,Prievidza,531
+2889,Radoľa,Kysucké Nové Mesto,1512
+2890,Radoma,Svidník,429
+2891,Radošina,Topoľčany,1934
+2892,Radošovce,Skalica,1752
+2893,Radošovce,Trnava,414
+2894,Radôstka,Čadca,801
+2895,Radvaň,Banská Bystrica,NaN
+2896,Radvaň_nad_Dunajom,Komárno,704
+2897,Radvaň_nad_Laborcom,Medzilaborce,555
+2898,Radvanovce,Vranov nad Topľou,233
+2899,Radzovce,Lučenec,1556
+2900,Rafajovce,Vranov nad Topľou,175
+2901,Rajčany,Topoľčany,518
+2902,Rajec,Žilina,5787
+2903,Rajecká_Lesná,Žilina,1185
+2904,Rajecké_Teplice,Žilina,3023
+2905,Rakoľuby,Nové Mesto nad Váhom,NaN
+2906,Rákoš,Košice-okolie,371
+2907,Rákoš,Revúca,413
+2908,Rákošská_Baňa,Revúca,NaN
+2909,Raková,Čadca,5557
+2910,Rakovčík,Svidník,168
+2911,Rakovec,Spišská Nová Ves,NaN
+2912,Rakovec,Bánovce nad Bebravou,NaN
+2913,Rakovec,Krupina,NaN
+2914,Rakovec_nad_Ondavou,Michalovce,1062
+2915,Rakovice,Piešťany,609
+2916,Rakovnica,Rožňava,594
+2917,Rakovo,Martin,379
+2918,Rakša,Turčianske Teplice,221
+2919,Rakúsy,Kežmarok,3356
+2920,Rakytník,Rimavská Sobota,NaN
+2921,Rakytovce,Banská Bystrica,NaN
+2922,Rankovce,Košice-okolie,928
+2923,Rapovce,Lučenec,939
+2924,Raslavice,Bardejov,2804
+2925,Rasochov,Trnava,NaN
+2926,Rastice,Dunajská Streda,NaN
+2927,Rastislavice,Nové Zámky,957
+2928,Rašice,Revúca,119
+2929,Rašov,Bytča,NaN
+2930,Ratka,Lučenec,303
+2931,Ratková,Revúca,636
+2932,Ratkovce,Hlohovec,345
+2933,Ratkovo,Martin,199
+2934,Ratkovská_Lehota,Rimavská Sobota,46
+2935,Ratkovská_Suchá,Rimavská Sobota,41
+2936,Ratkovská_Zdychava,Rimavská Sobota,NaN
+2937,Ratkovské_Bystré,Revúca,327
+2938,Ratnovce,Piešťany,1088
+2939,Ratvaj,Sabinov,139
+2940,Ráztočno,Prievidza,1222
+2941,Ráztoka,Považská Bystrica,NaN
+2942,Ráztoka,Brezno,273
+2943,Ráztoky,Bytča,NaN
+2944,Ráztoky,Dolný Kubín,NaN
+2945,Ráztoky,Spišská Nová Ves,NaN
+2946,Ražňany,Sabinov,1570
+2947,"Reca_(č._380,381,383,384))",Senec,NaN
+2948,Reca_(ostatné_čísla),Senec,NaN
+2949,Regetovka,Bardejov,42
+2950,Rejdová,Rožňava,761
+2951,Reľov,Kežmarok,345
+2952,Remata,Prievidza,NaN
+2953,Remeniny,Vranov nad Topľou,278
+2954,Remetské_Hámre,Sobrance,560
+2955,Renčišov,Sabinov,167
+2956,Repákovci,Trenčín,NaN
+2957,Repejov,Medzilaborce,107
+2958,Repište,Žiar nad Hronom,277
+2959,Repištia,Revúca,NaN
+2960,Rešica,Košice-okolie,327
+2961,Rešov,Bardejov,301
+2962,Revišné,Dolný Kubín,NaN
+2963,Revištské_Podzámčie,Žarnovica,NaN
+2964,Revúca,Revúca,NaN
+2965,Revúcka_Lehota,Revúca,303
+2966,Revúčka,Revúca,NaN
+2967,Ridzina,Michalovce,NaN
+2968,"Riečka,_ulica_Nevoľné",Banská Bystrica,NaN
+2969,"Riečka,_ostatné_ulice",Banská Bystrica,NaN
+2970,Riečka,Rimavská Sobota,227
+2971,Riečky,Čadca,NaN
+2972,Riečnica,Čadca,NaN
+2973,Rieka,Čadca,NaN
+2974,Richnava,Gelnica,3104
+2975,Richvald,Bardejov,1004
+2976,Rimavská_Baňa,Rimavská Sobota,532
+2977,Rimavská_Píla,Rimavská Sobota,NaN
+2978,Rimavská_Seč,Rimavská Sobota,2154
+2979,Rimavská_Sobota,Rimavská Sobota,23751
+2980,Rimavské_Brezovo,Rimavská Sobota,530
+2981,Rimavské_Janovce,Rimavská Sobota,1358
+2982,Rimavské_Zalužany,Rimavská Sobota,357
+2983,Rišňovce,Nitra,2062
+2984,Rohov,Senica,373
+2985,Rohovce,Dunajská Streda,1170
+2986,Rohožnica,Levice,NaN
+2987,Rohožník,Humenné,47
+2988,Rohožník,Malacky,3524
+2989,Rochovce,Rožňava,336
+2990,Rojkov,Ružomberok,1167
+2991,Rokycany,Prešov,1060
+2992,Rokytov,Bardejov,571
+2993,Rokytov_pri_Humennom,Humenné,283
+2994,Rokytovce,Medzilaborce,171
+2995,Rosina,Žilina,3278
+2996,Roškovce,Levoča,146
+2997,Roškovce,Medzilaborce,146
+2998,Roštár,Rožňava,631
+2999,Rovensko,Senica,438
+3000,Rovinka,Senec,4669
+3001,Rovňany,Poltár,248
+3002,Rovné,Považská Bystrica,NaN
+3003,Rovné,Humenné,455
+3004,Rovné,Svidník,475
+3005,Rovné,Rimavská Sobota,125
+3006,Rozbehy,Senica,NaN
+3007,Rozhanovce,Košice-okolie,2580
+3008,Rozina,Levice,NaN
+3009,Rozložná,Rožňava,204
+3010,Roztoky,Svidník,434
+3011,Rozvadze,Trenčín,NaN
+3012,Rožkovany,Sabinov,1331
+3013,Rožňava,Rožňava,19045
+3014,Rožňavská_Baňa,Rožňava,NaN
+3015,Rožňavské_Bystré,Rožňava,625
+3016,Rožňová_Neporadza,Trenčín,NaN
+3017,Rožňové_Mitice,Trenčín,NaN
+3018,Rúbaň,Nové Zámky,940
+3019,Rudica,Prievidza,NaN
+3020,Rudina,Kysucké Nové Mesto,1825
+3021,Rudinka,Kysucké Nové Mesto,392
+3022,Rudinská,Kysucké Nové Mesto,1002
+3023,Rudlov,Vranov nad Topľou,709
+3024,Rudlová,Banská Bystrica,NaN
+3025,Rudná,Rožňava,717
+3026,Rudňany,Spišská Nová Ves,4727
+3027,Rudnianska_Lehota,Prievidza,734
+3028,Rudník,Košice-okolie,626
+3029,Rudník,Myjava,825
+3030,Rudno,Turčianske Teplice,193
+3031,Rudno_nad_Hronom,Žarnovica,548
+3032,Rumanová,Nitra,820
+3033,Rumince,Rimavská Sobota,371
+3034,Runina,Snina,77
+3035,Ruská,Michalovce,578
+3036,Ruská_Bystrá,Sobrance,107
+3037,Ruská_Kajňa,Humenné,107
+3038,Ruská_Nová_Ves,Prešov,1291
+3039,Ruská_Poruba,Humenné,228
+3040,Ruská_Voľa,Vranov nad Topľou,85
+3041,Ruská_Voľa_nad_Popradom,Stará Ľubovňa,83
+3042,Ruská_Volová,Snina,97
+3043,Ruské_Pekľany,Prešov,515
+3044,Ruskov,Košice-okolie,1568
+3045,Ruskovce,Sobrance,270
+3046,Ruskovce,Bánovce nad Bebravou,521
+3047,Ruský_Hrabovec,Sobrance,288
+3048,Ruský_Potok,Snina,136
+3049,Ružbachy_-_kúpele,Stará Ľubovňa,NaN
+3050,Ružiná,Lučenec,861
+3051,Ružindol,Trnava,1667
+3052,Ružomberok,Ružomberok,26558
+3053,Ružová_dolina,Trnava,NaN
+3054,Ružová_Osada,Poltár,NaN
+3055,Rybany,Bánovce nad Bebravou,1465
+3056,Rybáre,Zvolen,NaN
+3057,Rybárie,Čadca,NaN
+3058,Rybárpole,Ružomberok,NaN
+3059,Rybky,Senica,419
+3060,Rybník,Levice,1435
+3061,Rybník,Revúca,159
+3062,Rybníky,Nové Mesto nad Váhom,NaN
+3063,Rychňava,Banská Štiavnica,NaN
+3064,Rykynčice,Krupina,268
+3065,Sabinov,Sabinov,12700
+3066,Sabová,Rimavská Sobota,NaN
+3067,Sačurov,Vranov nad Topľou,2506
+3068,Sádočné,Považská Bystrica,154
+3069,Sádok,Partizánske,NaN
+3070,Sady_nad_Torysou,Košice-okolie,1973
+3071,Salajka,Poltár,NaN
+3072,Salka,Nové Zámky,991
+3073,Salvátor,Prešov,NaN
+3074,Sampor,Zvolen,NaN
+3075,Santovka,Levice,625
+3076,Sap,Dunajská Streda,512
+3077,Sása,Dunajská Streda,NaN
+3078,Sása,Zvolen,927
+3079,Sása,Revúca,208
+3080,Sasinkovo,Hlohovec,854
+3081,Sásová,Banská Bystrica,NaN
+3082,Savčina,Ilava,NaN
+3083,Sazdice,Levice,473
+3084,Sebedín,Banská Bystrica,NaN
+3085,Sebedín_-_Bečov,Banská Bystrica,NaN
+3086,Sebedražie,Prievidza,1723
+3087,Sebechleby,Krupina,1208
+3088,Seč,Prievidza,390
+3089,Sečianky,Veľký Krtíš,359
+3090,Sečovce,Trebišov,8542
+3091,Sečovská_Polianka,Vranov nad Topľou,2750
+3092,Sedliacka_Dubová,Dolný Kubín,536
+3093,Sedlice,Prešov,1027
+3094,Sedličná,Trenčín,NaN
+3095,Sedliská,Vranov nad Topľou,1447
+3096,Sedmerovec,Ilava,419
+3097,Sejkov,Sobrance,192
+3098,Sekule,Senica,1782
+3099,Seľany,Veľký Krtíš,171
+3100,Selce,Krupina,91
+3101,Selce,Banská Bystrica,2122
+3102,Selce,Poltár,113
+3103,Selec,Trenčín,1009
+3104,Seleška,Košice-okolie,NaN
+3105,Selešťany,Veľký Krtíš,NaN
+3106,Selice,Šaľa,2839
+3107,Semerovo,Nové Zámky,1379
+3108,Semeteš,Čadca,NaN
+3109,Seňa,Košice-okolie,2133
+3110,Senec,Senec,19963
+3111,Seniakovce,Prešov,167
+3112,Senica,Senica,20289
+3113,Senica,Banská Bystrica,20289
+3114,Senné,Michalovce,718
+3115,Senné,Veľký Krtíš,192
+3116,Senohrad,Krupina,754
+3117,Sereď,Galanta,15444
+3118,Setechov,Bytča,NaN
+3119,Severná,Prešov,NaN
+3120,Sielnica,Zvolen,1427
+3121,Sigord,Prešov,NaN
+3122,Sihelné,Námestovo,2161
+3123,Sihelník,Čadca,NaN
+3124,Sihla,Brezno,191
+3125,Sikenica,Levice,657
+3126,Sikenička,Nové Zámky,428
+3127,Sila,Nitra,NaN
+3128,Siladice,Hlohovec,650
+3129,Silica,Rožňava,552
+3130,Silická_Brezová,Rožňava,150
+3131,Silická_Jablonica,Rožňava,187
+3132,Sirk,Revúca,1286
+3133,Sirník,Trebišov,571
+3134,Sitnianska,Banská Štiavnica,NaN
+3135,Sitnianska_Lehôtka,Krupina,NaN
+3136,Sitník,Stropkov,NaN
+3137,Skačany,Partizánske,1348
+3138,Skala,Trenčín,NaN
+3139,Skalica,Skalica,NaN
+3140,Skalica,Brezno,NaN
+3141,Skalité,Čadca,5243
+3142,Skalka_nad_Váhom,Trenčín,1190
+3143,Skalská_Nová_Ves,Trenčín,NaN
+3144,Skároš,Košice-okolie,1113
+3145,Skerešovo,Revúca,228
+3146,Sklabiná,Veľký Krtíš,976
+3147,Sklabiňa,Martin,NaN
+3148,Sklabinský_Podzámok,Martin,181
+3149,Sklené,Turčianske Teplice,714
+3150,Sklené_Teplice,Žiar nad Hronom,382
+3151,Skliarovo,Detva,NaN
+3152,Skrabské,Vranov nad Topľou,784
+3153,Skubín,Banská Bystrica,NaN
+3154,Skýcov,Zlaté Moravce,971
+3155,Sládkovičovo,Galanta,5209
+3156,Slaná_Lehota,Poltár,NaN
+3157,Slančík,Košice-okolie,207
+3158,Slanec,Košice-okolie,1516
+3159,Slanec,Detva,NaN
+3160,Slanická_Osada,Námestovo,NaN
+3161,Slanská_Huta,Košice-okolie,247
+3162,Slanské_Nové_Mesto,Košice-okolie,477
+3163,Slaská,Žiar nad Hronom,464
+3164,Slatina,Levice,317
+3165,Slatina_nad_Bebravou,Bánovce nad Bebravou,441
+3166,Slatinka,Zvolen,NaN
+3167,Slatinka_nad_Bebravou,Bánovce nad Bebravou,191
+3168,Slatinské_Lazy,Detva,544
+3169,Slatvina,Spišská Nová Ves,319
+3170,Slavec,Rožňava,479
+3171,Slavkovce,Michalovce,705
+3172,Slavnica,Ilava,799
+3173,Slavoška,Rožňava,125
+3174,Slavošovce,Rožňava,1873
+3175,Sľažany,Zlaté Moravce,1685
+3176,Slepčany,Zlaté Moravce,800
+3177,Sliač,Zvolen,4959
+3178,Sliač_-_kúpele,Zvolen,NaN
+3179,Sliačska_Podpoľana,Detva,NaN
+3180,Sliepkovce,Michalovce,744
+3181,Slivník,Trebišov,766
+3182,Slizké,Rimavská Sobota,239
+3183,Slopkov,Bytča,NaN
+3184,Slopná,Považská Bystrica,478
+3185,Slovany,Martin,447
+3186,Slovenská_Kajňa,Vranov nad Topľou,749
+3187,Slovenská_Ľupča,Banská Bystrica,3257
+3188,Slovenská_Nová_Ves,Trnava,543
+3189,Slovenská_Ves,Kežmarok,1875
+3190,Slovenská_Volová,Humenné,568
+3191,Slovenské_Ďarmoty,Veľký Krtíš,547
+3192,Slovenské_Kľačany,Veľký Krtíš,170
+3193,Slovenské_Krivé,Humenné,120
+3194,Slovenské_Nové_Mesto,Trebišov,1110
+3195,Slovenské_Pole,Galanta,NaN
+3196,Slovenské_Pravno,Turčianske Teplice,925
+3197,Slovenský_Grob,Pezinok,4615
+3198,Slovinky,Spišská Nová Ves,1862
+3199,Smilno,Bardejov,702
+3200,Smižany,Spišská Nová Ves,8751
+3201,Smolenice,Trnava,3354
+3202,Smolenická_Nová_Ves,Trnava,NaN
+3203,Smolinské,Senica,900
+3204,Smolnícka_Huta,Gelnica,473
+3205,Smolník,Gelnica,1011
+3206,Smrdáky,Senica,654
+3207,Smrečany,Liptovský Mikuláš,680
+3208,Snakov,Bardejov,681
+3209,Snežnica,Kysucké Nové Mesto,1055
+3210,Snina,Snina,19520
+3211,Snohy,Detva,NaN
+3212,Soblahov,Trenčín,2400
+3213,Soboš,Svidník,149
+3214,Sobotište,Senica,1464
+3215,Sobôtka,Rimavská Sobota,NaN
+3216,Sobrance,Sobrance,6346
+3217,Sobranecké_Kúpele,Sobrance,NaN
+3218,Socovce,Martin,237
+3219,Sokoľ,Košice-okolie,1237
+3220,Sokoľany,Košice-okolie,1378
+3221,Sokolce,Komárno,1190
+3222,Sokolce_-_lúky,Komárno,NaN
+3223,Sokolníky,Nitra,NaN
+3224,Sokolovce,Piešťany,1367
+3225,Soľ,Vranov nad Topľou,2597
+3226,Solčany,Topoľčany,2475
+3227,Solčianky,Topoľčany,257
+3228,Solivar,Prešov,NaN
+3229,Solka,Prievidza,NaN
+3230,Soľné,Bytča,NaN
+3231,Soľnička,Trebišov,230
+3232,Soľník,Stropkov,31
+3233,Sološnica,Malacky,1587
+3234,Somorova_Ves,Prievidza,NaN
+3235,Somotor,Trebišov,1409
+3236,Sopkovce,Humenné,97
+3237,Sotina,Senica,NaN
+3238,Spišská_Belá,Kežmarok,6733
+3239,Spišská_Nová_Ves,Spišská Nová Ves,37007
+3240,Spišská_Sobota,Poprad,NaN
+3241,Spišská_Stará_Ves,Kežmarok,2230
+3242,Spišská_Teplica,Poprad,2260
+3243,Spišské_Bystré,Poprad,2549
+3244,Spišské_Hanušovce,Kežmarok,789
+3245,Spišské_Podhradie,Levoča,3985
+3246,Spišské_Tomášovce,Spišská Nová Ves,2102
+3247,Spišské_Vlachy,Spišská Nová Ves,3459
+3248,Spišský_Hrhov,Levoča,1685
+3249,Spišský_Hrušov,Spišská Nová Ves,1294
+3250,Spišský_Štiavnik,Poprad,2907
+3251,Spišský_Štvrtok,Levoča,2524
+3252,Srňacie,Dolný Kubín,NaN
+3253,Stakčín,Snina,2434
+3254,Stakčínska_Roztoka,Snina,306
+3255,Stanáková,Prievidza,NaN
+3256,Stanča,Trebišov,406
+3257,Stankovany,Ružomberok,1167
+3258,Stankovce,Michalovce,NaN
+3259,Stankovce,Trebišov,163
+3260,Stará_Bašta,Rimavská Sobota,336
+3261,Stará_Bystrica,Čadca,2751
+3262,Stará_Gala,Dunajská Streda,NaN
+3263,Stará_Halič,Lučenec,658
+3264,Stará_Huta,Detva,326
+3265,Stará_Huta,Žarnovica,NaN
+3266,Stará_Kremnička,Žiar nad Hronom,1156
+3267,Stará_Lehota,Nové Mesto nad Váhom,199
+3268,Stará_Lesná,Kežmarok,1018
+3269,Stará_Ľubovňa,Stará Ľubovňa,16327
+3270,Stará_Myjava,Myjava,NaN
+3271,Stará_Turá,Nové Mesto nad Váhom,8764
+3272,Stará_Voda,Gelnica,200
+3273,Staré,Michalovce,765
+3274,Staré_Hory,Banská Bystrica,555
+3275,Starina,Stará Ľubovňa,49
+3276,Starňa,Revúca,NaN
+3277,Starý_Hrádok,Levice,203
+3278,Starý_Smokovec,Poprad,47
+3279,Starý_Tekov,Levice,1490
+3280,Staškov,Čadca,2806
+3281,Staškovce,Stropkov,245
+3282,Stebnícka_Huta,Bardejov,225
+3283,Stebník,Bardejov,301
+3284,Stolečné,Žilina,NaN
+3285,Stolečné,Považská Bystrica,NaN
+3286,Stošice,Liptovský Mikuláš,NaN
+3287,Stotince,Kežmarok,NaN
+3288,Stožok,Detva,1058
+3289,Stráňany,Stará Ľubovňa,190
+3290,Stráňavy,Žilina,1870
+3291,Stráne_pod_Tatrami,Kežmarok,2629
+3292,Stránska,Rimavská Sobota,348
+3293,Stránske,Žilina,872
+3294,Stratená,Rožňava,126
+3295,Stráža,Žilina,673
+3296,Stráže_nad_Myjavou,Senica,4965
+3297,Stráže_pod_Tatrami,Poprad,NaN
+3298,Strážky,Kežmarok,NaN
+3299,Strážne,Trebišov,579
+3300,Strážov,Žilina,NaN
+3301,Strážske,Michalovce,4250
+3302,Strečno,Žilina,NaN
+3303,Streda_nad_Bodrogom,Trebišov,2217
+3304,Stredná_Revúca,Ružomberok,NaN
+3305,Stredné_Plachtince,Veľký Krtíš,587
+3306,Stredné_Turovce,Levice,NaN
+3307,Stredný_Sliač,Ružomberok,NaN
+3308,Strekov,Nové Zámky,1962
+3309,Strelenka,Púchov,NaN
+3310,Strelnice,Rimavská Sobota,NaN
+3311,Strelníky,Banská Bystrica,777
+3312,Stretava,Michalovce,702
+3313,Stretavka,Michalovce,165
+3314,Streženice,Púchov,1044
+3315,Striežovce,Rimavská Sobota,NaN
+3316,Strihovce,Snina,146
+3317,Stročín,Svidník,568
+3318,Stropkov,Stropkov,10438
+3319,Studená,Rimavská Sobota,274
+3320,Studené,Senec,NaN
+3321,Studenec,Levoča,494
+3322,Studenec,Prievidza,NaN
+3323,Studienka,Malacky,1624
+3324,Studničná,Ružomberok,NaN
+3325,Stuľany,Bardejov,559
+3326,Stupava,Malacky,12108
+3327,Stupné,Považská Bystrica,689
+3328,Sučany,Martin,4714
+3329,Sudince,Krupina,82
+3330,Súdovce,Krupina,219
+3331,Suchá,Stropkov,NaN
+3332,Suchá_Dolina,Prešov,212
+3333,Suchá_Hora,Tvrdošín,1448
+3334,Suchá_nad_Parnou,Trnava,2203
+3335,Sucháň,Veľký Krtíš,273
+3336,Suché,Michalovce,407
+3337,Suché_Brezovo,Veľký Krtíš,94
+3338,Suchohrad,Malacky,647
+3339,Sukov,Medzilaborce,156
+3340,Suľany,Nitra,NaN
+3341,Sulín,Stará Ľubovňa,316
+3342,Súľov,Bytča,NaN
+3343,Súlovce,Topoľčany,515
+3344,Súš,Nové Mesto nad Váhom,NaN
+3345,Sušany,Poltár,435
+3346,Sútor,Rimavská Sobota,607
+3347,Svarín,Liptovský Mikuláš,NaN
+3348,Svätá_Mária,Trebišov,563
+3349,Svätoplukovo,Nitra,1342
+3350,Svätuš,Sobrance,108
+3351,Svätuša,Nové Zámky,NaN
+3352,Svätuše,Trebišov,786
+3353,Svätý_Anton,Banská Štiavnica,1199
+3354,Svätý_Jur,Pezinok,5724
+3355,Svätý_Kríž,Liptovský Mikuláš,829
+3356,Svätý_Kríž,Levice,NaN
+3357,Svätý_Peter,Komárno,2782
+3358,Svederník,Žilina,1447
+3359,Sverepec,Považská Bystrica,1359
+3360,Sveržov,Bardejov,620
+3361,Svetlá,Rimavská Sobota,NaN
+3362,Svetlice,Medzilaborce,101
+3363,Svidnička,Svidník,137
+3364,Svidník,Svidník,10752
+3365,Svinia,Prešov,2396
+3366,Svinica,Košice-okolie,916
+3367,Svinice,Trebišov,220
+3368,Svinná,Trenčín,1570
+3369,Svit,Poprad,NaN
+3370,Svodín,Nové Zámky,2477
+3371,Svodov,Levice,NaN
+3372,Svrbice,Topoľčany,199
+3373,Svrčinovec,Čadca,3487
+3374,Sykavka,Spišská Nová Ves,NaN
+3375,Šahy,Levice,7219
+3376,Šajby,Prievidza,NaN
+3377,Šajdíkove_Humence,Senica,1112
+3378,Šaľa,Šaľa,21689
+3379,Šalgočka,Galanta,467
+3380,Šalgovce,Topoľčany,516
+3381,Šalgovík,Prešov,NaN
+3382,Šalková,Banská Bystrica,NaN
+3383,Šalov,Levice,354
+3384,Šamaja,Čadca,NaN
+3385,Šambron,Stará Ľubovňa,376
+3386,Šamorín,Dunajská Streda,13350
+3387,Šamudovce,Michalovce,653
+3388,Šance,Nové Mesto nad Váhom,NaN
+3389,Šandal,Stropkov,330
+3390,Šándorhalma,Levice,NaN
+3391,Šankovce,Revúca,NaN
+3392,Šapinec,Svidník,NaN
+3393,Šára,Lučenec,NaN
+3394,Šarbov,Svidník,16
+3395,Šarišská_Poruba,Prešov,638
+3396,Šarišská_Trstená,Prešov,359
+3397,Šarišské_Bohdanovce,Prešov,921
+3398,Šarišské_Čierne,Bardejov,297
+3399,Šarišské_Dravce,Sabinov,1189
+3400,Šarišské_Jastrabie,Stará Ľubovňa,1483
+3401,Šarišské_Lúky,Prešov,NaN
+3402,Šarišské_Lužianky,Prešov,1144
+3403,Šarišské_Michaľany,Sabinov,2828
+3404,Šarišské_Sokolovce,Sabinov,590
+3405,Šarišský_Štiavnik,Svidník,278
+3406,Šarkan,Nové Zámky,378
+3407,Šarovce,Levice,1597
+3408,Šašová,Bardejov,159
+3409,Šášovské_Podhradie,Žiar nad Hronom,NaN
+3410,Šaštín,Senica,NaN
+3411,Šaštín_-_Stráže,Senica,NaN
+3412,Šávoľ,Lučenec,547
+3413,Šebešťanová,Považská Bystrica,577
+3414,Šelpice,Trnava,885
+3415,Šemetkovce,Svidník,85
+3416,Šemša,Košice-okolie,865
+3417,Šenkvice,Pezinok,5095
+3418,Šiatorská_Bukovinka,Lučenec,298
+3419,Šiba,Bardejov,634
+3420,Šíd,Lučenec,1327
+3421,Šimonovce,Rimavská Sobota,562
+3422,Šindliar,Prešov,540
+3423,Šintava,Galanta,1741
+3424,Šipice,Krupina,NaN
+3425,Šípkov,Bánovce nad Bebravou,145
+3426,Šípkové,Piešťany,297
+3427,Šipošovské_Kračany,Dunajská Streda,NaN
+3428,Širákov,Veľký Krtíš,197
+3429,Širkovce,Rimavská Sobota,977
+3430,Široká,Dolný Kubín,NaN
+3431,Široké,Prešov,2512
+3432,Šišov,Bánovce nad Bebravou,506
+3433,Šivetice,Revúca,375
+3434,Škoruby,Bytča,NaN
+3435,Škrabáka,Čadca,NaN
+3436,Škriavnik,Veľký Krtíš,NaN
+3437,Škrípov,Prievidza,NaN
+3438,Šmigovec,Snina,79
+3439,Šoltýska,Poltár,97
+3440,Šopora,Čadca,NaN
+3441,Šoporňa,Galanta,4154
+3442,Špačince,Trnava,3010
+3443,Špania_Dolina,Banská Bystrica,215
+3444,Španie_Pole,Rimavská Sobota,76
+3445,Šrobárová,Komárno,514
+3446,Štále,Žarnovica,NaN
+3447,Štefan,Nové Zámky,NaN
+3448,Štefanov,Senica,1646
+3449,Štefanov_nad_Oravou,Tvrdošín,688
+3450,Štefanová,Pezinok,354
+3451,Štefanovce,Prešov,199
+3452,Štefanovce,Vranov nad Topľou,107
+3453,Štefanovičová,Nitra,367
+3454,Štefanská_Huta,Gelnica,NaN
+3455,Štefultov,Banská Štiavnica,NaN
+3456,Štefurov,Svidník,113
+3457,Šterusy,Piešťany,503
+3458,Štiavnické_Bane,Banská Štiavnica,820
+3459,Štiavnička,Ružomberok,877
+3460,Štiavnička,Banská Bystrica,NaN
+3461,Štiavnik,Bytča,NaN
+3462,Štiefleje,Prievidza,NaN
+3463,Štitáre,Nitra,1003
+3464,Štítnik,Rožňava,1537
+3465,Štoliansko,Detva,NaN
+3466,Štós,Košice-okolie,760
+3467,Štós_-_kúpele,Košice-okolie,NaN
+3468,Štôla,Poprad,534
+3469,Štrba,Poprad,3483
+3470,Štrbské_Pleso,Poprad,20
+3471,Štrkovec,Galanta,NaN
+3472,Štrkovec,Rimavská Sobota,376
+3473,Štubne,Banská Bystrica,NaN
+3474,Štúrová,Komárno,NaN
+3475,Štúrovo,Nové Zámky,10186
+3476,Štvrtok,Trenčín,381
+3477,Štvrtok_na_Ostrove,Dunajská Streda,1725
+3478,Šuja,Žilina,328
+3479,Šuľa,Veľký Krtíš,66
+3480,Šuľany,Dunajská Streda,1231
+3481,Šulekovo,Hlohovec,NaN
+3482,Šumiac,Brezno,1268
+3483,Šuňava,Poprad,1977
+3484,Šurany,Nové Zámky,9659
+3485,Šurianky,Nitra,574
+3486,Šurice,Lučenec,484
+3487,Šúrovce,Trnava,2315
+3488,Šutovce,Prievidza,446
+3489,Šútovo,Martin,512
+3490,Švábolka,Brezno,NaN
+3491,Švábovce,Poprad,1570
+3492,Švedlár,Gelnica,2177
+3493,Švošov,Ružomberok,868
+3494,Švrčkov_Jarok,Senica,NaN
+3495,Ťahyňa,Michalovce,NaN
+3496,Tachty,Rimavská Sobota,557
+3497,Tajná,Nitra,281
+3498,Tajov,Banská Bystrica,655
+3499,Taľka,Prešov,NaN
+3500,Tanečník,Námestovo,NaN
+3501,Ťapešovo,Námestovo,750
+3502,Ťapkové,Piešťany,NaN
+3503,Tarnov,Bardejov,406
+3504,Tašuľa,Sobrance,183
+3505,Tatranská_Javorina,Poprad,198
+3506,Tatranská_Kotlina,Poprad,242
+3507,Tatranská_Lesná,Poprad,13
+3508,Tatranská_Lomnica,Poprad,1323
+3509,Tatranská_Polianka,Poprad,177
+3510,Tatranská_Štrba,Poprad,1073
+3511,Tatranské_Matliare,Poprad,101
+3512,Tatranské_Zruby,Poprad,71
+3513,Tehla,Levice,491
+3514,Tekolďany,Hlohovec,134
+3515,Tekovská_Breznica,Žarnovica,1220
+3516,Tekovská_Nová_Ves,Levice,1470
+3517,Tekovské_Lužany,Levice,2810
+3518,Tekovské_Nemce,Zlaté Moravce,1091
+3519,Tekovský_Hrádok,Levice,365
+3520,Telgárt,Brezno,1516
+3521,Telince,Nitra,427
+3522,Temeš,Prievidza,217
+3523,Teplá,Banská Štiavnica,NaN
+3524,Tepličany,Košice-okolie,NaN
+3525,Teplička,Spišská Nová Ves,1154
+3526,Teplička_nad_Váhom,Žilina,4249
+3527,Tepličky,Hlohovec,297
+3528,Teplý_Vrch,Rimavská Sobota,278
+3529,Terany,Krupina,605
+3530,Terchová,Žilina,4076
+3531,Teriakovce,Prešov,820
+3532,Terňa,Prešov,1316
+3533,Tesáre,Topoľčany,719
+3534,Tesáre_nad_Žitavou,Zlaté Moravce,NaN
+3535,Tesárske_Mlyňany,Zlaté Moravce,1754
+3536,Tešedíkovo,Šaľa,3688
+3537,Tešmák,Levice,NaN
+3538,Tiba,Rožňava,NaN
+3539,Tibava,Sobrance,NaN
+3540,Tichá_Voda,Gelnica,NaN
+3541,Tichý_Potok,Sabinov,322
+3542,Timoradza,Bánovce nad Bebravou,516
+3543,Tisinec,Stropkov,483
+3544,Tisovec,Rimavská Sobota,4087
+3545,Tlmače,Levice,3520
+3546,Tlstá_Hora,Ilava,NaN
+3547,Töböréte,Dunajská Streda,NaN
+3548,Točnica,Lučenec,NaN
+3549,Tokajík,Stropkov,98
+3550,Tomášikovo,Galanta,1687
+3551,Tomášov,Senec,2599
+3552,Tomášovce,Rimavská Sobota,176
+3553,Tomášovce,Lučenec,1348
+3554,Tomčany,Martin,NaN
+3555,Tonkovce,Dunajská Streda,NaN
+3556,Topoľa,Snina,149
+3557,Topoľany,Michalovce,NaN
+3558,Topoľčany,Topoľčany,24785
+3559,Topoľčianky,Zlaté Moravce,2642
+3560,Topolecká,Nové Mesto nad Váhom,NaN
+3561,Topoľnica,Galanta,794
+3562,Topoľníky,Dunajská Streda,3152
+3563,Topoľovka,Humenné,807
+3564,Toporec,Kežmarok,2006
+3565,Tornaľa,Revúca,7114
+3566,Torysa,Sabinov,NaN
+3567,Torysky,Levoča,323
+3568,Tovarné,Vranov nad Topľou,986
+3569,Tovarnianska_Polianka,Vranov nad Topľou,115
+3570,Tovarníky,Topoľčany,1506
+3571,Tôň,Komárno,720
+3572,Trakovice,Hlohovec,1565
+3573,Trávnica,Nové Zámky,1043
+3574,Trávnik,Komárno,NaN
+3575,Trebatice,Piešťany,1359
+3576,Trebejov,Košice-okolie,205
+3577,Trebeľovce,Lučenec,903
+3578,Trebichava,Bánovce nad Bebravou,43
+3579,Trebišov,Trebišov,24649
+3580,Trebostovo,Martin,592
+3581,Trebušovce,Veľký Krtíš,182
+3582,Trenč,Lučenec,539
+3583,Trenčianska_Teplá,Trenčín,4244
+3584,Trenčianska_Turná,Trenčín,3485
+3585,Trenčianska_Závada,Trenčín,6414
+3586,Trenčianske_Bohuslavice,Nové Mesto nad Váhom,928
+3587,Trenčianske_Jastrabie,Trenčín,1250
+3588,Trenčianske_Mitice,Trenčín,781
+3589,Trenčianske_Stankovce,Trenčín,3351
+3590,Trenčianske_Teplice,Trenčín,4162
+3591,Trenčín,Trenčín,55383
+3592,Trhová_Hradská,Dunajská Streda,2158
+3593,Trhovište,Michalovce,2046
+3594,Trhyňa,Levice,NaN
+3595,Trnava,Trnava,65033
+3596,Trnavá_Hora,Žiar nad Hronom,1248
+3597,Trnava_pri_Laborci,Michalovce,570
+3598,Trnávka,Trebišov,190
+3599,Trnávka,Trenčín,NaN
+3600,Trnávka,Dunajská Streda,504
+3601,Tŕnie,Zvolen,422
+3602,Trnkov,Prešov,247
+3603,Trnové,Žilina,2555
+3604,Trnovec,Skalica,300
+3605,Trnovec_nad_Váhom,Šaľa,2703
+3606,Trnovo,Martin,275
+3607,Tročany,Bardejov,294
+3608,Trojačka,Čadca,NaN
+3609,Trpín,Krupina,110
+3610,Trsťany,Košice-okolie,297
+3611,Trsťany,Spišská Nová Ves,297
+3612,Trstená,Tvrdošín,7360
+3613,Trstená_na_Ostrove,Dunajská Streda,573
+3614,Trstené,Liptovský Mikuláš,222
+3615,Trstené_pri_Hornáde,Košice-okolie,1559
+3616,Trstice,Galanta,3775
+3617,Tŕstie,Považská Bystrica,NaN
+3618,Trstín,Trnava,1439
+3619,Trubín,Žiar nad Hronom,349
+3620,Tuhár,Lučenec,344
+3621,Tuhrina,Prešov,490
+3622,Tuchyňa,Ilava,792
+3623,Tulčík,Prešov,1320
+3624,Tunežice,Ilava,NaN
+3625,Tupá,Levice,571
+3626,Turá,Levice,204
+3627,Turá_Lúka,Myjava,NaN
+3628,Turany,Martin,4278
+3629,Turany_nad_Ondavou,Stropkov,366
+3630,Turcovce,Humenné,310
+3631,Turček,Turčianske Teplice,617
+3632,Turčianky,Partizánske,144
+3633,Turčianska_Štiavnička,Martin,940
+3634,Turčianske_Jaseno,Martin,410
+3635,Turčianske_Kľačany,Martin,989
+3636,Turčianske_Teplice,Turčianske Teplice,6330
+3637,Turčiansky_Ďur,Martin,172
+3638,Turčiansky_Michal,Turčianske Teplice,NaN
+3639,Turčiansky_Peter,Martin,512
+3640,Turčok,Revúca,282
+3641,Turecká,Banská Bystrica,NaN
+3642,Tureň,Senec,1161
+3643,Turíčky,Poltár,NaN
+3644,Turie,Žilina,2036
+3645,Turík,Ružomberok,254
+3646,Turkov,Čadca,NaN
+3647,Turňa_nad_Bodvou,Košice-okolie,3646
+3648,Turnianska_Nová_Ves,Košice-okolie,321
+3649,Turová,Zvolen,424
+3650,Turzovka,Čadca,7515
+3651,Tušice,Michalovce,669
+3652,Tušická_Nová_Ves,Michalovce,532
+3653,Tužina,Prievidza,1204
+3654,Tvarožná,Liptovský Mikuláš,NaN
+3655,Tvarožná,Kežmarok,721
+3656,Tvrdomestice,Topoľčany,451
+3657,Tvrdošín,Tvrdošín,9201
+3658,Tvrdošovce,Nové Zámky,5082
+3659,U_Hluška,Čadca,NaN
+3660,U_Holých,Čadca,NaN
+3661,U_Kľukov,Čadca,NaN
+3662,U_Kordišov,Čadca,NaN
+3663,U_Polievkov,Čadca,NaN
+3664,U_Rulcov,Čadca,NaN
+3665,U_Siheľnika,Čadca,NaN
+3666,Ubľa,Snina,773
+3667,Úbrež,Sobrance,852
+3668,Udavské,Humenné,1221
+3669,Uderiná,Lučenec,2003
+3670,Udiča,Považská Bystrica,2241
+3671,Udička,Považská Bystrica,NaN
+3672,Údol,Stará Ľubovňa,369
+3673,Uhliská,Levice,184
+3674,Úhorná,Gelnica,139
+3675,Uhorská_Ves,Liptovský Mikuláš,500
+3676,Uhorské,Poltár,516
+3677,Uhrovec,Bánovce nad Bebravou,NaN
+3678,Uhrovské_Podhradie,Bánovce nad Bebravou,35
+3679,Újazd,Trenčín,NaN
+3680,Uľanka,Banská Bystrica,NaN
+3681,Úľany_nad_Žitavou,Nové Zámky,1533
+3682,Ulič,Snina,841
+3683,Uličské_Krivé,Snina,243
+3684,Uloža,Levoča,203
+3685,Uňatín,Krupina,184
+3686,Unín,Skalica,1223
+3687,Upohlav,Považská Bystrica,NaN
+3688,Úpor,Trebišov,NaN
+3689,Urmince,Topoľčany,1409
+3690,Ústie_nad_Priehradou,Tvrdošín,NaN
+3691,Úsvit,Poprad,NaN
+3692,Utekáč,Poltár,923
+3693,Uzovce,Sabinov,539
+3694,Uzovská_Panica,Rimavská Sobota,824
+3695,Uzovské_Pekľany,Sabinov,483
+3696,Uzovský_Šalgov,Sabinov,632
+3697,Vaďovce,Nové Mesto nad Váhom,726
+3698,Vagrinec,Svidník,121
+3699,Váhovce,Galanta,2095
+3700,Vajka_nad_Žitavou,Nitra,NaN
+3701,Vajkovce,Košice-okolie,964
+3702,Vajsková,Brezno,NaN
+3703,Valaliky,Košice-okolie,4583
+3704,Valaská,Brezno,3627
+3705,Valaská_Belá,Prievidza,2079
+3706,Valaská_Dubová,Ružomberok,786
+3707,Valaškovce,Humenné,NaN
+3708,Valča,Martin,1763
+3709,Valentová,Martin,NaN
+3710,Valentová,Banská Bystrica,NaN
+3711,Valentovce,Medzilaborce,44
+3712,Valice,Rimavská Sobota,317
+3713,Valkovce,Svidník,206
+3714,Vaľkovňa,Brezno,437
+3715,Vaľkovo,Poltár,464
+3716,Vaniškovce,Bardejov,371
+3717,Vaňovka,Námestovo,NaN
+3718,Vápeník,Svidník,38
+3719,Varadka,Bardejov,228
+3720,Varechovce,Stropkov,149
+3721,Varhaňovce,Prešov,1516
+3722,Varín,Žilina,3859
+3723,Varov_Šúr,Trnava,NaN
+3724,Vasiľov,Námestovo,826
+3725,Vavrečka,Námestovo,1581
+3726,Vavrinec,Vranov nad Topľou,55
+3727,Vavrišovo,Liptovský Mikuláš,690
+3728,Važec,Liptovský Mikuláš,2415
+3729,Včeláre,Košice-okolie,NaN
+3730,Včelince,Rimavská Sobota,813
+3731,Včelinec,Rimavská Sobota,NaN
+3732,Véč,Trebišov,NaN
+3733,Večelkov,Rimavská Sobota,228
+3734,Vechec,Vranov nad Topľou,3009
+3735,Vék,Komárno,NaN
+3736,Veľaty,Trebišov,820
+3737,Velčice,Trenčín,NaN
+3738,Velčice,Zlaté Moravce,838
+3739,Veličná,Dolný Kubín,1338
+3740,Veľká,Poprad,NaN
+3741,Veľká_Bara,Trebišov,NaN
+3742,Veľká_Budafa,Dunajská Streda,NaN
+3743,Veľká_Bytča,Bytča,NaN
+3744,Veľká_Čalomija,Veľký Krtíš,587
+3745,Veľká_Čausa,Prievidza,498
+3746,Veľká_Čierna,Žilina,354
+3747,Veľká_Dolina,Nitra,687
+3748,Veľká_Dolina,Lučenec,687
+3749,Veľká_Franková,Kežmarok,330
+3750,Veľká_Gúta,Komárno,NaN
+3751,Veľká_Hradná,Trenčín,749
+3752,Veľká_Ida,Košice-okolie,3867
+3753,Veľká_Lehota,Žarnovica,1087
+3754,Veľká_Lehota,Prievidza,1087
+3755,Veľká_Lesná,Stará Ľubovňa,498
+3756,Veľká_Lodina,Košice-okolie,305
+3757,Veľká_Lomnica,Kežmarok,4983
+3758,Veľká_Lúč,Dunajská Streda,NaN
+3759,Veľká_Lúka,Zvolen,796
+3760,Veľká_Mača,Galanta,2538
+3761,Veľká_Maňa,Nové Zámky,NaN
+3762,Veľká_nad_Ipľom,Lučenec,921
+3763,Veľká_Paka,Dunajská Streda,963
+3764,Veľká_Suchá,Poltár,NaN
+3765,Veľká_Tŕňa,Trebišov,445
+3766,Veľká_Ves,Nitra,441
+3767,Veľká_Ves,Poltár,441
+3768,Veľká_Ves_nad_Ipľom,Veľký Krtíš,395
+3769,Veľké_Bedzany,Topoľčany,NaN
+3770,Veľké_Bielice,Partizánske,22269
+3771,Veľké_Bierovce,Trenčín,716
+3772,Veľké_Blahovo,Dunajská Streda,1583
+3773,Veľké_Borové,Liptovský Mikuláš,46
+3774,Veľké_Dálovce,Lučenec,NaN
+3775,Veľké_Dravce,Lučenec,708
+3776,Veľké_Držkovce,Bánovce nad Bebravou,35
+3777,Veľké_Dvorany,Topoľčany,736
+3778,Veľké_Dvorníky,Dunajská Streda,1322
+3779,Veľké_Hoste,Bánovce nad Bebravou,567
+3780,Veľké_Chlievany,Bánovce nad Bebravou,501
+3781,Veľké_Chyndice,Nitra,325
+3782,Veľké_Kapušany,Michalovce,8862
+3783,Veľké_Kosihy,Komárno,950
+3784,Veľké_Kostoľany,Piešťany,2778
+3785,Veľké_Košecké_Podhradie,Ilava,NaN
+3786,Veľké_Kozmálovce,Levice,698
+3787,Veľké_Krškany,Levice,NaN
+3788,Veľké_Kršteňany,Partizánske,598
+3789,Veľké_Leváre,Malacky,3617
+3790,Veľké_Lovce,Nové Zámky,1838
+3791,Veľké_Ludince,Levice,1443
+3792,Veľké_Orvište,Piešťany,1068
+3793,Veľké_Ostratice,Partizánske,NaN
+3794,Veľké_Ozorovce,Trebišov,755
+3795,Veľké_Pole,Žarnovica,431
+3796,Veľké_Raškovce,Michalovce,295
+3797,Veľké_Revištia,Sobrance,524
+3798,Veľké_Ripňany,Topoľčany,2042
+3799,Veľké_Rovné,Bytča,3750
+3800,Veľké_Slemence,Michalovce,567
+3801,Veľké_Stankovce,Trenčín,NaN
+3802,Veľké_Straciny,Veľký Krtíš,177
+3803,Veľké_Teriakovce,Rimavská Sobota,831
+3804,Veľké_Trakany,Trebišov,1439
+3805,Veľké_Turovce,Levice,759
+3806,Veľké_Uherce,Partizánske,2017
+3807,Veľké_Úľany,Galanta,4689
+3808,Veľké_Vozokany,Zlaté Moravce,457
+3809,Veľké_Zalužice,Michalovce,NaN
+3810,Veľké_Zálužie,Nitra,4238
+3811,Veľké_Zlievce,Veľký Krtíš,503
+3812,Veľkrop,Stropkov,245
+3813,Veľký_Báb,Nitra,NaN
+3814,Veľký_Biel,Senec,2850
+3815,Veľký_Blh,Rimavská Sobota,1182
+3816,Veľký_Bysterec,Dolný Kubín,NaN
+3817,Veľký_Cetín,Nitra,1545
+3818,Veľký_Čepčín,Turčianske Teplice,252
+3819,Veľký_Ďur,Levice,1254
+3820,Veľký_Dvor,Levice,NaN
+3821,Veľký_Folkmar,Gelnica,903
+3822,Veľký_Grob,Galanta,1368
+3823,Veľký_Harčáš,Komárno,NaN
+3824,Veľký_Horeš,Trebišov,1045
+3825,Veľký_Kamenec,Trebišov,756
+3826,Veľký_Klíž,Partizánske,907
+3827,Veľký_Kolačín,Ilava,NaN
+3828,Veľký_Krtíš,Veľký Krtíš,11755
+3829,Veľký_Kýr,Nové Zámky,2965
+3830,Veľký_Lapáš,Nitra,1739
+3831,Veľký_Lég,Dunajská Streda,NaN
+3832,Veľký_Lél,Komárno,NaN
+3833,Veľký_Lipník,Stará Ľubovňa,NaN
+3834,Veľký_Lom,Veľký Krtíš,162
+3835,Veľký_Meder,Dunajská Streda,8612
+3836,Veľký_Ostrov,Komárno,NaN
+3837,Veľký_Pesek,Levice,NaN
+3838,Veľký_Ruskov,Trebišov,NaN
+3839,Veľký_Slavkov,Poprad,1462
+3840,Veľký_Slivník,Prešov,326
+3841,Veľký_Šariš,Prešov,6426
+3842,Veľopolie,Humenné,363
+3843,Velušovce,Topoľčany,487
+3844,Vernár,Poprad,581
+3845,Veselá,Levice,NaN
+3846,Veselé,Piešťany,1234
+3847,Veterná_Poruba,Liptovský Mikuláš,380
+3848,Vidiná,Lučenec,1775
+3849,Vidov_Vrch,Zvolen,NaN
+3850,Vidová,Rožňava,NaN
+3851,Vidovany,Skalica,NaN
+3852,Vieska,Skalica,NaN
+3853,Vieska,Nové Mesto nad Váhom,NaN
+3854,Vieska,Dunajská Streda,408
+3855,Vieska,Žiar nad Hronom,NaN
+3856,Vieska,Prievidza,NaN
+3857,Vieska,Veľký Krtíš,211
+3858,Vieska_-_Bezdedov,Púchov,NaN
+3859,Vieska_nad_Blhom,Rimavská Sobota,176
+3860,Vieska_nad_Žitavou,Zlaté Moravce,458
+3861,Vígľaš,Detva,1588
+3862,Vígľašská_Huta,Detva,NaN
+3863,Vikartovce,Poprad,1887
+3864,Vinica,Veľký Krtíš,1778
+3865,Vinice,Rimavská Sobota,NaN
+3866,Viničky,Trebišov,493
+3867,Viničné,Pezinok,2577
+3868,Vinné,Michalovce,1895
+3869,Vinodol,Nitra,2005
+3870,Vinohrádok,Malacky,NaN
+3871,Vinohrady_nad_Váhom,Galanta,1595
+3872,Vinosady,Pezinok,1416
+3873,Violín,Komárno,NaN
+3874,Virt,Komárno,303
+3875,Vislanka,Stará Ľubovňa,258
+3876,Vislava,Stropkov,184
+3877,Visolaje,Púchov,965
+3878,Višňov,Trebišov,245
+3879,Višňové,Žilina,2914
+3880,Višňové,Bytča,NaN
+3881,Višňové,Nové Mesto nad Váhom,170
+3882,Višňové,Revúca,70
+3883,Vištuk,Pezinok,1357
+3884,Vitálišovce,Liptovský Mikuláš,NaN
+3885,Vitanová,Tvrdošín,1341
+3886,Víťaz,Prešov,2018
+3887,Víťazovce,Humenné,307
+3888,Vítkovce,Spišská Nová Ves,592
+3889,Vlača,Vranov nad Topľou,224
+3890,Vladiča,Stropkov,66
+3891,Vlachovo,Rožňava,806
+3892,Vlachy,Liptovský Mikuláš,609
+3893,Vlašky,Liptovský Mikuláš,NaN
+3894,Vlčany,Šaľa,3220
+3895,Vlčí_Vrch,Trenčín,NaN
+3896,Vlčkovany,Skalica,NaN
+3897,Vlčkovce,Trnava,1385
+3898,Vlčkovo,Bánovce nad Bebravou,NaN
+3899,Vlčovo,Poltár,NaN
+3900,Vlkanová,Banská Bystrica,1318
+3901,Vlkanovo,Komárno,NaN
+3902,Vlkas,Nové Zámky,327
+3903,Vlkolínec,Ružomberok,NaN
+3904,Vlkov,Považská Bystrica,NaN
+3905,Vlková,Kežmarok,835
+3906,Vlkovce,Kežmarok,481
+3907,Vlky,Senec,405
+3908,Vlkyňa,Rimavská Sobota,391
+3909,Voderady,Trnava,1588
+3910,Vojany,Michalovce,897
+3911,Vojčice,Trebišov,2172
+3912,Vojka,Trebišov,496
+3913,Vojka_nad_Dunajom,Dunajská Streda,454
+3914,Vojkovce,Spišská Nová Ves,419
+3915,Vojňany,Kežmarok,307
+3916,Vojnatina,Sobrance,239
+3917,Vojtechovce,Dunajská Streda,NaN
+3918,Vojtovce,Stropkov,102
+3919,Vojty,Čadca,NaN
+3920,Voľa,Michalovce,266
+3921,Volica,Medzilaborce,271
+3922,Volkovce,Zlaté Moravce,1001
+3923,Voznica,Žarnovica,649
+3924,Vozokany,Galanta,1174
+3925,Vozokany,Topoľčany,358
+3926,Vozokany_nad_Hronom,Levice,1476
+3927,Vráble,Nitra,8551
+3928,Vrádište,Skalica,828
+3929,Vrakúň,Dunajská Streda,2735
+3930,Vranie,Žilina,736
+3931,Vranov,Vranov nad Topľou,NaN
+3932,Vranov_nad_Topľou,Vranov nad Topľou,22245
+3933,Vrbany,Prievidza,NaN
+3934,Vrbina,Dunajská Streda,NaN
+3935,Vrbnica,Michalovce,1187
+3936,Vrbov,Kežmarok,1546
+3937,Vrbová_nad_Váhom,Komárno,528
+3938,Vrbovce,Myjava,1491
+3939,Vrbovce_nad_Rimavou,Rimavská Sobota,NaN
+3940,Vrbové,Piešťany,5907
+3941,Vŕbovec,Michalovce,NaN
+3942,Vrbovka,Veľký Krtíš,329
+3943,Vrchdobroč,Detva,NaN
+3944,Vrchpredmier,Čadca,NaN
+3945,Vrchrieka,Čadca,NaN
+3946,Vrchslatina,Brezno,NaN
+3947,Vrchteplá,Považská Bystrica,263
+3948,Vrícko,Martin,455
+3949,Vršatské_Podhradie,Ilava,220
+3950,Vrtižer,Považská Bystrica,NaN
+3951,Vrútky,Martin,7748
+3952,Všechsvätých,Košice-okolie,NaN
+3953,Vtáčkovce,Košice-okolie,1196
+3954,Výborná,Kežmarok,1286
+3955,Vybúchanec,Michalovce,NaN
+3956,Výčapky,Nitra,NaN
+3957,Výčapy_-_Opatovce,Nitra,NaN
+3958,Vydraň,Medzilaborce,NaN
+3959,Vydrany,Dunajská Streda,1725
+3960,Vydrná,Púchov,303
+3961,Vydrník,Poprad,1265
+3962,Vydrovo,Brezno,NaN
+3963,Vydumanec,Prešov,NaN
+3964,Vyhne,Žiar nad Hronom,1167
+3965,Východná,Liptovský Mikuláš,NaN
+3966,Vychylovka,Čadca,NaN
+3967,Výrava,Medzilaborce,179
+3968,Vysielač,Prešov,NaN
+3969,Vysocký_Dvor,Michalovce,NaN
+3970,Vysočany,Bánovce nad Bebravou,110
+3971,Vysoká,Sabinov,121
+3972,Vysoká,Banská Štiavnica,144
+3973,Vysoká_nad_Kysucou,Čadca,2620
+3974,Vysoká_nad_Uhom,Michalovce,796
+3975,Vysoká_pri_Morave,Malacky,2301
+3976,Vysoké_Tatry,Poprad,NaN
+3977,Vyšehradné,Prievidza,NaN
+3978,Vyškovce,Stropkov,126
+3979,Vyškovce_nad_Ipľom,Levice,652
+3980,Vyšná_Boca,Liptovský Mikuláš,101
+3981,Vyšná_Hutka,Košice-okolie,493
+3982,Vyšná_Jablonka,Humenné,52
+3983,Vyšná_Jedľová,Svidník,183
+3984,Vyšná_Kaloša,Rimavská Sobota,NaN
+3985,Vyšná_Kamenica,Košice-okolie,323
+3986,Vyšná_Korňa,Čadca,NaN
+3987,Vyšná_Myšľa,Košice-okolie,966
+3988,Vyšná_Olšava,Stropkov,640
+3989,Vyšná_Pisaná,Svidník,68
+3990,Vyšná_Pokoradz,Rimavská Sobota,NaN
+3991,Vyšná_Polianka,Bardejov,109
+3992,Vyšná_Revúca,Ružomberok,NaN
+3993,Vyšná_Rybnica,Sobrance,376
+3994,Vyšná_Sitnica,Humenné,355
+3995,Vyšná_Slaná,Rožňava,463
+3996,Vyšná_Šebastová,Prešov,1315
+3997,Vyšná_Vladiča,Stropkov,NaN
+3998,Vyšná_Voľa,Bardejov,393
+3999,Vyšné_Hágy,Poprad,366
+4000,Vyšné_Ladičkovce,Humenné,185
+4001,Vyšné_Matiašovce,Liptovský Mikuláš,NaN
+4002,Vyšné_nad_Hronom,Levice,174
+4003,Vyšné_Nemecké,Sobrance,241
+4004,Vyšné_Raslavice,Bardejov,NaN
+4005,Vyšné_Remety,Sobrance,415
+4006,Vyšné_Repaše,Levoča,89
+4007,Vyšné_Revištia,Sobrance,NaN
+4008,Vyšné_Ružbachy,Stará Ľubovňa,1438
+4009,Vyšné_Valice,Rimavská Sobota,264
+4010,Vyšný_Čaj,Košice-okolie,279
+4011,Vyšný_Hrabovec,Stropkov,186
+4012,Vyšný_Hrušov,Humenné,505
+4013,Vyšný_Kazimír,Vranov nad Topľou,187
+4014,Vyšný_Kelčov,Čadca,NaN
+4015,Vyšný_Klátov,Košice-okolie,450
+4016,Vyšný_Komárnik,Svidník,78
+4017,Vyšný_Koniec,Čadca,NaN
+4018,Vyšný_Kručov,Bardejov,156
+4019,Vyšný_Kubín,Dolný Kubín,787
+4020,Vyšný_Lánec,Košice-okolie,NaN
+4021,Vyšný_Medzev,Košice-okolie,513
+4022,Vyšný_Mirošov,Svidník,598
+4023,Vyšný_Orlík,Svidník,363
+4024,Vyšný_Skálnik,Rimavská Sobota,142
+4025,Vyšný_Slavkov,Levoča,262
+4026,Vyšný_Sliač,Ružomberok,NaN
+4027,Vyšný_Tvarožec,Bardejov,121
+4028,Vyšný_Žipov,Vranov nad Topľou,1147
+4029,Zábiedovo,Tvrdošín,868
+4030,Záblatie,Trenčín,NaN
+4031,Záborie,Martin,168
+4032,Záborské,Prešov,1003
+4033,Zábrež,Dolný Kubín,NaN
+4034,Zabudišová,Nové Mesto nad Váhom,NaN
+4035,Zádiel,Liptovský Mikuláš,159
+4036,Zádiel,Košice-okolie,159
+4037,Zadné_Halny,Brezno,NaN
+4038,Zádor,Rimavská Sobota,150
+4039,Zádubnie,Žilina,744
+4040,Zahájnica,Gelnica,NaN
+4041,Záhor,Sobrance,635
+4042,Záhorce,Veľký Krtíš,653
+4043,Záhorčie,Žarnovica,NaN
+4044,Záhorie,Malacky,NaN
+4045,Záhorská_Ves,Malacky,1870
+4046,Záhrada,Topoľčany,NaN
+4047,Záhradné,Prešov,1059
+4048,Záhrb,Žarnovica,NaN
+4049,Zacharovce,Rimavská Sobota,382
+4050,Zaježová,Zvolen,NaN
+4051,Zákamenné,Námestovo,5510
+4052,Zákopčie,Čadca,1759
+4053,Zákysučie,Čadca,NaN
+4054,Zalaba,Levice,177
+4055,Zálesie,Kežmarok,83
+4056,Zálesie,Senec,2144
+4057,Zalužice,Michalovce,1173
+4058,Zamarovce,Trenčín,1141
+4059,Zámostie,Brezno,NaN
+4060,Zámutov,Vranov nad Topľou,3277
+4061,Zapriechody,Detva,NaN
+4062,Zárieč_-_Keblov,Žilina,NaN
+4063,Záriečie,Púchov,695
+4064,Záskalie,Považská Bystrica,194
+4065,Záskalie,Dolný Kubín,NaN
+4066,Zástranie,Žilina,940
+4067,Zatín,Trebišov,773
+4068,Zátoka,Čadca,NaN
+4069,Záturčie,Martin,NaN
+4070,Závada,Levoča,NaN
+4071,Závada,Humenné,64
+4072,Závada,Zlaté Moravce,NaN
+4073,Závada,Topoľčany,596
+4074,Závada,Veľký Krtíš,460
+4075,Závada_pod_Čiernym_vrchom,Bánovce nad Bebravou,NaN
+4076,Závadka,Gelnica,627
+4077,Závadka,Humenné,538
+4078,Závadka,Michalovce,441
+4079,Závadka,Prešov,NaN
+4080,Závadka_nad_Hronom,Brezno,2317
+4081,Zavar,Trnava,2230
+4082,Závažná_Poruba,Liptovský Mikuláš,1268
+4083,Závod,Malacky,2862
+4084,Závodie,Žilina,NaN
+4085,Závodie,Čadca,NaN
+4086,Závodie,Stará Ľubovňa,NaN
+4087,Zázrivá,Dolný Kubín,2615
+4088,Zbehňov,Trebišov,360
+4089,Zbehy,Myjava,2249
+4090,Zbehy,Nitra,2249
+4091,Zboj,Snina,294
+4092,Zbojné,Medzilaborce,165
+4093,Zbora,Púchov,NaN
+4094,Zborov,Bardejov,3571
+4095,Zborov_nad_Bystricou,Čadca,2215
+4096,Zbrojníky,Levice,508
+4097,Zbudská_Belá,Medzilaborce,116
+4098,Zbudské_Dlhé,Humenné,761
+4099,Zbudza,Michalovce,521
+4100,Zbyňov,Žilina,873
+4101,Zdoba,Košice-okolie,NaN
+4102,Zelené,Poltár,NaN
+4103,Zeleneč,Trnava,2576
+4104,Zelený_Háj,Komárno,NaN
+4105,Zemianska_Dedina,Tvrdošín,NaN
+4106,Zemianska_Olča,Komárno,2308
+4107,Zemianska_Závada,Považská Bystrica,NaN
+4108,Zemianske_Kostoľany,Prievidza,1752
+4109,Zemianske_Lieskové,Trenčín,NaN
+4110,Zemianske_Mitice,Trenčín,NaN
+4111,Zemianske_Podhradie,Nové Mesto nad Váhom,774
+4112,Zemianske_Sady,Galanta,866
+4113,Zemiansky_Kvašov,Považská Bystrica,241
+4114,Zemiansky_Vrbovok,Krupina,84
+4115,Zemné,Nové Zámky,2152
+4116,Zemplín,Trebišov,368
+4117,Zemplínska_Nová_Ves,Trebišov,863
+4118,Zemplínska_Šírava,Michalovce,NaN
+4119,Zemplínska_Široká,Michalovce,953
+4120,Zemplínska_Teplica,Trebišov,1754
+4121,Zemplínske_Hámre,Snina,1261
+4122,Zemplínske_Hradište,Trebišov,1154
+4123,Zemplínske_Jastrabie,Trebišov,652
+4124,Zemplínske_Kopčany,Michalovce,470
+4125,Zemplínsky_Branč,Trebišov,508
+4126,Zemplínsky_Klečenov,Trebišov,863
+4127,Zimná_Studňa,Prešov,NaN
+4128,Zlámaná,Čadca,NaN
+4129,Zlatá_Baňa,Prešov,466
+4130,Zlatá_Idka,Košice-okolie,396
+4131,Zlatá_Osada,Komárno,NaN
+4132,Zlaté,Bardejov,774
+4133,Zlaté_Klasy,Dunajská Streda,3516
+4134,Zlaté_Moravce,Zlaté Moravce,11375
+4135,Zlatná_na_Ostrove,Komárno,2364
+4136,Zlatník,Vranov nad Topľou,74
+4137,Zlatníky,Bánovce nad Bebravou,682
+4138,Zlatno,Zlaté Moravce,211
+4139,Zlatno,Brezno,NaN
+4140,Zlatno,Poltár,472
+4141,Zlatovce,Trenčín,NaN
+4142,Zliechov,Ilava,592
+4143,Zobor,Nitra,NaN
+4144,Zohor,Malacky,3380
+4145,Zolná,Zvolen,NaN
+4146,Zombor,Veľký Krtíš,145
+4147,Zubák,Púchov,NaN
+4148,Zuberec,Tvrdošín,1835
+4149,Zubné,Humenné,353
+4150,Zubria,Detva,NaN
+4151,Zubrohlava,Námestovo,2359
+4152,Zvolen,Zvolen,42167
+4153,Zvolenská_Slatina,Zvolen,2832
+4154,Zvončín,Trnava,864
+4155,Žabany,Michalovce,NaN
+4156,Žabica,Detva,NaN
+4157,Žabokreky,Martin,1225
+4158,Žabokreky_nad_Nitrou,Partizánske,1739
+4159,Žadovica,Myjava,NaN
+4160,Žakarovce,Gelnica,716
+4161,Žakovce,Kežmarok,907
+4162,Žakýl,Banská Štiavnica,NaN
+4163,Žalobín,Vranov nad Topľou,855
+4164,Žarnov,Bytča,NaN
+4165,Žarnov,Košice-okolie,418
+4166,Žarnovica,Žarnovica,6170
+4167,Žarnovická_Huta,Žarnovica,NaN
+4168,Žaškov,Dolný Kubín,1590
+4169,Žatkovce,Prešov,NaN
+4170,Žbince,Michalovce,991
+4171,Ždaňa,Košice-okolie,1416
+4172,Ždiar,Poprad,1378
+4173,Žehňa,Prešov,1270
+4174,Žehra,Spišská Nová Ves,2498
+4175,Železná_Breznica,Zvolen,550
+4176,Železník,Revúca,469
+4177,Železník,Svidník,469
+4178,Železnô,Liptovský Mikuláš,NaN
+4179,Želiezovce,Levice,6746
+4180,Želmanovce,Svidník,331
+4181,Želobudza,Detva,NaN
+4182,Želovce,Veľký Krtíš,1215
+4183,Žemberovce,Levice,1264
+4184,Žemliare,Levice,151
+4185,Žiar,Liptovský Mikuláš,468
+4186,Žiar,Revúca,126
+4187,Žiar_nad_Hronom,Žiar nad Hronom,18852
+4188,Žibritov,Krupina,61
+4189,Žihárec,Šaľa,1720
+4190,Žihľava,Poltár,NaN
+4191,Žihľava,Veľký Krtíš,NaN
+4192,Žikava,Zlaté Moravce,535
+4193,Žilina,Žilina,80727
+4194,Žilinská_Lehota,Žilina,322
+4195,Žíp,Rimavská Sobota,277
+4196,Žipov,Prešov,303
+4197,Žirany,Nitra,1351
+4198,Žírovce,Košice-okolie,NaN
+4199,Žitava,Komárno,NaN
+4200,Žitavany,Zlaté Moravce,1869
+4201,Žitavce,Nitra,396
+4202,Žitná,Bánovce nad Bebravou,NaN
+4203,Žitná_-_Radiša,Bánovce nad Bebravou,NaN
+4204,Žlkovce,Hlohovec,660
+4205,Žrnové,Považská Bystrica,NaN
+4206,Župčany,Prešov,1690
+4207,Župkov,Žarnovica,873
